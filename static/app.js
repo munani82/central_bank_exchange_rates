@@ -1,21 +1,19 @@
-
-// 정적 Jamstack 및 Vercel 배포를 위한 스마트 데이터 로더
+// 글로벌 중앙은행 공식 고시환율 인텔리전스 엔진 (Vercel Jamstack & 로컬 완벽 지원)
 let _allRatesCache = null;
 let _monthlyCache = null;
 let _historyCache = null;
+let _latestCache = null;
 
-async function fetchWithFallback(apiUrl, staticUrl) {
+// 정적 데이터 안전 로더
+async function loadJsonSafe(url) {
   try {
-    const res = await fetch(apiUrl);
-    if (res.ok) {
-      const json = await res.json();
-      if (json && json.status === "success") return json;
-    }
-  } catch (e) {
-    // API 서버가 없는 정적 호스팅 환경인 경우 fallback
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    return await res.json();
+  } catch (err) {
+    console.warn("데이터 로드 실패 (" + url + "):", err);
+    return null;
   }
-  const staticRes = await fetch(staticUrl);
-  return await staticRes.json();
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -112,21 +110,31 @@ function initTabs() {
     refreshBtn.addEventListener("click", () => {
       refreshBtn.style.transform = "rotate(180deg)";
       setTimeout(() => { refreshBtn.style.transform = "none"; }, 400);
+      _latestCache = null;
       loadLatestRates();
     });
   }
 }
 
-// 2. 6개국 당일 최신 환율 로드 및 프리미엄 카드 렌더링
+// 2. 6개국 당일 최신 환율 로드 및 카드 렌더링
 async function loadLatestRates() {
   const grid = document.getElementById("latest_cards_grid");
+  if (!grid) return;
+
   try {
-    const json = await fetchWithFallback("/api/refresh", "data/latest_rates.json");
-    if (json.status !== "success" || !json.data) return;
+    let json = _latestCache;
+    if (!json) {
+      json = await loadJsonSafe("data/latest_rates.json");
+      if (!json) json = await loadJsonSafe("/static/data/latest_rates.json");
+      _latestCache = json;
+    }
+
+    if (!json || json.status !== "success" || !json.data) {
+      grid.innerHTML = `<div class="cell_empty">최신 고시환율 데이터를 불러오는 중입니다...</div>`;
+      return;
+    }
 
     grid.innerHTML = "";
-
-    // 국가 우선 정렬 순서: 한국, 중국, 베트남, 인도네시아, 폴란드, 이집트
     const sortOrder = ["Korea", "China", "Vietnam", "Indonesia", "Poland", "Egypt"];
     const sortedData = json.data.sort((a, b) => {
       const idxA = sortOrder.indexOf(a.country);
@@ -214,7 +222,6 @@ function initPeriodCalculator() {
     });
   }
 
-  // 프리셋 버튼 이벤트 처리
   const presetChips = document.querySelectorAll(".chip_btn");
   presetChips.forEach(btn => {
     btn.addEventListener("click", () => {
@@ -227,7 +234,6 @@ function initPeriodCalculator() {
     });
   });
 
-  // 초기 로드 시 2026년 YTD 자동 실행
   executePeriodCalculation("2026_01_01", "2026_09_16");
 }
 
@@ -252,15 +258,15 @@ function applyDatePreset(type) {
     startDate = new Date(2025, 8, 16);
   }
 
-  startInput.value = formatDateForPicker(startDate);
-  endInput.value = formatDateForPicker(baseEnd);
-}
+  const y1 = startDate.getFullYear();
+  const m1 = String(startDate.getMonth() + 1).padStart(2, "0");
+  const d1 = String(startDate.getDate()).padStart(2, "0");
+  const y2 = baseEnd.getFullYear();
+  const m2 = String(baseEnd.getMonth() + 1).padStart(2, "0");
+  const d2 = String(baseEnd.getDate()).padStart(2, "0");
 
-function formatDateForPicker(d) {
-  const y = d.getFullYear();
-  const m = String(d.getMonth() + 1).padStart(2, "0");
-  const day = String(d.getDate()).padStart(2, "0");
-  return `${y}-${m}-${day}`;
+  startInput.value = `${y1}-${m1}-${d1}`;
+  endInput.value = `${y2}-${m2}-${d2}`;
 }
 
 async function executePeriodCalculation(startStr, endStr) {
@@ -274,101 +280,63 @@ async function executePeriodCalculation(startStr, endStr) {
   }
 
   try {
-    let json = null;
-    try {
-      const res = await fetch(`/api/period_average?start=${sNorm}&end=${eNorm}`);
-      if (res.ok) {
-        json = await res.json();
-      }
-    } catch (e) {
-      json = null;
+    if (!_allRatesCache) {
+      let json = await loadJsonSafe("data/all_rates.json");
+      if (!json) json = await loadJsonSafe("/static/data/all_rates.json");
+      _allRatesCache = (json && json.data) ? json.data : [];
     }
 
-    if (!json || json.status !== "success") {
-      // 정적 호스팅(Vercel) 환경: all_rates.json을 사용하여 브라우저에서 직접 계산
-      if (!_allRatesCache) {
-        const staticRes = await fetch("data/all_rates.json");
-        const staticJson = await staticRes.json();
-        _allRatesCache = staticJson.data || [];
-      }
-      
-      const filtered = _allRatesCache.filter(item => {
-        const d = (item.date || "").replace(/-/g, "_");
-        return d >= sNorm && d <= eNorm;
-      });
-
-      const grouped = {};
-      filtered.forEach(item => {
-        if (!grouped[item.country]) {
-          grouped[item.country] = {
-            country: item.country,
-            currency: item.currency,
-            currency_name: item.currency_name || item.currency,
-            rates: []
-          };
-        }
-        grouped[item.country].rates.push(Number(item.rate));
-      });
-
-      const calculatedData = Object.values(grouped).map(g => {
-        const count = g.rates.length;
-        const sum = g.rates.reduce((a, b) => a + b, 0);
-        const avg = count > 0 ? (sum / count) : 0;
-        const min = count > 0 ? Math.min(...g.rates) : 0;
-        const max = count > 0 ? Math.max(...g.rates) : 0;
-        return {
-          country: g.country,
-          currency: g.currency,
-          currency_name: g.currency_name,
-          data_points: count,
-          period_avg: Number(avg.toFixed(4)),
-          period_min: Number(min.toFixed(4)),
-          period_max: Number(max.toFixed(4))
-        };
-      });
-
-      json = { status: "success", count: calculatedData.length, data: calculatedData };
-    }
-    if (!json || json.status !== "success" || !json.data) return;
+    const filtered = _allRatesCache.filter(item => {
+      const d = (item.date || "").replace(/-/g, "_");
+      return d >= sNorm && d <= eNorm;
+    });
 
     if (cardsGrid) cardsGrid.innerHTML = "";
     if (tbody) tbody.innerHTML = "";
 
-    if (json.data.length === 0) {
+    if (filtered.length === 0) {
       if (cardsGrid) cardsGrid.innerHTML = `<div class="cell_empty">지정된 기간에 해당하는 공식 환율 관측치가 없습니다.</div>`;
       if (tbody) tbody.innerHTML = `<tr><td colspan="7" class="cell_empty">조회 결과가 없습니다.</td></tr>`;
       return;
     }
 
+    const grouped = {};
+    filtered.forEach(item => {
+      const c = item.country;
+      if (!grouped[c]) {
+        grouped[c] = {
+          country: c,
+          currency: item.currency,
+          rates: [],
+          dates: []
+        };
+      }
+      grouped[c].rates.push(Number(item.rate));
+      grouped[c].dates.push(item.date);
+    });
+
     const sortOrder = ["Korea", "China", "Vietnam", "Indonesia", "Poland", "Egypt"];
-    const sortedData = json.data.sort((a, b) => {
-      const idxA = sortOrder.indexOf(a.country);
-      const idxB = sortOrder.indexOf(b.country);
+    const countryKeys = Object.keys(grouped).sort((a, b) => {
+      const idxA = sortOrder.indexOf(a);
+      const idxB = sortOrder.indexOf(b);
       return (idxA !== -1 ? idxA : 99) - (idxB !== -1 ? idxB : 99);
     });
 
-    sortedData.forEach(item => {
-      const meta = COUNTRY_META[item.country] || {
-        flag: "🌐",
-        name_ko: item.country,
-        currency: item.currency,
-        color: "#6366f1"
-      };
+    countryKeys.forEach(c => {
+      const g = grouped[c];
+      const meta = COUNTRY_META[c] || { flag: "🌐", name_ko: c, currency: g.currency, color: "#6366f1" };
+      const count = g.rates.length;
+      const sum = g.rates.reduce((acc, v) => acc + v, 0);
+      const avg = count > 0 ? (sum / count) : 0;
+      const min = count > 0 ? Math.min(...g.rates) : 0;
+      const max = count > 0 ? Math.max(...g.rates) : 0;
+      const actualStart = g.dates[0];
+      const actualEnd = g.dates[g.dates.length - 1];
 
-      const avgFormatted = Number(item.period_avg).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 4
-      });
-      const minFormatted = Number(item.period_min).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 4
-      });
-      const maxFormatted = Number(item.period_max).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 4
-      });
+      const avgFormatted = Number(avg).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 });
+      const minFormatted = Number(min).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 });
+      const maxFormatted = Number(max).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 });
 
-      // 1. 기간 요약 카드
       if (cardsGrid) {
         const card = document.createElement("div");
         card.className = "fintech_period_card";
@@ -379,7 +347,7 @@ async function executePeriodCalculation(startStr, endStr) {
               <span class="flag_round_badge" style="width:30px; height:30px; font-size:16px;">${meta.flag}</span>
               <span class="country_name_text" style="font-size:15px;">${meta.name_ko}</span>
             </div>
-            <span class="currency_code_pill">${item.currency}</span>
+            <span class="currency_code_pill">${meta.currency}</span>
           </div>
           <div class="period_avg_hero">
             <div class="rate_metric_caption">기간 산술평균</div>
@@ -396,24 +364,23 @@ async function executePeriodCalculation(startStr, endStr) {
             </div>
             <div class="stat_box">
               <span class="stat_lbl">공식 고시일</span>
-              <span class="stat_val">${item.count_points} 일</span>
+              <span class="stat_val">${count} 일</span>
             </div>
           </div>
         `;
         cardsGrid.appendChild(card);
       }
 
-      // 2. 요약 테이블 행
       if (tbody) {
         const tr = document.createElement("tr");
         tr.innerHTML = `
           <td><strong>${meta.flag} ${meta.name_ko}</strong></td>
-          <td><span class="currency_code_pill">${item.currency}</span></td>
+          <td><span class="currency_code_pill">${meta.currency}</span></td>
           <td style="color: var(--accent_cyan); font-weight: 700; font-family: var(--font_num); font-size: 15px;">${avgFormatted}</td>
           <td style="font-family: var(--font_num);">${minFormatted}</td>
           <td style="font-family: var(--font_num);">${maxFormatted}</td>
-          <td style="font-family: var(--font_num); font-weight: 600;">${item.count_points} 일</td>
-          <td style="font-family: var(--font_num); font-size: 12px; color: var(--text_dim);">${item.actual_start} ~ ${item.actual_end}</td>
+          <td style="font-family: var(--font_num); font-weight: 600;">${count} 일</td>
+          <td style="font-family: var(--font_num); font-size: 12px; color: var(--text_dim);">${actualStart} ~ ${actualEnd}</td>
         `;
         tbody.appendChild(tr);
       }
@@ -440,18 +407,22 @@ async function loadMonthlyRates(year) {
   tbody.innerHTML = `<tr><td colspan="7" class="cell_empty">${year}년 월평균 데이터를 조회하고 있습니다...</td></tr>`;
 
   try {
-    const res = await fetch(`/api/monthly_average?year=${year}`);
-    const json = await res.json();
-    if (json.status !== "success" || !json.data) return;
+    if (!_monthlyCache) {
+      let json = await loadJsonSafe("data/monthly_averages.json");
+      if (!json) json = await loadJsonSafe("/static/data/monthly_averages.json");
+      _monthlyCache = (json && json.data) ? json.data : [];
+    }
 
+    const filtered = _monthlyCache.filter(item => (item.year_month || "").startsWith(year));
     tbody.innerHTML = "";
-    if (json.data.length === 0) {
+
+    if (filtered.length === 0) {
       tbody.innerHTML = `<tr><td colspan="7" class="cell_empty">${year}년 공식 고시 데이터가 존재하지 않습니다.</td></tr>`;
       return;
     }
 
     const sortOrder = ["Korea", "China", "Vietnam", "Indonesia", "Poland", "Egypt"];
-    const sortedData = json.data.sort((a, b) => {
+    const sortedData = filtered.sort((a, b) => {
       if (a.year_month !== b.year_month) {
         return b.year_month.localeCompare(a.year_month);
       }
@@ -462,18 +433,9 @@ async function loadMonthlyRates(year) {
 
     sortedData.forEach(item => {
       const meta = COUNTRY_META[item.country] || { flag: "🌐", name_ko: item.country };
-      const avgFormatted = Number(item.avg_rate).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 4
-      });
-      const minFormatted = Number(item.min_rate).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 4
-      });
-      const maxFormatted = Number(item.max_rate).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 4
-      });
+      const avgFormatted = Number(item.avg_rate).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 });
+      const minFormatted = Number(item.min_rate).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 });
+      const maxFormatted = Number(item.max_rate).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 });
 
       const tr = document.createElement("tr");
       tr.innerHTML = `
@@ -524,18 +486,23 @@ async function renderSelectedHistory() {
   const w = rect.width;
   const h = 360;
 
-  // 배경
   ctx.fillStyle = "#0a0f1d";
   ctx.fillRect(0, 0, w, h);
   ctx.fillStyle = "#64748b";
-  ctx.font = "14px Pretendard Variable, sans_serif";
+  ctx.font = "14px Pretendard Variable, sans-serif";
   ctx.textAlign = "center";
   ctx.fillText("공식 시계열 데이터를 불러오는 중...", w / 2, h / 2);
 
   try {
-    const res = await fetch(`/api/history?country=${country}&limit=120`);
-    const json = await res.json();
-    if (json.status !== "success" || !json.data || json.data.length === 0) {
+    if (!_historyCache) {
+      let json = await loadJsonSafe("data/history_rates.json");
+      if (!json) json = await loadJsonSafe("/static/data/history_rates.json");
+      _historyCache = (json && json.data) ? json.data : [];
+    }
+
+    const countryData = _historyCache.filter(item => item.country === country);
+
+    if (countryData.length === 0) {
       ctx.fillStyle = "#0a0f1d";
       ctx.fillRect(0, 0, w, h);
       ctx.fillStyle = "#64748b";
@@ -543,18 +510,17 @@ async function renderSelectedHistory() {
       return;
     }
 
-    const data = json.data;
+    const data = countryData.slice(-120);
     const countBadge = document.getElementById("history_points_count");
     if (countBadge) {
       countBadge.innerText = `최근 ${data.length}개 공식 고시 관측치`;
     }
 
-    const rates = data.map(d => d.rate);
+    const rates = data.map(d => Number(d.rate));
     const minRate = Math.min(...rates);
     const maxRate = Math.max(...rates);
     const rateRange = (maxRate - minRate) || (minRate * 0.05);
 
-    // 차트 배경 초기화
     ctx.fillStyle = "#0a0f1d";
     ctx.fillRect(0, 0, w, h);
 
@@ -565,7 +531,6 @@ async function renderSelectedHistory() {
     const chartW = w - padLeft - padRight;
     const chartH = h - padTop - padBottom;
 
-    // Y축 수평 가이드선
     ctx.strokeStyle = "rgba(255, 255, 255, 0.06)";
     ctx.lineWidth = 1;
     ctx.fillStyle = "#64748b";
@@ -578,65 +543,65 @@ async function renderSelectedHistory() {
       const py = padTop + chartH - (chartH * (i / steps));
       ctx.beginPath();
       ctx.moveTo(padLeft, py);
-      ctx.lineTo(w - padRight, py);
+      ctx.lineTo(padLeft + chartW, py);
       ctx.stroke();
-
-      const dispVal = Number(yVal).toLocaleString(undefined, {
-        minimumFractionDigits: 2,
-        maximumFractionDigits: 2
-      });
-      ctx.fillText(dispVal, padLeft - 10, py + 4);
+      ctx.fillText(yVal.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 }), padLeft - 10, py + 4);
     }
 
-    // 좌표 포인트 계산
-    const points = data.map((d, i) => {
-      const px = padLeft + (chartW * (i / (data.length - 1)));
-      const py = padTop + chartH - ((d.rate - minRate) / rateRange * chartH);
-      return { x: px, y: py, ...d };
-    });
+    const points = [];
+    const n = data.length;
+    for (let i = 0; i < n; i++) {
+      const px = padLeft + (chartW * (i / (n - 1 || 1)));
+      const py = padTop + chartH - (chartH * ((rates[i] - minRate) / rateRange));
+      points.push({ x: px, y: py, date: data[i].date, rate: rates[i] });
+    }
 
-    // 영역 채우기 그라디언트
     const grad = ctx.createLinearGradient(0, padTop, 0, padTop + chartH);
-    grad.addColorStop(0, `${meta.color}44`);
-    grad.addColorStop(1, `${meta.color}00`);
+    grad.addColorStop(0, meta.color + "40");
+    grad.addColorStop(1, meta.color + "00");
 
     ctx.beginPath();
     ctx.moveTo(points[0].x, padTop + chartH);
-    points.forEach(p => ctx.lineTo(p.x, p.y));
-    ctx.lineTo(points[points.length - 1].x, padTop + chartH);
+    for (let i = 0; i < n; i++) {
+      ctx.lineTo(points[i].x, points[i].y);
+    }
+    ctx.lineTo(points[n - 1].x, padTop + chartH);
     ctx.closePath();
     ctx.fillStyle = grad;
     ctx.fill();
 
-    // 메인 곡선 라인
     ctx.beginPath();
     ctx.moveTo(points[0].x, points[0].y);
-    for (let i = 1; i < points.length; i++) {
+    for (let i = 1; i < n; i++) {
       ctx.lineTo(points[i].x, points[i].y);
     }
     ctx.strokeStyle = meta.color;
     ctx.lineWidth = 2.5;
     ctx.stroke();
 
-    // X축 시작일 및 종료일 표시
-    ctx.fillStyle = "#94a3b8";
+    ctx.fillStyle = "#64748b";
     ctx.font = "11px JetBrains Mono, monospace";
-    ctx.textAlign = "left";
-    ctx.fillText(data[0].date, padLeft, h - 16);
-    ctx.textAlign = "right";
-    ctx.fillText(data[data.length - 1].date, w - padRight, h - 16);
+    ctx.textAlign = "center";
+    const xStep = Math.max(1, Math.floor(n / 6));
+    for (let i = 0; i < n; i += xStep) {
+      ctx.fillText(data[i].date, points[i].x, padTop + chartH + 22);
+    }
+    if ((n - 1) % xStep !== 0) {
+      ctx.fillText(data[n - 1].date, points[n - 1].x, padTop + chartH + 22);
+    }
 
-    // 최신 관측점 하이라이트
-    const lastP = points[points.length - 1];
+    const lastPt = points[n - 1];
     ctx.beginPath();
-    ctx.arc(lastP.x, lastP.y, 6, 0, Math.PI * 2);
-    ctx.fillStyle = "#ffffff";
+    ctx.arc(lastPt.x, lastPt.y, 5, 0, Math.PI * 2);
+    ctx.fillStyle = meta.color;
     ctx.fill();
-    ctx.strokeStyle = meta.color;
-    ctx.lineWidth = 2.5;
+    ctx.strokeStyle = "#ffffff";
+    ctx.lineWidth = 2;
     ctx.stroke();
-
   } catch (err) {
-    ctx.fillText(`차트 로드 오류: ${err.message}`, w / 2, h / 2);
+    ctx.fillStyle = "#0a0f1d";
+    ctx.fillRect(0, 0, w, h);
+    ctx.fillStyle = "#f87171";
+    ctx.fillText("차트 렌더링 오류: " + err.message, w / 2, h / 2);
   }
 }

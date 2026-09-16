@@ -1,4 +1,9 @@
-// 글로벌 중앙은행 공식 고시환율 인텔리전스 엔진 (Vercel Jamstack & 로컬 완벽 지원)
+import os
+
+def patch_app_js():
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
+    js_content = '''// 글로벌 중앙은행 공식 고시환율 인텔리전스 엔진 (Vercel Jamstack & 로컬 완벽 지원)
 let _allRatesCache = null;
 let _monthlyCache = null;
 let _historyCache = null;
@@ -605,3 +610,13 @@ async function renderSelectedHistory() {
     ctx.fillText("차트 렌더링 오류: " + err.message, w / 2, h / 2);
   }
 }
+'''
+    # 루트 app.js 와 static/app.js 양쪽 모두 덮어쓰기
+    with open(os.path.join(base_dir, "app.js"), "w", encoding="utf-8") as f:
+        f.write(js_content)
+    with open(os.path.join(base_dir, "static", "app.js"), "w", encoding="utf-8") as f:
+        f.write(js_content)
+    print("app.js and static/app.js patched successfully!")
+
+if __name__ == "__main__":
+    patch_app_js()
