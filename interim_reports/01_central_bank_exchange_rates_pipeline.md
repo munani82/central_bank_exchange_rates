@@ -133,3 +133,12 @@
   * 월요일부터 금요일까지 각국 공식 고시 시각에 맞춰 하루 5회(09:15, 10:45, 18:30, 19:30, 21:30 KST) 자동 실행
   * 파이썬 환경에서 신규 환율을 수집 및 DB 반영 후 static/data/를 최신화하고 Git 자동 커밋 및 푸시 수행
   * Vercel은 깃허브 main 브랜치 푸시를 감지하여 10초 내에 전 세계 글로벌 CDN으로 자동 무중단 재배포
+
+
+***
+
+## 9. GitHub 공식 원격 저장소 푸시 완료 내역
+* 원격 레포지토리 주소: https://github.com/munani82/central_bank_exchange_rates.git
+* 기본 브랜치: main
+* 푸시 완료 시각: 2026년 9월 16일
+* 적재 내용: 6개국 공식 고시환율 전체 데이터베이스(exchange_rates.db), Vercel 정적 배포 설정(vercel.json), GitHub Actions 하루 5회 자동 갱신 워크플로우(.github/workflows/update_rates.yml), 고딕 핀테크 웹 프론트엔드(static)
