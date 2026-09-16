@@ -1,0 +1,209 @@
+﻿[
+  {
+    "country": "China",
+    "central_bank": "People's Bank of China (PBOC) / SAFE",
+    "currency": "CNY",
+    "date": "2026_09_15",
+    "rate": 6.767,
+    "type": "Daily Central Parity Rate",
+    "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+  },
+  {
+    "country": "China",
+    "central_bank": "People's Bank of China (PBOC) / SAFE",
+    "currency": "CNY",
+    "date": "2026_09_14",
+    "rate": 6.7698,
+    "type": "Daily Central Parity Rate",
+    "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+  },
+  {
+    "country": "China",
+    "central_bank": "People's Bank of China (PBOC) / SAFE",
+    "currency": "CNY",
+    "date": "2026_09_11",
+    "rate": 6.7725,
+    "type": "Daily Central Parity Rate",
+    "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+  },
+  {
+    "country": "China",
+    "central_bank": "People's Bank of China (PBOC) / SAFE",
+    "currency": "CNY",
+    "date": "2026_09_10",
+    "rate": 6.771,
+    "type": "Daily Central Parity Rate",
+    "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+  },
+  {
+    "country": "China",
+    "central_bank": "People's Bank of China (PBOC) / SAFE",
+    "currency": "CNY",
+    "date": "2026_09_09",
+    "rate": 6.768,
+    "type": "Daily Central Parity Rate",
+    "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+  },
+  {
+    "country": "Indonesia",
+    "central_bank": "Bank Indonesia (BI)",
+    "currency": "IDR",
+    "date": "2026_09_15",
+    "rate": 17687.0,
+    "type": "Daily JISDOR",
+    "source": "Bank Indonesia (bi.go.id JISDOR)"
+  },
+  {
+    "country": "Indonesia",
+    "central_bank": "Bank Indonesia (BI)",
+    "currency": "IDR",
+    "date": "2026_09_14",
+    "rate": 17635.0,
+    "type": "Daily JISDOR",
+    "source": "Bank Indonesia (bi.go.id JISDOR)"
+  },
+  {
+    "country": "Indonesia",
+    "central_bank": "Bank Indonesia (BI)",
+    "currency": "IDR",
+    "date": "2026_09_11",
+    "rate": 17611.0,
+    "type": "Daily JISDOR",
+    "source": "Bank Indonesia (bi.go.id JISDOR)"
+  },
+  {
+    "country": "Indonesia",
+    "central_bank": "Bank Indonesia (BI)",
+    "currency": "IDR",
+    "date": "2026_09_10",
+    "rate": 17536.0,
+    "type": "Daily JISDOR",
+    "source": "Bank Indonesia (bi.go.id JISDOR)"
+  },
+  {
+    "country": "Indonesia",
+    "central_bank": "Bank Indonesia (BI)",
+    "currency": "IDR",
+    "date": "2026_09_09",
+    "rate": 17552.0,
+    "type": "Daily JISDOR",
+    "source": "Bank Indonesia (bi.go.id JISDOR)"
+  },
+  {
+    "country": "Poland",
+    "central_bank": "Narodowy Bank Polski (NBP)",
+    "currency": "PLN",
+    "date": "2026_09_15",
+    "rate": 3.7667,
+    "type": "Daily Official Mid Rate",
+    "source": "Narodowy Bank Polski (NBP Official Web API)"
+  },
+  {
+    "country": "Vietnam",
+    "central_bank": "State Bank of Vietnam (SBV)",
+    "currency": "VND",
+    "date": "2026_09_15",
+    "rate": 25607.0,
+    "type": "Daily Central Rate",
+    "source": "State Bank of Vietnam (sbv.gov.vn)"
+  },
+  {
+    "country": "Vietnam",
+    "central_bank": "State Bank of Vietnam (SBV)",
+    "currency": "VND",
+    "date": "2026_09_14",
+    "rate": 25607.0,
+    "type": "Daily Central Rate",
+    "source": "State Bank of Vietnam (sbv.gov.vn)"
+  },
+  {
+    "country": "Vietnam",
+    "central_bank": "State Bank of Vietnam (SBV)",
+    "currency": "VND",
+    "date": "2026_09_11",
+    "rate": 25598.0,
+    "type": "Daily Central Rate",
+    "source": "State Bank of Vietnam (sbv.gov.vn)"
+  },
+  {
+    "country": "Vietnam",
+    "central_bank": "State Bank of Vietnam (SBV)",
+    "currency": "VND",
+    "date": "2026_09_10",
+    "rate": 25591.0,
+    "type": "Daily Central Rate",
+    "source": "State Bank of Vietnam (sbv.gov.vn)"
+  },
+  {
+    "country": "Egypt",
+    "central_bank": "Central Bank of Egypt (CBE)",
+    "currency": "EGP",
+    "date": "2026_09_15",
+    "rate": 51.8583,
+    "type": "Daily Mid Rate",
+    "source": "Central Bank of Egypt (cbe.org.eg)"
+  },
+  {
+    "country": "Egypt",
+    "central_bank": "Central Bank of Egypt (CBE)",
+    "currency": "EGP",
+    "date": "2026_09_14",
+    "rate": 51.8511,
+    "type": "Daily Mid Rate",
+    "source": "Central Bank of Egypt (cbe.org.eg)"
+  },
+  {
+    "country": "Egypt",
+    "central_bank": "Central Bank of Egypt (CBE)",
+    "currency": "EGP",
+    "date": "2026_09_11",
+    "rate": 51.845,
+    "type": "Daily Mid Rate",
+    "source": "Central Bank of Egypt (cbe.org.eg)"
+  },
+  {
+    "country": "Egypt",
+    "central_bank": "Central Bank of Egypt (CBE)",
+    "currency": "EGP",
+    "date": "2026_09_10",
+    "rate": 51.838,
+    "type": "Daily Mid Rate",
+    "source": "Central Bank of Egypt (cbe.org.eg)"
+  },
+  {
+    "country": "Vietnam",
+    "central_bank": "State Bank of Vietnam (SBV)",
+    "currency": "VND",
+    "date": "2026_09_08",
+    "rate": 25603.0,
+    "type": "Daily Central Rate",
+    "source": "State Bank of Vietnam (sbv.gov.vn)"
+  },
+  {
+    "country": "Vietnam",
+    "central_bank": "State Bank of Vietnam (SBV)",
+    "currency": "VND",
+    "date": "2026_09_09",
+    "rate": 25594.0,
+    "type": "Daily Central Rate",
+    "source": "State Bank of Vietnam (sbv.gov.vn)"
+  },
+  {
+    "country": "Egypt",
+    "central_bank": "Central Bank of Egypt (CBE)",
+    "currency": "EGP",
+    "date": "2026_09_08",
+    "rate": 51.825,
+    "type": "Daily Mid Rate",
+    "source": "Central Bank of Egypt (cbe.org.eg)"
+  },
+  {
+    "country": "Egypt",
+    "central_bank": "Central Bank of Egypt (CBE)",
+    "currency": "EGP",
+    "date": "2026_09_09",
+    "rate": 51.831,
+    "type": "Daily Mid Rate",
+    "source": "Central Bank of Egypt (cbe.org.eg)"
+  }
+]

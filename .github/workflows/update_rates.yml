@@ -1,0 +1,39 @@
+name: Daily Central Bank Exchange Rates Update
+
+on:
+  schedule:
+    - cron: '15 0 * * 1-5'   # 09:15 KST (한국 최초고시)
+    - cron: '45 1 * * 1-5'   # 10:45 KST (중국 중간가 & 베트남 중심환율)
+    - cron: '30 9 * * 1-5'   # 18:30 KST (인도네시아 JISDOR)
+    - cron: '30 10 * * 1-5'  # 19:30 KST (폴란드 NBP Table A)
+    - cron: '30 12 * * 1-5'  # 21:30 KST (이집트 CBE & 최종 마감)
+  workflow_dispatch: # 수동 즉시 실행 지원
+
+jobs:
+  update-rates:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests urllib3 pandas
+
+      - name: Run Fetch and Build Pipeline
+        run: |
+          python scripts/08_fetch_and_build.py
+
+      - name: Commit and Push if updated
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add static/data/ exchange_rates.db
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'Auto Update: Central Bank Exchange Rates [skip ci]' && git push)

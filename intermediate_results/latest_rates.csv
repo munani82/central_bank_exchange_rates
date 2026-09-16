@@ -1,0 +1,7 @@
+﻿country,currency,currency_name,date,rate,frequency,source,prev_date,prev_rate,diff,change_pct
+China,CNY,중국 위안,2026_09_16,6.7628,Daily,People's Bank of China / CFETS (chinamoney.com.cn),2026_09_15,6.767,-0.0041999999999999815,-0.062065908083345375
+Egypt,EGP,이집트 파운드,2026_09_15,51.8583,Daily,Central Bank of Egypt (cbe.org.eg),2026_09_14,51.8511,0.007199999999997431,0.013885915631485987
+Indonesia,IDR,인도네시아 루피아,2026_09_15,17687.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026_09_14,17635.0,52.0,0.29486815990927134
+Korea,KRW,대한민국 원,2026_09_16,1353.3,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS),2026_09_15,1345.3,8.0,0.5946629004682971
+Poland,PLN,폴란드 즐로티,2026_09_15,3.7667,Daily,Narodowy Bank Polski (NBP Official Web API),2026_09_14,3.7607,0.006000000000000227,0.15954476560215458
+Vietnam,VND,베트남 동,2026_09_16,25607.0,Daily,State Bank of Vietnam (sbv.gov.vn),2026_09_15,25607.0,0.0,0.0

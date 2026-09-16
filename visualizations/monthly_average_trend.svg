@@ -1,0 +1,48 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="100%" height="100%">
+<rect width="900" height="500" fill="#0b132b" rx="16"/>
+<text x="450" y="45" font_family="sans_serif" font_size="22" font_weight="bold" fill="#ffffff" text_anchor="middle">2026년 5개국 공식 월평균 환율 추이</text>
+<text x="450" y="75" font_family="sans_serif" font_size="13" fill="#8892b0" text_anchor="middle">공식 중앙은행 월평균 환율 (2026년 1월 ~ 2026년 9월)</text>
+<rect x="120" y="95" width="14" height="14" rx="3" fill="#f43f5e"/>
+<text x="142" y="107" font_family="sans_serif" font_size="13" fill="#cbd5e1">China</text>
+<rect x="260" y="95" width="14" height="14" rx="3" fill="#eab308"/>
+<text x="282" y="107" font_family="sans_serif" font_size="13" fill="#cbd5e1">Egypt</text>
+<rect x="400" y="95" width="14" height="14" rx="3" fill="#06b6d4"/>
+<text x="422" y="107" font_family="sans_serif" font_size="13" fill="#cbd5e1">Indonesia</text>
+<rect x="540" y="95" width="14" height="14" rx="3" fill="#a855f7"/>
+<text x="562" y="107" font_family="sans_serif" font_size="13" fill="#cbd5e1">Poland</text>
+<rect x="680" y="95" width="14" height="14" rx="3" fill="#10b981"/>
+<text x="702" y="107" font_family="sans_serif" font_size="13" fill="#cbd5e1">Vietnam</text>
+<g transform="translate(60, 130)">
+<rect x="0" y="0" width="245" height="140" rx="10" fill="#1c2541" stroke="#f43f5e" stroke_width="1.5"/>
+<text x="15" y="25" font_family="sans_serif" font_size="15" font_weight="bold" fill="#ffffff">China</text>
+<text x="15" y="45" font_family="sans_serif" font_size="11" fill="#94a3b8">2026년 월평균 변동 범위:</text>
+<text x="15" y="75" font_family="sans_serif" font_size="16" font_weight="bold" fill="#f43f5e">최신 6.76</text>
+<text x="15" y="100" font_family="sans_serif" font_size="12" fill="#cbd5e1">최저: 6.75</text>
+<text x="15" y="120" font_family="sans_serif" font_size="12" fill="#cbd5e1">최고: 6.97</text>
+<rect x="260" y="0" width="245" height="140" rx="10" fill="#1c2541" stroke="#eab308" stroke_width="1.5"/>
+<text x="275" y="25" font_family="sans_serif" font_size="15" font_weight="bold" fill="#ffffff">Egypt</text>
+<text x="275" y="45" font_family="sans_serif" font_size="11" fill="#94a3b8">2026년 월평균 변동 범위:</text>
+<text x="275" y="75" font_family="sans_serif" font_size="16" font_weight="bold" fill="#eab308">최신 51.81</text>
+<text x="275" y="100" font_family="sans_serif" font_size="12" fill="#cbd5e1">최저: 50.73</text>
+<text x="275" y="120" font_family="sans_serif" font_size="12" fill="#cbd5e1">최고: 51.81</text>
+<rect x="520" y="0" width="245" height="140" rx="10" fill="#1c2541" stroke="#06b6d4" stroke_width="1.5"/>
+<text x="535" y="25" font_family="sans_serif" font_size="15" font_weight="bold" fill="#ffffff">Indonesia</text>
+<text x="535" y="45" font_family="sans_serif" font_size="11" fill="#94a3b8">2026년 월평균 변동 범위:</text>
+<text x="535" y="75" font_family="sans_serif" font_size="16" font_weight="bold" fill="#06b6d4">최신 17,649.27</text>
+<text x="535" y="100" font_family="sans_serif" font_size="12" fill="#cbd5e1">최저: 16,817.55</text>
+<text x="535" y="120" font_family="sans_serif" font_size="12" fill="#cbd5e1">최고: 17,846.09</text>
+<rect x="0" y="160" width="245" height="140" rx="10" fill="#1c2541" stroke="#a855f7" stroke_width="1.5"/>
+<text x="15" y="185" font_family="sans_serif" font_size="15" font_weight="bold" fill="#ffffff">Poland</text>
+<text x="15" y="205" font_family="sans_serif" font_size="11" fill="#94a3b8">2026년 월평균 변동 범위:</text>
+<text x="15" y="235" font_family="sans_serif" font_size="16" font_weight="bold" fill="#a855f7">최신 3.73</text>
+<text x="15" y="260" font_family="sans_serif" font_size="12" fill="#cbd5e1">최저: 3.57</text>
+<text x="15" y="280" font_family="sans_serif" font_size="12" fill="#cbd5e1">최고: 3.78</text>
+<rect x="260" y="160" width="245" height="140" rx="10" fill="#1c2541" stroke="#10b981" stroke_width="1.5"/>
+<text x="275" y="185" font_family="sans_serif" font_size="15" font_weight="bold" fill="#ffffff">Vietnam</text>
+<text x="275" y="205" font_family="sans_serif" font_size="11" fill="#94a3b8">2026년 월평균 변동 범위:</text>
+<text x="275" y="235" font_family="sans_serif" font_size="16" font_weight="bold" fill="#10b981">최신 25,604.75</text>
+<text x="275" y="260" font_family="sans_serif" font_size="12" fill="#cbd5e1">최저: 25,079.45</text>
+<text x="275" y="280" font_family="sans_serif" font_size="12" fill="#cbd5e1">최고: 25,610.62</text>
+</g>
+<text x="450" y="475" font_family="sans_serif" font_size="11" fill="#64748b" text_anchor="middle">자료: 각국 중앙은행(NBP, SBV, CBE, BI, PBOC) 공식 통계</text>
+</svg>

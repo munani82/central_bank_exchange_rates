@@ -1,0 +1,72 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 490" width="100%" height="100%">
+<defs>
+  <linearGradient id="card_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop_color="#131e36" stop_opacity="0.98"/>
+    <stop offset="100%" stop_color="#0d1527" stop_opacity="0.98"/>
+  </linearGradient>
+</defs>
+<rect width="1260" height="490" fill="#080e1c" rx="18"/>
+<text x="630" y="44" font_family="Pretendard, sans_serif" font_size="22" font_weight="700" fill="#ffffff" text_anchor="middle">6개국 중앙은행 공식 당일 고시환율 요약</text>
+<text x="630" y="70" font_family="Pretendard, sans_serif" font_size="13" font_weight="500" fill="#94a3b8" text_anchor="middle">한국, 중국, 베트남, 인도네시아, 폴란드, 이집트 100% 공식 고시 실측 데이터 (기준: 1 USD)</text>
+<rect x="35" y="95" width="580" height="106" fill="url(#card_grad)" rx="14" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
+<rect x="35" y="95" width="6" height="106" fill="#38bdf8" rx="3"/>
+<circle cx="75" cy="135" r="17" fill="rgba(255,255,255,0.08)" stroke="#38bdf8" stroke_width="1.5"/>
+<text x="75" y="140" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">KR</text>
+<text x="107" y="135" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">대한민국</text>
+<text x="107" y="155" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Korea (KRW)</text>
+<text x="405" y="140" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">1,353.30</text>
+<rect x="107" y="169" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
+<text x="159" y="184" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
+<text x="405" y="184" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.16</text>
+<rect x="645" y="95" width="580" height="106" fill="url(#card_grad)" rx="14" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
+<rect x="645" y="95" width="6" height="106" fill="#fb7185" rx="3"/>
+<circle cx="685" cy="135" r="17" fill="rgba(255,255,255,0.08)" stroke="#fb7185" stroke_width="1.5"/>
+<text x="685" y="140" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">CN</text>
+<text x="717" y="135" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">중국</text>
+<text x="717" y="155" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">China (CNY)</text>
+<text x="1015" y="140" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">6.7628</text>
+<rect x="717" y="169" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
+<text x="769" y="184" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
+<text x="1015" y="184" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.16</text>
+<rect x="35" y="218" width="580" height="106" fill="url(#card_grad)" rx="14" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
+<rect x="35" y="218" width="6" height="106" fill="#34d399" rx="3"/>
+<circle cx="75" cy="258" r="17" fill="rgba(255,255,255,0.08)" stroke="#34d399" stroke_width="1.5"/>
+<text x="75" y="263" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">VN</text>
+<text x="107" y="258" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">베트남</text>
+<text x="107" y="278" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Vietnam (VND)</text>
+<text x="405" y="263" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">25,607.00</text>
+<rect x="107" y="292" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
+<text x="159" y="307" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
+<text x="405" y="307" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.16</text>
+<rect x="645" y="218" width="580" height="106" fill="url(#card_grad)" rx="14" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
+<rect x="645" y="218" width="6" height="106" fill="#22d3ee" rx="3"/>
+<circle cx="685" cy="258" r="17" fill="rgba(255,255,255,0.08)" stroke="#22d3ee" stroke_width="1.5"/>
+<text x="685" y="263" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">ID</text>
+<text x="717" y="258" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">인도네시아</text>
+<text x="717" y="278" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Indonesia (IDR)</text>
+<text x="1015" y="263" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">17,687.00</text>
+<rect x="717" y="292" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
+<text x="769" y="307" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
+<text x="1015" y="307" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.15</text>
+<rect x="35" y="341" width="580" height="106" fill="url(#card_grad)" rx="14" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
+<rect x="35" y="341" width="6" height="106" fill="#c084fc" rx="3"/>
+<circle cx="75" cy="381" r="17" fill="rgba(255,255,255,0.08)" stroke="#c084fc" stroke_width="1.5"/>
+<text x="75" y="386" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">PL</text>
+<text x="107" y="381" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">폴란드</text>
+<text x="107" y="401" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Poland (PLN)</text>
+<text x="405" y="386" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">3.7667</text>
+<rect x="107" y="415" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
+<text x="159" y="430" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
+<text x="405" y="430" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.15</text>
+<rect x="645" y="341" width="580" height="106" fill="url(#card_grad)" rx="14" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
+<rect x="645" y="341" width="6" height="106" fill="#fbbf24" rx="3"/>
+<circle cx="685" cy="381" r="17" fill="rgba(255,255,255,0.08)" stroke="#fbbf24" stroke_width="1.5"/>
+<text x="685" y="386" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">EG</text>
+<text x="717" y="381" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">이집트</text>
+<text x="717" y="401" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Egypt (EGP)</text>
+<text x="1015" y="386" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">51.8583</text>
+<rect x="717" y="415" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
+<text x="769" y="430" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
+<text x="1015" y="430" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.15</text>
+<text x="630" y="468" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#64748b" text_anchor="middle">데이터 출처: 한국은행 및 서울외국환중개, 중국인민은행, 베트남국가은행, 인도네시아은행, 폴란드국립은행, 이집트중앙은행</text>
+</svg>

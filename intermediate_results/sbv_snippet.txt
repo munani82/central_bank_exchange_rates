@@ -1,0 +1,12 @@
+﻿HTML 전체 길이: 422090
+USD 발견 횟수: 5
+===
+lurred', 'Form', { fieldName: event.fieldName, focusDuration: event.focusDuration, formId: event.formId, formPageTitle: event.formPageTitle, page: event.page, title: event.title } ); } } ); Liferay.on
+===
+eldName: event.fieldName, focusDuration: event.focusDuration, formId: event.formId, formPageTitle: event.formPageTitle, page: event.page, title: event.title } ); } } ); Liferay.on( 'ddmFieldFocus', fu
+===
+ng những ngày đầu tháng 9/2026 và vượt ngưỡng 100 USD/thùng trong bối cảnh căng thẳng địa chính trị tại Trung Đông tiếp tục ảnh hưởng đến nguồn cung và hoạt động vận chuyển năng lượng. Diễn biến này đ
+===
+ CÁN CÂN THANH TOÁN QUỐC TẾ QUÝ I NĂM 2026 (Triệu USD) Xem chi tiết .sbv-chart .text-end a{color: #9D1B43;} .sbv-chart .text-end a:hover{color: var(--btn-link-hover-color);} // Khi DOM xong thì build 
+===
+hời gian: " + time, "Giá trị: " + value + " Triệu USD" ]; } } }, legend: { position: 'top', labels: { usePointStyle: true, pointStyle: 'circle', boxWidth: 5, boxHeight: 5, padding: 10, color: "#000000

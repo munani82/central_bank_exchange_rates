@@ -1,0 +1,80 @@
+﻿[
+  {
+    "country": "China",
+    "currency": "CNY",
+    "currency_name": "중국 위안",
+    "date": "2026_09_16",
+    "rate": 6.7628,
+    "frequency": "Daily",
+    "source": "People's Bank of China / CFETS (chinamoney.com.cn)",
+    "prev_date": "2026_09_15",
+    "prev_rate": 6.767,
+    "diff": -0.0041999999999999815,
+    "change_pct": -0.062065908083345375
+  },
+  {
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "date": "2026_09_15",
+    "rate": 51.8583,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg)",
+    "prev_date": "2026_09_14",
+    "prev_rate": 51.8511,
+    "diff": 0.007199999999997431,
+    "change_pct": 0.013885915631485987
+  },
+  {
+    "country": "Indonesia",
+    "currency": "IDR",
+    "currency_name": "인도네시아 루피아",
+    "date": "2026_09_15",
+    "rate": 17687.0,
+    "frequency": "Daily",
+    "source": "Bank Indonesia (bi.go.id JISDOR)",
+    "prev_date": "2026_09_14",
+    "prev_rate": 17635.0,
+    "diff": 52.0,
+    "change_pct": 0.29486815990927134
+  },
+  {
+    "country": "Korea",
+    "currency": "KRW",
+    "currency_name": "대한민국 원",
+    "date": "2026_09_16",
+    "rate": 1353.3,
+    "frequency": "Daily",
+    "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS)",
+    "prev_date": "2026_09_15",
+    "prev_rate": 1345.3,
+    "diff": 8.0,
+    "change_pct": 0.5946629004682971
+  },
+  {
+    "country": "Poland",
+    "currency": "PLN",
+    "currency_name": "폴란드 즐로티",
+    "date": "2026_09_15",
+    "rate": 3.7667,
+    "frequency": "Daily",
+    "source": "Narodowy Bank Polski (NBP Official Web API)",
+    "prev_date": "2026_09_14",
+    "prev_rate": 3.7607,
+    "diff": 0.006000000000000227,
+    "change_pct": 0.15954476560215458
+  },
+  {
+    "country": "Vietnam",
+    "currency": "VND",
+    "currency_name": "베트남 동",
+    "date": "2026_09_16",
+    "rate": 25607.0,
+    "frequency": "Daily",
+    "source": "State Bank of Vietnam (sbv.gov.vn)",
+    "prev_date": "2026_09_15",
+    "prev_rate": 25607.0,
+    "diff": 0.0,
+    "change_pct": 0.0
+  }
+]
