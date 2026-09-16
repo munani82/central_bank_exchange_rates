@@ -1,18 +1,4 @@
 {
   "version": 2,
-  "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/static/index.html"
-    },
-    {
-      "source": "/data/(.*)",
-      "destination": "/static/data/$1"
-    },
-    {
-      "source": "/static/(.*)",
-      "destination": "/static/$1"
-    }
-  ]
+  "cleanUrls": true
 }

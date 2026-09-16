@@ -6,7 +6,9 @@ def build_static_json():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     db_path = os.path.join(base_dir, "exchange_rates.db")
     static_data_dir = os.path.join(base_dir, "static", "data")
+    root_data_dir = os.path.join(base_dir, "data")
     os.makedirs(static_data_dir, exist_ok=True)
+    os.makedirs(root_data_dir, exist_ok=True)
 
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
@@ -87,6 +89,12 @@ def build_static_json():
     print("all_rates.json 생성 완료")
 
     conn.close()
+    import shutil
+    for fn in ["latest_rates.json", "monthly_averages.json", "history_rates.json", "all_rates.json"]:
+        src_f = os.path.join(static_data_dir, fn)
+        dst_f = os.path.join(root_data_dir, fn)
+        if os.path.exists(src_f):
+            shutil.copy2(src_f, dst_f)
 
 if __name__ == "__main__":
     build_static_json()
