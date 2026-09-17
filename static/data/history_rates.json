@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2630,
+  "count": 2631,
   "data": [
     {
       "date": "2025_01_01",
@@ -18411,6 +18411,13 @@
       "currency": "VND",
       "rate": 25607.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_17",
+      "country": "Poland",
+      "currency": "PLN",
+      "rate": 3.803,
+      "source": "Narodowy Bank Polski (NBP Official Web API)"
     }
   ]
 }
