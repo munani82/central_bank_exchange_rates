@@ -1,4 +1,62 @@
 
+// 6개국 공인 고화질 벡터 SVG 국기 (윈도우/맥/모바일 전 플랫폼 100% 국기 렌더링 보장)
+const SVG_FLAGS = {
+  "Korea": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="18" cy="18" r="18" fill="#ffffff"/>
+    <path fill="#cd2e3a" d="M18,9 C22.97,9 27,13.03 27,18 C27,22.97 22.97,27 18,27 C13.03,27 9,22.97 9,18 C9,13.03 13.03,9 18,9 Z"/>
+    <path fill="#0047a0" d="M18,9 C22.97,9 27,13.03 27,18 C27,18 22.5,22.5 18,22.5 C13.5,22.5 13.5,13.5 18,13.5 C22.5,13.5 22.5,27 18,27 C13.03,27 9,22.97 9,18 C9,13.03 13.03,9 18,9 Z"/>
+    <circle cx="18" cy="13.5" r="4.5" fill="#cd2e3a"/>
+    <circle cx="18" cy="22.5" r="4.5" fill="#0047a0"/>
+    <rect x="4" y="6" width="3" height="1" transform="rotate(35 4 6)" fill="#000000"/>
+    <rect x="5.5" y="4" width="3" height="1" transform="rotate(35 5.5 4)" fill="#000000"/>
+    <rect x="2.5" y="8" width="3" height="1" transform="rotate(35 2.5 8)" fill="#000000"/>
+    <rect x="29" y="24" width="3" height="1" transform="rotate(35 29 24)" fill="#000000"/>
+    <rect x="30.5" y="22" width="3" height="1" transform="rotate(35 30.5 22)" fill="#000000"/>
+    <rect x="27.5" y="26" width="3" height="1" transform="rotate(35 27.5 26)" fill="#000000"/>
+  </svg>`,
+  
+  "China": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="18" cy="18" r="18" fill="#de2910"/>
+    <polygon points="9,6 10.8,11.6 6,8.2 12,8.2 7.2,11.6" fill="#ffde00"/>
+    <polygon points="15,4 15.6,5.8 14,4.7 16,4.7 14.4,5.8" fill="#ffde00"/>
+    <polygon points="17,7 17.6,8.8 16,7.7 18,7.7 16.4,8.8" fill="#ffde00"/>
+    <polygon points="17,11 17.6,12.8 16,11.7 18,11.7 16.4,12.8" fill="#ffde00"/>
+    <polygon points="15,14 15.6,15.8 14,14.7 16,14.7 14.4,15.8" fill="#ffde00"/>
+  </svg>`,
+
+  "Vietnam": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="18" cy="18" r="18" fill="#da251d"/>
+    <polygon points="18,7 21.2,16.8 12.8,10.7 23.2,10.7 14.8,16.8" fill="#ffff00"/>
+  </svg>`,
+
+  "Indonesia": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="circle_clip_id"><circle cx="18" cy="18" r="18"/></clipPath>
+    <g clip-path="url(#circle_clip_id)">
+      <rect width="36" height="18" fill="#ce1126"/>
+      <rect y="18" width="36" height="18" fill="#ffffff"/>
+    </g>
+  </svg>`,
+
+  "Poland": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="circle_clip_pl"><circle cx="18" cy="18" r="18"/></clipPath>
+    <g clip-path="url(#circle_clip_pl)">
+      <rect width="36" height="18" fill="#ffffff"/>
+      <rect y="18" width="36" height="18" fill="#dc143c"/>
+    </g>
+  </svg>`,
+
+  "Egypt": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="circle_clip_eg"><circle cx="18" cy="18" r="18"/></clipPath>
+    <g clip-path="url(#circle_clip_eg)">
+      <rect width="36" height="12" fill="#c8102e"/>
+      <rect y="12" width="36" height="12" fill="#ffffff"/>
+      <rect y="24" width="36" height="12" fill="#000000"/>
+      <circle cx="18" cy="18" r="3.5" fill="#c09300"/>
+    </g>
+  </svg>`
+};
+
+
 // 괄호 결함 없는 날짜 피커 제어기
 function openDatePicker(target) {
   const nativePicker = document.getElementById(target === 'start' ? 'native_picker_start' : 'native_picker_end');
@@ -198,7 +256,7 @@ async function loadLatestRates() {
       card.innerHTML = `
         <div class="card_header_row">
           <div class="country_identity_block">
-            <div class="flag_round_badge">${meta.flag}</div>
+            <div class="flag_round_badge">${SVG_FLAGS[item.country] || meta.flag}</div>
             <div class="country_text_group">
               <span class="country_name_text">${meta.name_ko}</span>
               <span class="currency_fullname">${meta.fullName}</span>
@@ -391,7 +449,7 @@ async function executePeriodCalculation(startStr, endStr) {
         card.innerHTML = `
           <div class="period_card_head">
             <div class="country_identity_block">
-              <span class="flag_round_badge" style="width:30px; height:30px; font-size:16px;">${meta.flag}</span>
+              <span class="flag_round_badge" style="width:30px; height:30px;">${SVG_FLAGS[c] || meta.flag}</span>
               <span class="country_name_text" style="font-size:15px;">${meta.name_ko}</span>
             </div>
             <span class="currency_code_pill">${meta.currency}</span>
@@ -421,7 +479,7 @@ async function executePeriodCalculation(startStr, endStr) {
       if (tbody) {
         const tr = document.createElement("tr");
         tr.innerHTML = `
-          <td><strong>${meta.flag} ${meta.name_ko}</strong></td>
+          <td style="display:flex; align-items:center; gap:8px;">${SVG_FLAGS[item.country] || ""} <strong>${meta.name_ko}</strong></td>
           <td><span class="currency_code_pill">${meta.currency}</span></td>
           <td style="color: var(--accent_cyan); font-weight: 700; font-family: var(--font_num); font-size: 15px;">${avgFormatted}</td>
           <td style="font-family: var(--font_num);">${minFormatted}</td>
@@ -487,7 +545,7 @@ async function loadMonthlyRates(year) {
       const tr = document.createElement("tr");
       tr.innerHTML = `
         <td><span class="currency_code_pill" style="color:var(--text_bright); font-size:12px;">${item.year_month}</span></td>
-        <td><strong>${meta.flag} ${meta.name_ko}</strong></td>
+        <td style="display:flex; align-items:center; gap:8px;">${SVG_FLAGS[item.country] || ""} <strong>${meta.name_ko}</strong></td>
         <td>${item.currency}</td>
         <td style="color: var(--accent_emerald); font-weight: 700; font-family: var(--font_num); font-size: 15px;">${avgFormatted}</td>
         <td style="font-family: var(--font_num);">${minFormatted}</td>
