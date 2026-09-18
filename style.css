@@ -1065,3 +1065,66 @@ body {
   border-radius: var(--radius-md);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
+
+
+/* 괄호 결함 없는 프리미엄 커스텀 날짜 선택기 */
+.custom_date_box {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.input_date_clean {
+  background: var(--bg-glass-input);
+  border: 1px solid var(--border-glass);
+  border-radius: var(--radius-md);
+  padding: 9px 38px 9px 14px;
+  color: #ffffff;
+  font-family: var(--font-num);
+  font-size: 13.5px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  width: 145px;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.input_date_clean:focus {
+  border-color: var(--accent-indigo);
+  box-shadow: 0 0 12px rgba(99, 102, 241, 0.35);
+}
+
+.btn_calendar_trigger {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  border-radius: 4px;
+  transition: color 0.2s, transform 0.2s;
+}
+
+.btn_calendar_trigger:hover {
+  color: #38bdf8;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.hidden_native_picker {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  pointer-events: none;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  padding: 0;
+  margin: -1px;
+}

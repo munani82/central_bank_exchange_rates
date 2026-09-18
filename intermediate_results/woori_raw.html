@@ -1,0 +1,2791 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	 
+	
+			
+				
+		
+		
+			<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+				
+	
+
+
+	<title>일별환율조회 - 우리은행</title>
+	
+		<style type="text/css" media="print">
+		html {overflow-y:scroll;width:100%;height:100%;}
+		body {width:100% !important;}
+		</style>
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/base.css?1778572891000" type="text/css" />
+
+		<!--[if !IE]>
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/animations.css?1363353990000" type="text/css" />
+
+		<![endif]-->
+		
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/layout.css?1695198620000" type="text/css" />
+
+		
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/common.css?1778144490000" type="text/css" />
+
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/common_section.css?1778144490000" type="text/css" />
+
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/common_popup.css?1616055240000" type="text/css" />
+
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/common_promotion.css?1778745696000" type="text/css" />
+
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/print.css?1514529677000" type="text/css" media="print" />
+
+		
+		
+		<!--[if gt IE 7]><!-->
+		<link rel="stylesheet" type="text/css" href="/css/hover.css" />
+		<!--<![endif]-->
+		
+	
+	
+		<link  rel="stylesheet" href="https://simg.wooribank.com/css/fx.css?1618561184000" type="text/css" />
+
+				
+	<!--[if gt IE 8]><!-->
+	<link  rel="stylesheet" href="https://simg.wooribank.com/css/css3.css?1366707921000" type="text/css" />
+
+	<!--<![endif]-->
+	
+	
+	
+	
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/jquery-1.7.1.min.js?1363353990000"></script>
+
+
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/jquery-ui-1.8.24.custom.min.js?1363353990000"></script>
+
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/jquery.bgpos.min.js?1363353990000"></script>
+ 
+	
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/wbui.min-20130514-2.js?1779868892000"></script>
+
+	
+	
+
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/calendar.js?1365500133000"></script>
+
+	<!--[if lt IE 7]>
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/unitpngfix.js?1365493928000"></script>
+
+	<![endif]-->
+	
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/ui_frm_common.js?1697533200000"></script>
+
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/common.js?1525668543000"></script>
+
+	
+	
+	
+	
+	
+		
+	
+	
+	<script type="text/javascript">
+		var IMG_SVR= "https://simg.wooribank.com/" ; 
+		var TOP_PAGE_ID= "fx" ; 
+		var ML_LCL= '' ; 
+		if(typeof wbUI !== 'undefined') {
+			wbUI.printPopAddress = 'Dream?withyou=CMCOM0106'; //: /pib/Dream?withyou=print
+			wbUI.lang = "ko";
+			
+			wbUI.isDebug=false;
+			
+		}
+	</script>
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		// 개인
+		var top_installurl = "/pot/Dream?withyou=CMCOM0127";	
+	
+		
+		<!-- 영문 통합설치 페이지 -->
+		
+		
+		
+		
+		
+		
+		
+		<!-- 영문 통합설치 페이지 -->
+		
+		
+	
+		
+		var xecure_plugin_info = {
+			"OBJECT_VERSION"	:"1,0,5,16",
+			"INSTALL_URL"		: top_installurl + "&P_name=XecureWeb&url=" + encodeURIComponent(window.location.href)
+		};
+				
+		var touchenkey_plugin_info = {
+			"OBJECT_VERSION"	:"",
+			"INSTALL_URL"		: top_installurl + "&P_name=TouchEnKey&url=" + encodeURIComponent(window.location.href)
+		};
+				
+		var crownix_plugin_info = {
+			"OBJECT_VERSION"	:"",
+			"OS_TYPE" : "WIN6.1",
+			"INSTALL_URL"		: top_installurl + "&P_name=Crownix&url=" + encodeURIComponent(window.location.href)
+		};
+				
+		var markany_plugin_info = {
+			"OBJECT_VERSION"	:"",
+			"INSTALL_URL"		: top_installurl + "&P_name=Markany&url=" + encodeURIComponent(window.location.href)
+		};
+		
+		var KSCertRelayW_plugin_info = {
+			"OBJECT_VERSION"         :"1,0,2,1",
+			"OBJECT_CODE"             :" KSCertRelayW",
+			"INSTALL_URL"              : top_installurl + "&P_name=KSCertRelayW&url=" + encodeURIComponent(window.location.href)
+		};
+		var KSCertRelay_plugin_info = {
+			"OBJECT_VERSION"         :"2,0,1,9",
+			"OBJECT_CODE"             :" KSCertRelay",
+			"INSTALL_URL"              : top_installurl + "&P_name=KSCertRelay&url=" + encodeURIComponent(window.location.href)
+		};
+				
+		var ipinside_plugin_info = {
+			"OBJECT_VERSION"	:"",
+			"INSTALL_URL"		:  top_installurl + "&P_name=IPinside&url=" + encodeURIComponent(window.location.href)
+		};
+		
+		var fwgrid_plugin_info = {
+			"OBJECT_VERSION"	: "1.0.1.0",
+			"INSTALL_URL"		: top_installurl + "&P_name=FWGrid&url=" + encodeURIComponent(window.location.href)
+		}; 
+				
+		var veraport_plugin_info = {
+			"OBJECT_VERSION"	:"",
+			"INSTALL_URL"		: top_installurl + "&P_name=Veraport&url=" + encodeURIComponent(window.location.href)
+		};
+//]]>		
+	</script>
+	
+	
+</head> 
+<!--[if lt IE 7]><body class="msie ie6 lt-ie9 lt-ie8 lt-ie7 lt-css3"><![endif]-->
+<!--[if IE 7]>   <body class="msie ie7 lt-ie9 lt-ie8 lt-css3"><![endif]-->
+<!--[if IE 8]>   <body class="msie ie8 lt-ie9 lt-css3"><![endif]-->
+<!--[if IE 9]>   <body class="msie ie9 css3"><![endif]-->
+<!--[if gt IE 9]><!-->
+<body class="css3">
+<!--<![endif]-->
+	
+
+ 
+
+	
+<div id="accNav">
+	
+	<p><a href="#container" class="skip">본문으로 바로가기</a></p>
+	<p><a href="#footer" class="skip">푸터 바로가기</a></p><!-- 접근성 수정요청 사항 20210311 -->
+	<!-- <p><a  href="/pot/Dream?withyou=CQIBG0050">웹접근성 이용안내 바로가기</a></p>  접근성 수정(특정 콘텐츠나 다른 페이지로 이동되는 스킵메뉴를 제공하지 않아야 함) -->
+</div>
+
+	<div id="wrap">
+		<!-- header -->
+		<div id="header" class="snb-padding">
+			
+
+
+
+
+
+
+ 
+<script  type="text/javascript" src="https://simg.wooribank.com/js/com/setupCrmArea.js?1525850521000"></script>
+
+
+    <div id="gnb">
+    <input type="hidden" name="PAGE_ID" value="FXXRT0011"/>
+	
+	
+    <a href="https://www.wooribank.com" class="woori fleft" title="메인 페이지 바로가기"><img  alt="우리은행" src="https://simg.wooribank.com/img/common/header/woori_s.png" /></a>
+    <h1><a 
+    	class='site fleft' href="/pot/Dream?withyou=fx"><img src='https://simg.wooribank.com/img/common/header/tit_h1/fx.png' 
+    	alt='외환센터' /></a>
+    </h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<style>
+.gnb-member-bt:focus{outline:4px solid #0078d4;border-radius:3px;}
+</style>
+<dl class="my-svc">
+<dt>회원관련 서비스</dt>
+
+	
+	<dd class="btn">
+		<div class="js-display-hover btn-login">
+			<a href="#none" class="gnb-member-bt  js-display-hover-trigger" onclick="return false;"><span>로그인</span></a>
+			<div class="js-display-hover-area select-banking-type">
+				<a href="https://spib.wooribank.com/pib/Dream?withyou=CMLGN0001&target=https://spot.wooribank.com/pot/Dream?withyou=FXXRT0011" class="on" >개인뱅킹</a>
+				|
+				<a href="https://sbiz.wooribank.com/biz/Dream?withyou=BILGN0008&target=https://spot.wooribank.com/pot/Dream?withyou=FXXRT0011" class="on" >기업뱅킹</a>
+			</div>
+			<span class="select-banking-type-arrow js-display-hover-area" data-ui-animation="false"></span>
+		</div>
+	</dd>
+	<dd class="txt">
+		<div class="js-display-hover btn-certificate-center">
+			<a href="#none" class="js-display-hover-trigger" onclick="return false;">인증센터</a>
+			<div class="js-display-hover-area select-banking-type">
+				<a href="https://spib.wooribank.com/pib/Dream?withyou=ct&fromSite=pib" class="on">개인</a>
+				|
+				<a href="https://sbiz.wooribank.com/biz/Dream?withyou=ct&fromSite=biz">기업</a>
+			</div>
+			<span class="select-banking-type-arrow js-display-hover-area" data-ui-animation="false"></span>
+		</div>
+	</dd>
+	
+
+</dl>
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+<script type="text/javascript">//<![CDATA[
+String.prototype.cut = function(len) { var str = this; var s = 0; for (var i=0; i<str.length; i++) { s += (str.charCodeAt  > 128) ? 2 : 1; if (s > len){ return str.substring(0,i); } } return str; }
+$(function(){ $('.login-name1',$('.my-svc')).text( $('.login-name1',$('.my-svc')).text().cut(7) ); $(".login .fishing-img a.js-display-hover-trigger").focus(function(){$(".js-display-hover-area.fishing-word-wrap").show();}); });	// 이름: 한글기준7자출력
+
+//]]></script>
+
+
+	<script type="text/javascript">
+	var strSelfUrl = "https://spot.wooribank.com/pot/";
+		function showLogoutWarning(dis) {
+			var renewalCardURL = 'https://pc.wooricard.com'; 
+			
+			//테스트서버 연결링크
+			if('test' == 'real'){
+				if( 'cb' == dis  ) { 
+					renewalCardURL = 'https://twww.wooricard.com/dcpc/yh2/main.do';
+				}else{
+					renewalCardURL = 'https://twww.wooricard.com';
+				}
+			}
+			//개발서버 연결링크
+			else if('development' == 'real'){
+				if( 'cb' == dis  ) { 
+					renewalCardURL = 'https://dwww.wooricard.com/dcpc/yh2/main.do';
+				}else{
+					renewalCardURL = 'https://dwww.wooricard.com';
+				}
+			}
+			//운영서버 연결링크
+			else {
+				if( 'cb' == dis  ) { 
+					renewalCardURL = 'https://pc.wooricard.com/dcpc/yh2/main.do';
+				}else{
+					renewalCardURL = 'https://pc.wooricard.com';
+				}
+			}
+			
+			
+			
+			window.open(renewalCardURL,"_self");
+		}
+	</script>
+	<dl class="rel-svc">
+		<dt>우리은행 관련 서비스 링크 및 검색</dt>
+		<dd><a  href="https://spib.wooribank.com/pib/Dream?withyou=ps"><img src="https://simg.wooribank.com/img/common/header/new_tit_ps.png" alt="개인" /></a></dd>
+		
+				<dd><a  href="https://nbi.wooribank.com/nbi/Dream?withyou=bi"><img src="https://simg.wooribank.com/img/common/header/new_tit_bz.png" alt="기업" /></a></dd>
+		
+		<dd><a  href="https://spot.wooribank.com/pot/Dream?withyou=wa"><img src="https://simg.wooribank.com/img/common/header/new_tit_wa.png" alt="자산관리" /></a></dd>
+		<dd><a  href="https://spot.wooribank.com/pot/Dream?withyou=po"><img src="https://simg.wooribank.com/img/common/header/new_tit_po.png" alt="금융상품" /></a></dd>
+		<dd>
+			
+				
+				
+					<a href="javascript:showLogoutWarning('cd')"><img src="https://simg.wooribank.com/img/common/header/new_tit_cd.png" alt="우리카드" /></a>
+				
+			
+		</dd>
+		
+			
+			
+				<dd class="mr15">
+					<a  href="/pot/Dream?withyou=CMCOM0408&amp;TOP_PAGE_ID=fx" class="btn-popup"><img  alt="전체메뉴" src="https://simg.wooribank.com/img/common/header/tit_sitemap.png" /></a>
+				</dd>
+			
+			
+	</dl>
+	<form method="post" action="https://spot.wooribank.com/pot/Dream?withyou=CMCOM0007">
+		<div class="search2">
+			<input class="text font-c-7" type="text" style="width:96px;" name="query" title="검색어 입력" value="" onfocus="this.value=''" />
+			<input class="submit" type="image" src="/img/common/header/icon_search.png" alt="검색" />
+		</div>
+	</form>
+</div>
+
+
+
+
+
+
+
+
+
+
+<script  type="text/javascript" src="https://simg.wooribank.com/js/com/setupCrmArea.js?1525850521000"></script>
+
+
+	
+	
+<div id="lnb">
+	<input type="hidden" name="PAGE_ID" value="FXXRT0011"/>
+	<span class="hidden">대메뉴</span>
+	<ul class="level1 level1-fx">
+			 
+		<li class="level1-item level1-item-0 current"><a href="/pot/Dream?withyou=FXXRT0001" class="level1-item-a-0">환율</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0002">환율조회</a></dt>
+		
+		<dd	class="current"><a href="/pot/Dream?withyou=FXXRT0011">일별환율조회</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0014">기간별환율조회</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0016">기간별평균환율조회</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0011">인천공항지점환율조회</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0003">환가료율조회</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0004">환율그래프</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0005">환율동향</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0027">환율동향(일일)</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0032">환율특화서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0033">환율SOS서비스</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0006">SMS우리통지서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0018">환율통지서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0019">환율지정알림서비스</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXXRT0007">무료환율표서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0020">이용안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0021">무료환율표A형</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0022">무료환율표B형</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0023">무료환율표C형</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXXRT0024">English</a></dd>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-1 "><a href="/pot/Dream?withyou=FXFCE0001" class="level1-item-a-1">환전</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCE0002">환전안내</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXCNT0001">환전이용안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0008">환전한도안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0009">미화위폐감별요령</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0037">외국동전환전 유의사항</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCE0003">환전우대서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0010">해외여행자보험</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0011">해외로보너스카드</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCE0004">인터넷환전</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0012">이용안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0013">유의사항안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCE0014">우대서비스안내</a></dd>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-2 "><a href="/pot/Dream?withyou=FXFCR0001" class="level1-item-a-2">해외송금</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCR0002">송금안내</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0009">이용안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0036">거래외국환은행 지정</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0010">한도및준비서류안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCR0003">해외송금</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0011">인터넷해외송금</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0012">해외송금예약</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0016">정기적해외송금등록</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0015">해외송금추적서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0038">우리퀵글로벌송금</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCR0004">외화송금받기</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCR0005">MoneyGram</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0017">MoneyGram안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0018">MoneyGram장점</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0019">MoneyGram수수료</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0039">MoneyGram홈딜리버리서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0040">MoneyGram다이렉트해외송금서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0042">MoneyGram모바일송금</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFCR0008">해외송금특화서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0006">우리ONE송금클럽</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0007">우리WEB송금</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0031">우리ONE해외송금서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0032">다이렉트해외송금서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0033">자동화기기해외송금서비스</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFCR0034">무계좌해외송금서비스</a></dd>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-3 "><a href="/pot/Dream?withyou=FXTRS0001" class="level1-item-a-3">국내외화이체</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXTRS0002">원화계좌로이체</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXTRS0003">외화계좌로이체</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXTRS0004">다른은행으로이체</a></dt>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-4 "><a href="/pot/Dream?withyou=FXDEP0001" class="level1-item-a-4">외화예금</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXDEP0002">외화예금상품</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXDEP0003">인터넷외화예금</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXDEP0004">외화예금안내</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXDEP0008">외화예금계정안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXDEP0006">거주자의예금</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXDEP0007">비거주자의예금</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXDEP0005">외화예금이율조회</a></dt>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-5 "><a href="/pot/Dream?withyou=FXFXT0001" class="level1-item-a-5">eZ-FX</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXT0013">환율정보</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0014">주요이벤트</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0015">통화별휴일</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXT0016">FX트레이딩</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0002">이용안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0003">실시간매매</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0004">예약매매</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0010">영업점예약환율매매</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXT0017">선물환</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0018">이용안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXT0019">상품안내</a></dd>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-6 "><a href="/pot/Dream?withyou=FXEIM0001" class="level1-item-a-6">수출입</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0052">수출입전자무역서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0053">PTB(은행고객용전자무역서비스)</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0002">비대면 신용장개설서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0014">비대면 신용장개설서비스 안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0003">수출</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0015">수출업무안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0016">신용장통지/확인/양도</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0017">신용장방식매입</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0018">무신용장방식매입</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0019">수출보험제도</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0020">해외채권추심대행서비스</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0004">수입</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0021">수입업무안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0022">수입신용장발행</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0023">수입화물선취보증</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0024">D/P,D/A방식수입거래</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0025">송금방식수입거래</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0005">수출서류추적서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0026">서비스안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0006">비대면 신용장개설신청</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0007">적하보험</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0044">무역금융</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0008">무역금융업무안내</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0045">인터넷무역금융서비스안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0046">수출입통관·관세상담</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0047">수출입통관·관세상담서비스</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0050">수입선적서류추적서비스</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXEIM0051">서비스안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXEIM0049">수출입통계정보서비스</a></dt>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+			 
+		<li class="level1-item level1-item-7 "><a href="/pot/Dream?withyou=FXFXG0001" class="level1-item-a-7">외환가이드</a>
+		
+			
+		
+		
+		
+		
+		<div class='lnb-sub-ly'><div class='lnb-ly '>
+		
+		
+		<ul class="lnb-list">
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0002">외환상담코너</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0009">외환법규상담</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0010">수출입업무상담</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0011">무역금융상담</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0061" onclick='location.href=&quot;Dream?withyou=ENENG0678&quot;;return false'>외국인근로자휴면보험금안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0003">서식/약관</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0012">서식</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0013">약관</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0004">법령/규정</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0014">외국환거래법</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0015">대외무역법</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0016">신용장통일규칙</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0017">추심에관한통일규칙</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0109">글로벌외환시장행동규범</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0005">해외투자</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0018">해외부동산취득</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0019">해외직접투자</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0020">해외지사 설치</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0111">상계</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0116">제3자 지급</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0006">외국인투자</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0021">외국인직접투자</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0022">간접투자</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0023">부동산투자</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0024">외화예금</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0081">공익사업 투자이민제</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0084">에스크로 서비스 안내</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0007">외환거래시유의사항</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0008">외환수수료</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0025">외환수수료</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0026">수출입수수료</a></dd>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0076">글로벌투자WON센터</a></dt>
+		
+		</dl></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<li><dl><dt><a href="/pot/Dream?withyou=FXFXG0088">해외송금</a></dt>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0078">개인고객</a></dd>
+		
+		<dd	><a href="/pot/Dream?withyou=FXFXG0079">기업 및 개인사업자 고객</a></dd>
+		
+		</dl></li>
+		</ul>
+		
+		
+		
+		</div></div>
+		
+		
+		
+		</li>
+		
+		
+			
+		
+			
+	</ul>
+</div>
+
+
+<script type="text/javascript">
+	$('#lnb').wbUI('setLnbLevel1');
+	
+	
+	
+		
+	
+</script>
+
+
+<div id="util">
+	<div class="util-inner">
+	<span class="hidden">현재 메뉴 위치는</span>	
+	<ol class="linemap">
+		<li class="home"><a href="/pot/Dream?withyou=CMCOM0126">Home</a></li>
+		
+		<li><a href="/pot/Dream?withyou=fx">외환센터</a></li>
+		
+		<li><a href="/pot/Dream?withyou=FXXRT0001">환율</a></li>
+		
+		<li><a href="/pot/Dream?withyou=FXXRT0002">환율조회</a></li>
+		<li class="on"><span>일별환율조회</span></li>
+		
+	</ol>
+	<span class="hidden">에 있습니다.</span>
+	
+	<span class="util-btn">
+		<span class="hidden">현재페이지 부가기능</span>
+		<a  href="/pot/Dream?withyou=CMCOM0176" class="btn-pack btn-type-1  btn-popup">축소/확대보기</a>		
+		
+		
+				
+		<span id="comGridHelpLink" style="display:none;"><a  href="/pot/Dream?withyou=CMCOM0220" class="btn-pack btn-type-1  btn-popup">표도움말</a></span>
+		<a href="#container" class="btn-pack btn-type-1 js-btn-print">화면인쇄</a>
+		<!-- <a href="#container" class="btn-pack btn-type-1 js-btn-print" data-popup="true" title="새창">인쇄(팝업에서 인쇄)</a> -->
+		
+				
+	</span>	
+	</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+// 나의메뉴등록		
+function insertMyMenuLink(){
+	if(getCurrentUserLoginYN()=='Y'){
+		var insert_url = '/pot/jcc?withyou=CMCOM0213&__ID=c012546';	// /com/mymenu/insertmymenulink.jsp
+		var params = '&PAGE_ID=FXXRT0011';
+		$.ajax({
+			url : insert_url,
+			data : params,
+			async: false,
+			success : function(data, txtS, xhr) {
+				data = $.trim(data);	
+				if(-1 != data.indexOf('SUCCESS')){	//등록성공
+					// 나의 메뉴 등록이 성공하면, 페이지 하단의 개인화영역이 활성화되면서 올라온다. 	
+					try{
+						$.selectMymenu();	// 좌측 SNB 마이메뉴 list refresh
+						alert('마이메뉴를 등록했습니다.');
+						var obj = document.getElementById('personalDiv');
+						if(obj != null && typeof(obj) != 'undefined' && getSWF('personalization') != undefined && getSWF('personalization') != null) {
+							regMyMenuSuccess();
+						}
+					} catch (e) { }
+				} else if(-1 != data.indexOf('DUPLICATED')){	//중복
+					alert('이미 등록된 메뉴입니다.');
+				} else if(-1 != data.indexOf('OVER20')){	 //20개초과
+					alert('마이메뉴가 이미 20개 등록되어 있습니다.');
+				} else if(-1 != data.indexOf('ERROR')){	//기타에러
+					alert('마이메뉴 등록에 실패했습니다.');
+				} else{	//Unknown
+					alert('마이메뉴 등록중 오류가 발생했습니다.');
+				}
+			},
+			error : function(xhr, txtS, err){
+				alert('마이메뉴 등록중 오류가 발생했습니다.');
+			}
+		});
+	}else{
+		alert('마이메뉴는 로그인 후 이용하실 수 있습니다');//2013-03-17 JHLee
+	}
+}
+
+// 로그인여부	
+function getCurrentUserLoginYN() {
+	return 'N';
+}
+
+// 나의 메뉴 등록 성공시	
+function regMyMenuSuccess() {
+	openPersonalDIVAndSWF();
+	if(getCurrentUserLoginYN()=='Y') {
+		myMenuTimer = setTimeout( 'regMyMenuSuccessToFLEX()', 100 );
+	}
+}
+
+//개인화 영역 열기	
+function openPersonalDIVAndSWF() {
+	if( document.getElementById('personalDiv').style.display == 'none' ) {
+		document.getElementById('personalDiv').style.left = 14;
+		document.getElementById('personalDiv').style.display = 'inline';
+
+		document.getElementById('personalDiv_iframeDiv').style.left = 14;
+		document.getElementById('personalDiv_iframeDiv').style.display = 'inline';
+	}
+	else {
+		getSWF( 'personalization' ).showPersonalizationDomain();
+		getSWF( 'personalization' ).width = 870;
+		getSWF( 'personalization' ).height = 215;
+
+		document.getElementById('personalDiv').style.width = 870;
+		document.getElementById('personalDiv').style.height = 215;
+		document.getElementById('personalDiv').style.left = 14;
+
+		document.getElementById('personalDiv_iframeDiv').style.display = 'inline';
+	}
+}
+
+
+function getSWF(movieName) {
+	if (navigator.appName.indexOf('Microsoft') != -1) {
+		return window[movieName];
+	} else {
+		return document[movieName];
+	}
+}
+
+
+
+//]]>
+</script>
+
+
+
+		</div>
+		<script type="text/javascript">
+			$('#header a.btn-pack').wbUI('setBtnPack');
+		</script>
+		<!-- //header -->
+		<!-- container -->
+		<div id="container" class="snb-padding">
+			<!-- content_common -->
+			
+<div class="title-area clearfix" id="contentTitle">
+	<h2 class="fleft">일별환율조회</h2>
+</div>   
+
+
+  
+
+  
+
+<script type="text/javascript">
+	$('.tab1').wbUI('setTab1');
+	$('.tab3').removeAttr("style", "top");
+	$('.tab3 a').css("margin-left", "1px");
+</script>
+<div class="error-wrap">
+
+</div>
+ 
+
+			<!-- content_common -->
+			<!-- content -->
+			<div id="content">
+				
+
+		
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              			
+				  			
+
+
+
+
+
+
+
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="info-area">
+	<div class="info-r">
+		<dl class="info-txt">
+			<dt></dt>
+			<dd class="f"><div id="dateTime"></div></dd>
+		</dl>
+	</div>
+</div>
+
+<form  data-target="#resultArea" name="frm" action="" class="ajax-form" method="post" id="frm">
+
+
+<input type="hidden" name="BAS_DT" id="BAS_DT" value="" />
+<input type="hidden" name="NTC_DIS" id="NTC_DIS" value="" />
+
+	<fieldset class="mb30">
+		<table class="tbl-type mb20" border="1" cellspacing="0" summary="제공">
+			<caption>일별환율 조회</caption>
+			<colgroup>
+				<col width="150" />
+				<col />
+				<col width="150" />
+				<col />
+			</colgroup>
+			<tbody>
+				<tr>
+					<th scope="row" ><label for="a1">통화</label></th>
+					<td>
+						<select id="a1" name="INQ_DIS" title="통화">
+							<option value="" checked>전체</option>
+							
+							
+							<option value="USD"  >USD(미국)</option>
+							
+							<option value="JPY"  >JPY(일본(100))</option>
+							
+							<option value="EUR"  >EUR(유럽연합)</option>
+							
+							<option value="AED"  >AED(U.A.E)</option>
+							
+							<option value="ARS"  >ARS(아르헨티나)</option>
+							
+							<option value="AUD"  >AUD(호주)</option>
+							
+							<option value="BDT"  >BDT(방글라데시)</option>
+							
+							<option value="BHD"  >BHD(바레인)</option>
+							
+							<option value="BND"  >BND(브루나이)</option>
+							
+							<option value="BRL"  >BRL(브라질)</option>
+							
+							<option value="CAD"  >CAD(캐나다)</option>
+							
+							<option value="CHF"  >CHF(스위스)</option>
+							
+							<option value="CNY"  >CNY(중국)</option>
+							
+							<option value="CZK"  >CZK(체코)</option>
+							
+							<option value="DKK"  >DKK(덴마크)</option>
+							
+							<option value="EGP"  >EGP(이집트)</option>
+							
+							<option value="FJD"  >FJD(피지)</option>
+							
+							<option value="GBP"  >GBP(영국)</option>
+							
+							<option value="HKD"  >HKD(홍콩)</option>
+							
+							<option value="HUF"  >HUF(헝가리)</option>
+							
+							<option value="IDR"  >IDR(인도네시아(100))</option>
+							
+							<option value="ILS"  >ILS(이스라엘)</option>
+							
+							<option value="INR"  >INR(인도)</option>
+							
+							<option value="JOD"  >JOD(요르단)</option>
+							
+							<option value="KHR"  >KHR(캄보디아(100))</option>
+							
+							<option value="KWD"  >KWD(쿠웨이트)</option>
+							
+							<option value="KZT"  >KZT(카자흐스탄)</option>
+							
+							<option value="LKR"  >LKR(스리랑카)</option>
+							
+							<option value="MNT"  >MNT(몽골)</option>
+							
+							<option value="MXN"  >MXN(멕시코)</option>
+							
+							<option value="MYR"  >MYR(말레이지아)</option>
+							
+							<option value="NOK"  >NOK(노르웨이)</option>
+							
+							<option value="NPR"  >NPR(네팔)</option>
+							
+							<option value="NZD"  >NZD(뉴질랜드)</option>
+							
+							<option value="PEN"  >PEN(페루)</option>
+							
+							<option value="PHP"  >PHP(필리핀)</option>
+							
+							<option value="PKR"  >PKR(파키스탄)</option>
+							
+							<option value="PLN"  >PLN(폴란드)</option>
+							
+							<option value="QAR"  >QAR(카타르)</option>
+							
+							<option value="RUB"  >RUB(러시아)</option>
+							
+							<option value="SAR"  >SAR(사우디)</option>
+							
+							<option value="SEK"  >SEK(스웨덴)</option>
+							
+							<option value="SGD"  >SGD(싱가포르)</option>
+							
+							<option value="THB"  >THB(태국)</option>
+							
+							<option value="TRY"  >TRY(튀르키예)</option>
+							
+							<option value="TWD"  >TWD(대만)</option>
+							
+							<option value="VND"  >VND(베트남(100))</option>
+							
+							<option value="XAG"  >XAG(SILVER 1g)</option>
+							
+							<option value="XAU"  >XAU(GOLD 1g)</option>
+							
+							<option value="ZAR"  >ZAR(남아공)</option>
+							
+						 </select>
+					</td>
+					<th scope="row"><label for="c1">고시회차</label></th>
+					<td>
+						<select id="c1" name="NTC_DIS" title="고시회차">
+							<option value="A" selected>현재</option>
+<option value="B">최초고시</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row"><label for="SELECT_DATE">조회일</label></th>
+					<td colspan="3">
+						<div id="dateRange1">
+							 <script type="text/javascript">//<![CDATA[
+ $(function(){    if($('label[for=SELECT_DATE]').length > 0){ $('label[for=SELECT_DATE]').attr('for', 'SELECT_DATEY'); }     if(typeof calValidateAndSetVal !== 'function'){ $('<script>').attr({type:'text/javascript',src:'https://simg.wooribank.com//js/com/calendar.js',charset:'utf-8'}).appendTo('head'); }  }); var cld_param_SELECT_DATE = {type:'SELBOX',id:'SELECT_DATE',name:'SELECT_DATE',frm:'',title:'조회일',minDate:'20000101',maxDate:'20260918',format:'.',valFormat:'1',blank:'0',descY:'0',descM:'0',descD:'0',inspect:'0',readonly:'0',standardDate1:'',oper1:'',msg1:'종료일자보다 이전으로 선택해주십시오.',standardDate2:'',oper2:'',msg2:'',offset:'SELECT_DATEY',cal_top:'30',url_picker:'/pot/Dream?withyou=CMCOM0065',url_check:'/pot/jcc?withyou=CMCOM0064&__ID=c003128'};   
+//]]></script>  <input type="hidden" name="SELECT_DATE" id="SELECT_DATE" value="2026.09.18" />  <select name="SELECT_DATEY" id="SELECT_DATEY" title="조회일-년" class="" style="" 0 onchange="calValidateAndSetVal(this, cld_param_SELECT_DATE ); " >	<option value='2000'>2000</option><option value='2001'>2001</option><option value='2002'>2002</option><option value='2003'>2003</option><option value='2004'>2004</option><option value='2005'>2005</option><option value='2006'>2006</option><option value='2007'>2007</option><option value='2008'>2008</option><option value='2009'>2009</option><option value='2010'>2010</option><option value='2011'>2011</option><option value='2012'>2012</option><option value='2013'>2013</option><option value='2014'>2014</option><option value='2015'>2015</option><option value='2016'>2016</option><option value='2017'>2017</option><option value='2018'>2018</option><option value='2019'>2019</option><option value='2020'>2020</option><option value='2021'>2021</option><option value='2022'>2022</option><option value='2023'>2023</option><option value='2024'>2024</option><option value='2025'>2025</option><option value='2026' selected>2026</option></select>년&nbsp;<select name="SELECT_DATEM" id="SELECT_DATEM" title="조회일-월" class="" style="" 0 onchange="calValidateAndSetVal(this, cld_param_SELECT_DATE ); " >	<option value='01'>01</option><option value='02'>02</option><option value='03'>03</option><option value='04'>04</option><option value='05'>05</option><option value='06'>06</option><option value='07'>07</option><option value='08'>08</option><option value='09' selected>09</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option></select>월&nbsp;<select name="SELECT_DATED" id="SELECT_DATED" title="조회일-일" class="" style="" 0 onchange="calValidateAndSetVal(this, cld_param_SELECT_DATE ); " >	<option value='01'>01</option><option value='02'>02</option><option value='03'>03</option><option value='04'>04</option><option value='05'>05</option><option value='06'>06</option><option value='07'>07</option><option value='08'>08</option><option value='09'>09</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option><option value='13'>13</option><option value='14'>14</option><option value='15'>15</option><option value='16'>16</option><option value='17'>17</option><option value='18' selected>18</option><option value='19'>19</option><option value='20'>20</option><option value='21'>21</option><option value='22'>22</option><option value='23'>23</option><option value='24'>24</option><option value='25'>25</option><option value='26'>26</option><option value='27'>27</option><option value='28'>28</option><option value='29'>29</option><option value='30'>30</option></select>일  <a id="cld_a_SELECT_DATE" class="btn-calendar js-btn-calendar" href="#" onclick="calBindPicker(this, 'SELECT_DATE'); return false;" >조회일 달력으로 날짜 선택</a> 
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<div class="btn-area">
+			<input type="submit" class="btn-pack btn-type-3c" onClick="javascript:doSubmit() ;return false;" value="조회" />
+		</div>
+	</fieldset>
+
+</form>
+
+	
+	<div id="resultArea"  class="clearfix mb30"></div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<dl class="box-guide mb30">
+	<dt class="mb12">인터넷환전서비스</dt>
+	<dd class="mb17">
+		<ul>
+			<li class="dot">은행에 방문하지 않아도 인터넷으로 쉽고 편리한 환전!</li>
+			<li class="dot">인터넷환전 신청하시고 가까운 영업점에서 외화수령 하세요!</li>
+		</ul>
+	</dd>
+	<dd>
+			<a class="btn-pack btn-type-guide" href="/pot/Dream?withyou=PSFXD0016" >인터넷환전 바로가기</a>
+	</dd>
+</dl>
+
+<dl class="box-guide mb30">
+	<dt class="mb12">우리 Auto FX 서비스</dt>
+	<dd class="mb17">
+		<ul>
+			<li class="dot">환율 움직임에 민감한 고객님들을 위한 복수의 환율예약 및 이체주기 설정!</li>
+			<li class="dot">이제 우리AutoFX서비스를 통해 원하는 환율로 편리하게 외화매매 하세요!</li>
+		</ul>
+	</dd>
+	<dd>
+			<a class="btn-pack btn-type-guide" href="/pot/Dream?withyou=PSFXD0149" >우리AutoFX서비스 바로가기</a>
+	</dd>
+</dl>
+
+<dl class="box-guide">
+	<dt class="mb12">우리은행 환율지정알림서비스는?</dt>
+	<dd class="mb17">
+		<ul>
+			<li class="dot">고객이 지정한 환율과 은행고시환율이 일치할 경우 통지해 주는 서비스 입니다.</li>
+			<li class="dot">개인뱅킹 로그인 이후 이용 가능합니다!</li>
+		</ul>
+	</dd>
+	<dd>
+			<a class="btn-pack btn-type-guide" href="/pot/Dream?withyou=PSBKM0041" >환율지정알림서비스 바로가기</a>
+	</dd>
+</dl>
+
+
+<div class="notice-bar mt50">
+	<h3 class="notice">알아두세요!</h3>
+	<span class="view"><a class="js-display-toggle" href="#toggleNotice" data-target="#toggleNotice">알아두세요 닫기</a></span>
+</div>
+<div id="toggleNotice" class="mb30">
+	<ul class="notice-list">
+		<li>휴일 및 평일 새벽에 재고시된 환율은 전영업일 마지막 회차에 표시됩니다.</li>
+		<li>일본(JPY), 인도네시아(IDR), 베트남(VND), 캄보디아(KHR)은 100단위로 고시됩니다.</li>
+		<li>중국 위안화 환율(CNY)은 홍콩시장에서 거래되는 위안화 환율(CNH)을고시합니다.</li>
+		<li>적용 환율은 환전지점(환전소)에 따라 다소 차이가 있을 수 있습니다.</li>
+		<li>
+			2002.1.2부터 유로화(EUR)가 전면 통용됨에 따라 NCU통화는 고시되지 않습니다.
+			<ul>
+				<li>
+					<em>EUR교환비율(소수점 둘째자리 미만 반올림)<br/>
+					DEM 1.95583  ｜  FRF 6.55957  ｜  NLG 2.20371  ｜  ITL 1,936.27  ｜  BEF 40.3399  ｜  ESP 166.386  ｜  ATS 13.7603  ｜  FIM 5.94573</em>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<form  name="frmDetail" action="" method="post" id="frmDetail">
+
+
+<input type="hidden" name="BAS_DT_D" id="BAS_DT_D" value="" />
+<input type="hidden" name="NAT_CODE" id="NAT_CODE" value="" />
+<input type="hidden" name="DATE_TIME" id="DATE_TIME" value="" />
+<input type="hidden" name="DIS" id="DIS" value="1" />
+
+<input type="hidden" name="sdata" value="USD#미국^JPY#일본^EUR#유럽연합^AED#U.A.E^ARS#아르헨티나^AUD#호주^BDT#방글라데시^BHD#바레인^BND#브루나이^BRL#브라질^CAD#캐나다^CHF#스위스^CNY#중국^CZK#체코^DKK#덴마크^EGP#이집트^FJD#피지^GBP#영국^HKD#홍콩^HUF#헝가리^IDR#인도네시아^ILS#이스라엘^INR#인도^JOD#요르단^KHR#캄보디아^KWD#쿠웨이트^KZT#카자흐스탄^LKR#스리랑카^MNT#몽골^MXN#멕시코^MYR#말레이지아^NOK#노르웨이^NPR#네팔^NZD#뉴질랜드^PEN#페루^PHP#필리핀^PKR#파키스탄^PLN#폴란드^QAR#카타르^RUB#러시아^SAR#사우디^SEK#스웨덴^SGD#싱가포르^THB#태국^TRY#튀르키예^TWD#대만^VND#베트남^XAG#SILVER 1g^XAU#GOLD 1g^ZAR#남아공^" />
+</form>
+
+<script type='text/javascript'>
+//<![CDATA[ 
+   var data = new Array();        
+           
+   $(document).ready(function(){
+		//init();
+	 
+		//init();
+	 		
+	});  
+
+	function init() {
+	   doSubmit();
+	}
+	function doSubmit()
+	{
+	 $("#frm #BAS_DT").val(replace($("#frm #SELECT_DATE").val(), ".", ""));
+	 $("#frm #NTC_DIS").val($("#frm #c1").val());
+	 var selectDate = $("#frm #SELECT_DATE").val();
+	 if ($("#frm #BAS_DT").val() > "20260918")
+	 {
+	     alert('조회일이 미래의 날짜입니다.');
+	     return;
+	 }
+	 else
+	 {
+	   $("#frm").attr("action","/pot/jcc?withyou=FXXRT0011&__ID=c008329");
+	   $("#frm").submit();
+	 }
+	}		
+	function setDetail(BASDT,CODE,DATE_TIME){
+		 $("#frmDetail #BAS_DT_D").val(BASDT);
+		 $("#frmDetail #DATE_TIME").val(DATE_TIME);
+		 $("#frmDetail #NAT_CODE").val(CODE);
+		 $("#frmDetail").attr("action","/pot/Dream?withyou=FXXRT0011&__STEP=2");
+		 $("#frmDetail").submit();
+	}
+
+//]]>
+</script>
+			</div>
+			<!-- //content -->
+			<!-- content_common_bottom -->
+			
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script  type="text/javascript" src="https://simg.wooribank.com/js/mall/accChecker.js?1364287758000"></script>
+
+
+
+
+
+
+
+
+
+<div id="promotion">
+	<ul class="list-common-footer clearfix">
+		
+
+<li class="first">
+<h4>인터넷뱅킹 이용안내</h4>
+<div class="ib-use-guide">
+<ul class="clearfix">
+
+
+<li><a href="#" title="새창열림" onclick="jsOpenWindow('/pot/Dream?withyou=CMCOM0231','이용시간안내','1100','650','1','1');return false;">이용시간안내</a></li>
+
+
+<li class="end"><a href="#" title="새창열림" onclick="jsOpenWindow('/pot/Dream?withyou=CMCOM0096','금리조회','925','650','1','1');return false;">금리조회</a></li>
+<li><a href="#" title="새창열림" onclick="jsOpenWindow('/pot/Dream?withyou=CMCOM0243','수수료안내','1100','650','1','1');return false;">수수료안내</a></li>
+<li class="end"><a href="#" title="새창열림" onclick="jsOpenWindow('/pot/Dream?withyou=CMCOM0184','환율조회','900','650','1','1');return false;">환율조회</a></li>
+
+
+<li><a  href="https://spot.wooribank.com/pot/Dream?withyou=CTCER0008&amp;fromSite=pib">인증서발급/재발급</a></li>
+
+
+<li class="end"><a href="#" title="새창열림" onclick="jsOpenWindow('/pot/Dream?withyou=CMBBS0086','금융계산기','900','500','1','1');return false;">금융계산기</a></li>
+<li><a  href="https://spot.wooribank.com/pot/Dream?withyou=CTCER0009">타기관인증서등록</a></li>
+<li><a  href="https://spot.wooribank.com/pot/Dream?withyou=CQSCT0062">보안프로그램설치안내</a></li>
+</ul>
+</div>
+</li>
+		<li class="second">
+			<h4>개인고객</h4>
+			<div class="ib-use-guide">
+				<ul class="clearfix">
+				<li><a href="/pot/Dream?withyou=FXFCE0012">인터넷환전서비스</a></li>
+				<li class="end"><a href="/pot/Dream?withyou=FXFXT0002">FX트레이딩</a></li>
+				<li><a href="/pot/Dream?withyou=FXFCR0029">해외송금서비스</a></li>
+				<li class="end"><a href="/pot/Dream?withyou=FXXRT0018">환율통지서비스</a></li>
+				<li><a href="/pot/Dream?withyou=FXTRS0004">실시간 타행이체</a></li>
+				<li class="end"><a href="/pot/Dream?withyou=FXSTB0001">유학/이주 안내</a></li>
+				</ul>
+			</div>
+		</li>
+		<li class="third">
+			<h4>기업고객</h4>
+			<div class="ib-use-guide">
+				<ul class="clearfix">
+					<li ><a href="/pot/Dream?withyou=FXFCR0028">해외송금서비스</a></li>
+					<li class="end"><a href="/pot/Dream?withyou=FXEIM0015">수출업무서비스</a></li>
+					<li ><a href="/pot/Dream?withyou=FXEIM0014">비대면신용장개설서비스</a></li>
+					<li class="end"><a href="/pot/Dream?withyou=FXEIM0021">수입업무서비스</a></li>
+					<li ><a href="/pot/Dream?withyou=FXEIM0026">수출서류추적</a></li>
+					<li class="end"><a href="/pot/Dream?withyou=FXFXG0053">외국인투자지원</a></li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</div>
+<!-- </c:if> -->
+
+			<!-- content_common_bottom -->
+		</div>
+		<!-- //container -->
+		<!-- footer -->
+		<div id="footer">
+			
+
+ 
+<!--     <div class="footer-nav-area clearfix snb-padding"> -->
+<!--     <div class="footer-nav-area-1"> -->
+<!--     <h2> -->
+<!--         <span class="site">개인뱅킹</span> -->
+<!--         <span>주요서비스<br />바로가기</span> -->
+<!--     </h2> -->
+<!--     </div> -->
+
+<!--     <div class="footer-nav-area-2"> -->
+<!--         <ul class="footer-nav"> -->
+<!--             <li class="col-1"> -->
+<!--                 <dl> -->
+
+
+
+
+
+
+
+<!--                 </dl> -->
+<!--             </li> -->
+<!--             <li class="col-2"> -->
+<!--                 <dl> -->
+
+
+
+
+
+
+
+<!--                 </dl> -->
+<!--             </li> -->
+<!--             <li class="col-3"> -->
+<!--                 <dl> -->
+
+
+
+
+
+
+
+<!--                 </dl> -->
+<!--             </li> -->
+<!--             <li class="col-4"> -->
+<!--                 <dl> -->
+
+
+
+
+
+
+
+<!--                 </dl> -->
+<!--             </li> -->
+<!--         </ul> -->
+<!--     </div> -->
+
+<!--     <div class="footer-nav-area-3"> -->
+<!--         <ul class="l clearfix"> -->
+             
+
+
+
+
+
+
+
+
+<!--         </ul> -->
+<!--                 <ul class="r clearfix"> -->
+
+
+
+
+
+
+
+
+             
+<!--         </ul> -->
+<!--     </div> -->
+
+<!-- </div> -->
+
+
+
+
+<link  rel="stylesheet" href="https://simg.wooribank.com/css/import.css?1658995203000" type="text/css" />
+
+<div id="introFoot">
+<!-- ##### s:차세대대응-[90145954]:: ASIS/TOBE 로그인 구분 ##### -->
+<!-- ##### //e:차세대대응-[90145954]:: ASIS/TOBE 로그인 구분 ##### -->
+    <h2 class="description">우리은행정보 및 우리은행관련사이트</h2>
+    <div class="content">
+        <div class="footer-content">
+            
+
+<style>
+.height260{height: 260px !important;}
+.height280{height: 280px !important;}
+</style>
+    <div class="footer-link">
+        <div class="links"> 
+            <div class="more">
+                <dl class="js-display-hover ars" data-ui-animation="true">
+                    <dt><a href="#none" class="js-display-hover-trigger">대표 <strong>1588-5000</strong></a></dt>
+                    <dd class="etc_box js-display-hover-area w330 left_m30 min-height350">
+                        <ul class="pl15 pr15 pb0">
+                            <li class="title w300">ARS 이용안내</li>
+                            <li class="ars-list clearfix w300">
+                                <div class="left blue">대표전화</div>
+                                <div class="right">
+                                    <p class="top">1588-5000 / 1599-5000 / 1533-5000</p>
+                                    <p class="bot">82-2-2006-5000<span class="gray">(해외)</span></p>
+                                </div>
+                            </li>
+                            <li class="ars-list clearfix w300">
+                                <div class="left gray mtm5">고객의 말씀</div>
+                                <div class="right mb5">
+                                    <p class="mid mt5">080-365-5000</p>
+                                </div>
+                            </li>
+                            <li class="ars-list clearfix w300">
+                                <div class="left blue">신규상담</div>
+                                <div class="right">
+                                    <p class="top"><span class="lltop">예적금</span> 1599-8100</p>
+                                    <p class="bot"><span class="lltop">대출</span> 1599-8300</p>
+                                </div>
+                            </li>
+                            <li class="ars-list none clearfix w300">
+                                <div class="left gray mtm5">어르신 전용</div>
+                                <div class="right mb5">
+                                    <p class="mid mt5">1599-6599</p>
+                                </div>
+                            </li>
+                        </ul>
+                        <span class="country-arrow"></span>
+                    </dd>
+                </dl>
+                
+           <dl class="js-display-hover etc" data-ui-animation="true">
+                    <dt><a href="#none" class="js-display-hover-trigger">기타서비스</a></dt>
+                    <dd class="etc_box js-display-hover-area">
+                        <ul>
+                            <li class="title">기타서비스</li>
+                            <li>
+                                   <a href="#popup" title="팝업새창" onclick="jsOpenWindow('https://spot.wooribank.com/pot/Dream?withyou=CMBBS0092', '법원환급금','720','515','1','1');return false;">법원환급금조회</a>
+                                   <a href="#popup" title="팝업새창" onclick="jsOpenWindow('https://spot.wooribank.com/pot/Dream?withyou=CMCOM0328', '미교부국민주조회','787','570','1','1');return false;">미교부국민주조회</a>
+                                   <a href="#popup" title="팝업새창" onclick="jsOpenWindow('https://spot.wooribank.com/pot/Dream?withyou=CMSPD0042', '상조회사예치금조회','735','450','1','1');return false;">상조회사예치금조회</a>
+                                   <a href="#popup" title="팝업새창" onclick="jsOpenWindow('https://spot.wooribank.com/pot/Dream?withyou=CMSPD0012', '예금잔액증명서발급조회','860','720','1','1');return false;">예금잔액증명서발급조회</a>
+                                   <a href="#popup" title="팝업새창" onclick="jsOpenWindow('https://spot.wooribank.com/pot/Dream?withyou=CMBBS0091', '지급보증서발급조회','740','620','1','1');return false;">지급보증서발급조회</a>
+                                   <a href="#popup" title="팝업새창" onclick="jsOpenWindow('https://spot.wooribank.com/pot/Dream?withyou=CMLGN0011', '서울시예치금내역조회','880','600','1','1');return false;">서울시예치금내역조회</a>
+                            </li>
+                        </ul>
+                        <span class="country-arrow"></span>
+                    </dd>
+                </dl>
+                <dl class="js-display-hover language" data-ui-animation="true">
+                    <dt><a href="#none" class="js-display-hover-trigger">LANGUAGE</a></dt>
+                    <dd class="country-box js-display-hover-area">
+                        <ul>
+                            <li class="title">LANGUAGE</li>
+                            <li><a  href="https://spot.wooribank.com/pot/Dream?withyou=en&amp;LCL=EN" class="flag-us">English</a></li>
+                            <li><a  href="https://svc.wooribank.com/svc/Dream?withyou=ml&amp;LCL=ZH-CHS" class="flag-china">中國語</a></li>
+                            <li><a  href="https://svc.wooribank.com/svc/Dream?withyou=ml&amp;LCL=JA" class="flag-japan">日本語</a></li>
+                            <li><a  href="https://svc.wooribank.com/svc/Dream?withyou=ml&amp;LCL=TL" class="flag-philippines">Tagalog</a></li>
+                            <li><a  href="https://svc.wooribank.com/svc/Dream?withyou=ml&amp;LCL=VI" class="flag-vietnam">tiếng Việt</a></li>
+                            <li><a  href="https://svc.wooribank.com/svc/Dream?withyou=ml&amp;LCL=MN" class="flag-mongolia">Монгол хэл</a></li>
+                        </ul>
+                        <span class="country-arrow"></span>
+                    </dd>
+                </dl>
+                <dl class="js-display-hover family" data-ui-animation="true">
+                    <dt><a href="#none" class="js-display-hover-trigger">패밀리사이트</a></dt>
+                    <dd class="family-box js-display-hover-area height280 w320">
+                        <ul>
+                            <li class="title w100p ml0">패밀리사이트</li>
+                            <li>
+                                
+                                <a title="새창열림" href="https://www.woorifg.com/" target="_blank">우리금융지주</a></li>
+								<li><a title="새창열림" href="https://www.wooricredit.com/" target="_blank">우리신용정보</a></li>
+								<li><a title="새창열림" href="https://www.wooricard.com/" target="_blank">우리카드</a></li>
+								<li><a title="새창열림" href="http://www.woorifs.co.kr/" target="_blank">우리펀드서비스</a></li>
+								<li><a title="새창열림" href="https://www.woorifcapital.com/" target="_blank">우리금융캐피탈</a></li>
+								<li><a title="새창열림" href="http://www.wooripe.com/" target="_blank">우리PE</a></li>
+								<li><a title="새창열림" href="https://www.wooriib.com/" target="_blank">우리투자증권</a></li>
+								<li><a title="새창열림" href="http://www.woorifis.com/" target="_blank">우리FIS</a></li>
+								<li><a title="새창열림" href="http://www.wooriat.com/" target="_blank">우리자산신탁</a></li>
+								<li><a title="새창열림" href="http://www.wfri.re.kr/" target="_blank">우리금융경영연구소</a></li>
+								<li><a title="새창열림" href="http://www.wooriam.kr/" target="_blank">우리자산운용</a></li>
+								<li><a title="새창열림" href="https://www.woorifoundation.or.kr/" target="_blank">우리다문화장학재단</a></li>
+								<li><a title="새창열림" href="https://www.woorisavingsbank.com/" target="_blank">우리금융저축은행</a></li>
+								<li><a title="새창열림" href="http://www.woorimiso.or.kr/" target="_blank">우리미소금융재단</a></li>
+								<li><a title="새창열림" href="https://www.myangel.co.kr/" target="_blank">동양생명</a></li>
+								<li><a title="새창열림" href="http://www.abllife.co.kr/" target="_blank">ABL생명</a></li>
+                        </ul>
+                        <span class="family-arrow"></span>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        <div class="sns-links">
+			<div class="icon facebook"><a href="https://www.facebook.com/wooribank" target="_blank" title="새창열림"><img alt="우리은행 facebook(페이스북) 이동" src="/img/common/footer/icon_facebook_gray.png"></a></div>
+			<div class="icon instagram"><a href="https://www.instagram.com/wooribank_kr/" target="_blank" title="새창열림"><img alt="우리은행 instagram(인스타그램) 이동" src="/img/common/footer/icon_instagram_gray.png"></a></div>
+			<div class="icon post_naver"><a href="https://blog.naver.com/woori_official" target="_blank" title="새창열림"><img alt="우리은행 네이버 블로그 이동" src="/img/common/footer/icon_naver_blog_gray.png"></a></div>
+			<div class="icon youtube"><a href="https://www.youtube.com/user/wooribank" target="_blank" title="새창열림"><img alt="우리은행 youtube(유튜브) 이동" src="/img/common/footer/icon_youtube_gray.png"></a></div>
+			<div class="icon navertv"><a href="http://tv.naver.com/wooribanktv" target="_blank" title="새창열림"><img alt="우리은행 네이버TV 이동" src="/img/common/footer/icon_navertv_gray.png"></a></div>
+		</div>
+
+    </div>
+    <div class="footer-bottom clearfix">
+
+        <div class="logo js-display-hover">
+            <a href="https://www.wooribank.com" class="js-display-hover-trigger"><img  alt="우리은행" src="https://simg.wooribank.com/img/common/footer/icon_woori.gif" /></a>
+            <div class="js-display-hover-area">
+               <ul id="userStats">
+                   <li id="thisOS"></li>
+                   <li id="thisBrowser"><span id="cpuClass"></span></li>                
+                   <li id="thispositionid">FXXRT0011</li>
+                   <li id="thisserver">pot062</li>
+               </ul>
+               <span class="arrow"></span>
+                <script type="text/javascript">
+                  jQuery("#cpuClass").html("-"+navigator.cpuClass);
+                </script>
+           </div>
+        </div>
+        <div class="right-content">
+            <div class="info">
+                <p class="quick">
+                    <a  href="https://spot.wooribank.com/pot/Dream?withyou=bp" target="_blank">은행소개</a>&nbsp;&nbsp;|&nbsp;
+                    <a title="새창열림" href="#none" onclick='jsOpenWindow("Dream?withyou=CMCOM0153","branch",894,710,1,1);return false'>영업점안내</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="https://spot.wooribank.com/pot/Dream?withyou=cq">고객광장</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="https://spot.wooribank.com/pot/Dream?withyou=CQSCT0048" class="font-bold font-c-5">개인정보처리방침</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="https://spot.wooribank.com/pot/Dream?withyou=CQSCT0132" class="font-bold font-c-5">신용정보활용체제</a>&nbsp;&nbsp;|&nbsp;
+           	        <a  href="/pot/Dream?withyou=CQSCT0049">개인신용정보관리보호 </a><br />                
+                    <a  href="/pot/Dream?withyou=CQACR0001">사고신고</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="/pot/Dream?withyou=CQCSD0001">전자민원접수</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="/pot/Dream?withyou=POTRT0033">보호금융상품등록부</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="/pot/Dream?withyou=CQPNC0002">상품공시실</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="/pot/Dream?withyou=CQSCT0001">보안센터</a>&nbsp;&nbsp;|&nbsp;
+                    <a  href="/pot/Dream?withyou=CQIBG0050">웹접근성 이용안내</a>
+                </p>
+                <p class="copyright">COPYRIGHTS WOORI BANK. ALL RIGHTS RESERVED.</p>
+            </div>
+            <div class="inof2">
+                    
+                <div class="js-display-hover icon icon-1" data-ui-animation="true">
+                    <a href="#none" class="js-display-hover-trigger"><img  alt="2019 고객감동경영대상 종합대상 12년 연속 수상" src="/img/main/icon_1_new.gif" /></a>
+                    <div class="icon-box js-display-hover-area">
+                        2019 고객감동경영대상<br />종합대상 12년 연속 수상
+                        <span class="arrow"></span>
+                    </div>
+                </div>
+                <div class="js-display-hover icon icon-2" data-ui-animation="true">
+                    <a href="#none" class="js-display-hover-trigger"><img  alt="The Banker Awards 2020 우리은행 3관왕 수상" src="/img/main/icon_20201215.png" /></a>
+                    <div class="icon-box js-display-hover-area">
+                        The Banker Awards 2020<br />우리은행 3관왕 수상
+                        <span class="arrow"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+<div id="snb" class="small">
+	<h2 class="hidden">보조메뉴</h2>
+	
+	<a href="#none" class="btn-snb-toggle outside"><span>보조메뉴 열기</span></a>
+	
+	<div class="snb-menu" >
+		<div class="logo"></div>
+		
+		<ul class="level1">
+			<li class="on"><a href="/pot/Dream?withyou=FXXRT0001">환율</a>				 
+				<ul class='level2'>
+						
+						
+							
+							 
+						
+							
+							 
+						
+							
+							 
+						
+							
+							 
+						 
+						<li class="on 
+						
+						first has-child"
+							><a	href="#none">환율조회</a> <ul class='level3'>
+								
+								
+								<li class="on 
+						
+						
+						first"><a href="/pot/Dream?withyou=FXXRT0011">일별환율조회</a> </li>
+							
+								
+								
+								<li class="
+						
+						"><a href="/pot/Dream?withyou=FXXRT0014">기간별환율조회</a> </li>
+							
+								
+								
+								<li class="
+						
+						"><a href="/pot/Dream?withyou=FXXRT0016">기간별평균환율조회</a> </li>
+							
+								
+								
+								<li class="
+						
+						last"><a href="/pot/Dream?withyou=FXFXT0011">인천공항지점환율조회</a> </li>
+							</ul></li>
+					
+						
+						 
+						<li class="
+						"
+							><a	href="/pot/Dream?withyou=FXXRT0003">환가료율조회</a> </li>
+					
+						
+						 
+						<li class="
+						"
+							><a	href="/pot/Dream?withyou=FXXRT0004">환율그래프</a> </li>
+					
+						
+						
+							
+							 
+						 
+						<li class="
+						 has-child"
+							><a	href="#none">환율동향</a> <ul class='level3' style='display:none'>
+								
+								
+								<li class="
+						
+						first"><a href="/pot/Dream?withyou=FXXRT0027">환율동향(일일)</a> </li>
+							</ul></li>
+					
+						
+						
+							
+							 
+						 
+						<li class="
+						 has-child"
+							><a	href="#none">환율특화서비스</a> <ul class='level3' style='display:none'>
+								
+								
+								<li class="
+						
+						first"><a href="/pot/Dream?withyou=FXXRT0033">환율SOS서비스</a> </li>
+							</ul></li>
+					
+						
+						
+							
+							 
+						
+							
+							 
+						 
+						<li class="
+						 has-child"
+							><a	href="#none">SMS우리통지서비스</a> <ul class='level3' style='display:none'>
+								
+								
+								<li class="
+						
+						first"><a href="/pot/Dream?withyou=FXXRT0018">환율통지서비스</a> </li>
+							
+								
+								
+								<li class="
+						
+						last"><a href="/pot/Dream?withyou=FXXRT0019">환율지정알림서비스</a> </li>
+							</ul></li>
+					
+						
+						
+							
+							 
+						
+							
+							 
+						
+							
+							 
+						
+							
+							 
+						
+							
+							 
+						 
+						<li class="
+						last has-child"
+							><a	href="#none">무료환율표서비스</a> <ul class='level3' style='display:none'>
+								
+								
+								<li class="
+						
+						first"><a href="/pot/Dream?withyou=FXXRT0020">이용안내</a> </li>
+							
+								
+								
+								<li class="
+						
+						"><a href="/pot/Dream?withyou=FXXRT0021">무료환율표A형</a> </li>
+							
+								
+								
+								<li class="
+						
+						"><a href="/pot/Dream?withyou=FXXRT0022">무료환율표B형</a> </li>
+							
+								
+								
+								<li class="
+						
+						"><a href="/pot/Dream?withyou=FXXRT0023">무료환율표C형</a> </li>
+							
+								
+								
+								<li class="
+						
+						last"><a href="/pot/Dream?withyou=FXXRT0024">English</a> </li>
+							</ul></li>
+					</ul></li>
+		</ul>
+
+		
+		<div class="snb-menu-small">
+			<ul>
+				<li class="first"><img  alt="우리은행 " src="https://simg.wooribank.com/img/common/etc/snb/btn_intro.gif" /></li>
+				
+
+				
+				
+				
+				
+				
+				<li><a href="#none" class="btn-snb-toggle"><img  alt="메뉴보기" src="https://simg.wooribank.com/img/common/etc/snb/btn_menu_1.gif" /></a></li>
+				
+				
+				
+				
+				
+				
+						
+					<li><a href="#none" class="bubble" id="bubbleCount_1"> <img  alt="관심상품 보기" src="https://simg.wooribank.com/img/common/etc/snb/btn_interest_product_1.gif" />
+							
+					</a></li>
+					<li><a href="#none" class="bubble" id="bubbleCount_2"> <img  alt="상품 비교함 보기" src="https://simg.wooribank.com/img/common/etc/snb/btn_compare_product_1.gif" /> <span class="bubble-count">0</span>
+					</a></li>
+					<li><a href="#none" class="bubble" id="bubbleCount_3"> <img  alt="오늘본 상품 보기" src="https://simg.wooribank.com/img/common/etc/snb/btn_today_product_1.gif" />
+							<span class="bubble-count">0</span>
+					</a></li>
+					
+					<form id="subForm" name="subForm" class="ajax-form" method="post" action="/pot/jcc?withyou=FXXRT0011&amp;__ID=c007100" data-target="#interestRegRst" data-no-ajax="false">
+						<input type="hidden" id="SUB_PRD_CD" name="PRD_CD" /> 
+						<input type="hidden" id="returnUrl" name="returnUrl" /> 
+						<input type="hidden" id="siteid" name="siteid" value="pib" /> 
+						<input type="hidden" id="SUB_PRD_DSCD" name="PRD_DSCD" /> 
+						<input type="hidden" id="check" name="check" value="2" />
+					</form>
+					
+					<form id="frmInterestPop" name="frmInterestPop" class="ajax-form" action="/pot/jcc?withyou=FXXRT0011&__ID=c011528" method="post" data-target="#resultAreaInterest">
+						<input type="hidden" id="PRD_DSCD" name="PRD_DSCD" value="" />
+					</form>
+					
+					<div id="interestRegRst"></div>
+					<script  type="text/javascript" src="https://simg.wooribank.com/js/pot/mall/pib/mall_common.js?1365068140000"></script>
+
+					<script type="text/javascript">
+						//<![CDATA[
+
+						var prdCookieId = 'fx' == "fn" ? "cmpFndPrdCookieid" : "cmpFinPrdCookieid"; // 비교함펀드쿠키 : 비교함대출쿠키						
+						$.snbCountSet = function(){
+							var cookieCnt1 = getCookie(prdCookieId).split("|").length-1;  //비교함
+							var cookieCnt2 = getProdView().split("|").length-1;        //오늘본상품
+							
+							if(prdCookieId == "cmpFinPrdCookieid"){
+								cookieCnt1 = cookieCnt1 / 2;
+							}
+							
+							$("#bubbleCount_1 span").html();  //관심상품
+							$("#bubbleCount_2 span").html(cookieCnt1);  //비교함
+							$("#bubbleCount_3 span").html(cookieCnt2);  //오늘본상품
+						};
+																		
+						$(function(){
+							$("#bubbleCount_1").click(function(){
+								if("" == ""){
+									if(confirm("로그인하지 않으셨습니다. 로그인 페이지로 이동합니다.")) {
+						    			location.href = "/pot/Dream?withyou=CMLGN0001&target=/pot/Dream?withyou=FXXRT0011";
+						    		} else {
+						    			return;
+						    		}
+								}
+								$("#PRD_DSCD").val("");
+								$("#frmInterestPop").attr("data-target", "popup").attr("action", "/pot/jcc?withyou=FXXRT0011&__ID=c011528").submit();	
+							});
+							$("#bubbleCount_2").click(function(){
+								if(getCookie(prdCookieId).split("|").length < 3){
+									//alert("2개 이상의 상품을 선택해 주세요.");
+									alert("상품비교함이 비었습니다.\n비교하실 상품의 비교함담기 버튼을 눌러 주세요.");
+									return;
+								}								
+								if('fx' == "fn"){
+									$("#SUB_PRD_CD").val(getCookie(prdCookieId));
+							    	$("#subForm").attr("data-target", "popup").attr("action", "/pot/Dream?withyou=FNCNT0008").submit();			
+								}else{									
+ 									$("#SUB_PRD_CD").val(getCookie(prdCookieId));
+									$("#SUB_PRD_DSCD").val("1");
+ 							    	$("#subForm").attr("data-target", "popup").attr("action", "/pot/jcc?withyou=FXXRT0011&__ID=c012671").submit();							    	
+								}
+								
+							});
+							$("#bubbleCount_3").click(function(){
+								$("#frmInterestPop").attr("data-target", "popup").attr("action", "/pot/jcc?withyou=FXXRT0011&__ID=c011498").submit();
+							});	
+							
+							$.snbCountSet();
+						});
+
+						// ]]>	
+					</script>
+				
+				
+				
+					<li><a  href="/pot/Dream?withyou=CQCCS0042"><img  alt="이용안내" src="https://simg.wooribank.com/img/common/etc/snb/btn_usage_1.gif" /></a></li>
+				
+				
+				
+			</ul>
+		</div>
+		<div class="top">
+			<a href="#container"><span>상단으로 이동</span></a>
+		</div>
+	</div>
+</div>
+
+<form id="cmpfavorPrdForm" name="cmpfavorPrdForm" class="ajax-form" method="post" data-no-ajax="false">
+	<input type="hidden" id="CMP_FAVOR_PRD_CD" name="PRD_CD" /> 
+	<input type="hidden" id="returnUrl" name="returnUrl" /> 
+	<input type="hidden" id="siteid" name="siteid" value="pib" /> 
+	<input type="hidden" id="CMP_FAVOR_PRD_DSCD" name="PRD_DSCD" /> 
+	<input type="hidden" id="check" name="check" value="2" />
+	<input type="hidden" id="boxShow" name="boxShow" value="PAGE" />
+	<input type="hidden" id="type" name="type" />
+</form>
+
+<div id="cmpFavorPrdResult"></div>
+
+
+<script type="text/javascript">
+
+    /**
+    * favorBox
+    * 관심상품함 서비스 Class (페이지 내)
+    * priviliged function put (prdcd, userId, dis) - 상품비교함에 넣고 data-target 에 호출되는 callback을 수행
+    */
+    var wbFavorPrdBox = wbFavorPrdBox || (function(){
+    	var _Class = {
+    		_type : ''
+    		, put : function (prdcd, userId) {   		
+		    	if(userId.length == 0) {
+		    		if(confirm("로그인하지 않으셨습니다. 로그인 페이지로 이동합니다.")) {
+		    			location.href = "/pot/Dream?withyou=CMLGN0001&target=/pot/Dream?withyou=FXXRT0011";
+		    		} else {
+		    			return;
+		    		}
+		    	}
+		    	
+		    	$("#CMP_FAVOR_PRD_CD").val(prdcd);
+
+		    	if(typeof _Class._type !== "undefined") {
+		    		$("#type").val(_Class._type);
+		    		$("#CMP_FAVOR_PRD_DSCD").val(_Class._type);
+		    	}
+		    	/**
+		    	* 화면 출력 형식 - showTarget : PAGE or layer
+		    	* 상품함의 종류 - type : fnd, dep, lon, fxd...
+		    	*/
+		    	$("#cmpfavorPrdForm").attr("data-target", "#cmpFavorPrdResult").attr("action", "/pot/jcc?withyou=FXXRT0011&__ID=c007100").submit();    	
+	     	}
+		, del : function (prdcd, userId) {
+				if(userId.length == 0) {
+					if(confirm("로그인하지 않으셨습니다. 로그인 페이지로 이동합니다.")) {
+						location.href = "/pot/Dream?withyou=CMLGN0001&target=/pot/Dream?withyou=FXXRT0011";
+					} else {
+						return;
+					}
+				}
+		    	if(typeof _Class._type !== "undefined") {
+		    		$("#type").val(_Class._type);
+		    		$("#CMP_FAVOR_PRD_DSCD").val(_Class._type);
+		    	}				
+				$("#CMP_FAVOR_PRD_CD").val(prdcd)
+				$("#returnUrl").val("/pot/Dream?withyou=FXXRT0011");	
+				$("#cmpfavorPrdForm").attr("data-target", "#cmpFavorPrdResult").attr("action", "/pot/jcc?withyou=FXXRT0011&__ID=c010703").submit();
+			}
+		 , init : function(type) {
+			 _Class._type = type;
+			 return Class;
+		 }
+    	};
+    	
+	    var Class = {};
+	 
+	    for (var member in _Class) {
+			if (member.indexOf('_') != 0) {
+				Class[member] = _Class[member];
+			}
+		}    	
+    	
+    	return Class;
+    })();
+    
+    /*
+     * cmpBox
+     * 상품비교함 Class (페이지 내)
+     * private function putCmpPrdCookie (cookieId, prdCd, type) - 상품비교함 쿠기를 저장
+     * private function chkCmpPrdDup (cookieId, prdCd) - 상품비교함 내의 상품 중복값을 체크
+     * private function chkCmpPrdMaxCnt (cookieId, type, len) - 비교함 내 최대 저장건수 체크
+     * private function rmCmpPrd1stItem (cookieId, type) - 타입별 첫번째 등록항목 삭제
+     * priviliged function put  (cookieId, type, prdCd, prdNm) - 상품비교함 넣기
+     */
+     //상품비교함 등록 Class 
+     var wbCmpPrdBox = wbCmpPrdBox || (function () {   	
+     	var _Class = {
+     			_type : ''	
+     	    /* private 쿠키세팅 */,	_putCmpPrdCookie : 
+     	    	function (cookieId, prdCd) {
+     	        	if(prdCd != ""){
+     	    			if(_Class._chkCmpPrdDup(cookieId, prdCd)){
+     	    				if(_Class._type == "fnd" || _Class._type == "5") {
+	     	    				if(!_Class._chkCmpPrdMaxCnt(cookieId, 4)){
+	     	    					//펀드상품비교함 4건등록이면 첫번째 등록상품 삭제
+	     	    					_Class._rmCmpPrd1stItem(cookieId);
+	     	    				}
+	     	    			}else{
+	     	    				if(!_Class._chkCmpPrdMaxCnt(cookieId, 8)){
+	     	    					//카테고리별 8건등록이면 첫번째 등록상품 삭제
+	     	    					_Class._rmCmpPrd1stItem(cookieId);
+	     	    				}
+	     	    			}
+     	    				var newval = getCookie(cookieId);
+     	    				if(newval == null) newval = "";
+     	    				if(_Class._type != "fnd" && _Class._type != "5") newval += _Class._type + "|";
+     	    				newval += prdCd + "|";
+     	    				
+     	    				var todayDate = new Date();
+     	    				todayDate.setDate(todayDate.getDate() + 1);
+     	    				setCookieforAll(cookieId, newval, todayDate);
+     	    				return true;
+     	    			} else{
+     	    				alert("이미 선택된 상품 입니다.");
+     	    				return false;
+     	    			}
+     	    		} else{
+     	    			return false;
+     	    		}        	
+     	    	} 	
+     	    /*private 상품 중복 체크 */	, _chkCmpPrdDup : 
+     	    	function (cookieId, prdCd) {
+     	    		var curval = getCookie(cookieId);
+     	    		if(curval != null && curval != ""){
+     	    			var prdCds = curval.split("|");
+     	    			for(var i=0; i<prdCds.length; i++){
+     	    				if(prdCds[i] != ""){
+     	    					if(prdCd == prdCds[i]){
+     	    						return false;
+     	    					}
+     	    				}
+     	    			}
+     	    		}
+     	    		return true;    	
+     	    	}
+     	    	   	
+     	    /* private 전체비교함 저장건 수 체크*/ , _chkCmpPrdMaxCnt : 
+     	    	function (cookieId, len) {
+ 	    	    	var curval = getCookie(cookieId);
+ 	    	    	var typeLen = 0;
+ 	    	    	if(curval != null && curval != ""){
+ 	    	    		var prdCds = curval.split("|");
+     	    			if(_Class._type == "fnd" || _Class._type == "5") {	 	    	    		
+	 	    	    		if(prdCds.length>0)
+	 	    	    			typeLen = prdCds.length-1; //파이프라인으로 스플릿처리하면 실제 +1개로 잡힘
+ 	    	    		}else{
+	 	    	    		//파이프라인으로 스플릿처리하면 실제 +1개로 잡힘
+	 	    	    		for(var i=0; i<prdCds.length; i=i+2){  //두번째 값들 비교
+	 	    	    			if(prdCds[i] == _Class._type){
+	 	    	    				typeLen++;
+	 	    	    			}
+	 	    	    		}
+ 	    	    		}
+ 	    	    		if(typeLen+1 > len){
+ 	    	    			return false;
+ 	    	    		}
+ 	    	    	}
+ 	    	    	typeLen++;
+ 	    	    	return true;    		
+ 	    	    }
+  
+     	   /* private 타입별 첫번째 등록상품삭제 */ , _rmCmpPrd1stItem:
+     		   function (cookieId) {
+     	    		var curval = getCookie(cookieId);
+     	    		var delStatus = false;
+     	    		if(curval != ""){		
+     	    			
+     	    			var prdCds = curval.split("|");
+     	    			var newval = "";
+     	    			
+     	    			if(_Class._type == "fnd" || _Class._type == "5"){
+     		    			for(var i=1; i<prdCds.length; i++){  //첫번째 삭제
+     		    				if(prdCds[i] != ""){
+     		    					newval += prdCds[i] + "|";
+     		    				}
+     		    			}    	    				
+     	    			} else {
+     	    				for(var i=0; i<prdCds.length; i++){  //첫번째 삭제
+     	    					if(prdCds[i] != ""){
+     	    						if(prdCds[i] == _Class._type && delStatus == false){
+     	    							i=i+2;
+     	    							delStatus = true;
+     	    						}
+     	    						newval += prdCds[i] + "|";
+     	    					}
+     	    				}
+     	    			}
+     	    			   	    			
+ 		    			var todayDate = new Date();
+ 		    			todayDate.setDate(todayDate.getDate() + 1);
+ 		    			setCookieforAll(cookieId, newval, todayDate);
+     	    		}    	  	
+     	    	}
+     	    	
+     	    /*priviliged 비교함 넣기  */ , put: function (cookieId, prdCd, prdNm) {
+ 		    	if(!_Class._putCmpPrdCookie(cookieId, prdCd)){  //비교함-쿠키저장
+ 					return;
+ 				} else {
+ 					if(typeof $.snbCountSet == "function")
+ 						$.snbCountSet(cookieId);
+ 				}
+ 				
+ 				if(confirm("[" + prdNm + "]" + "상품이 비교함담기에 등록되었습니다. 지금 확인하겠습니까?")){  					
+ 					$("#CMP_FAVOR_PRD_CD").val(getCookie(cookieId));
+ 					
+ 					var typeCode = ''; 	
+ 			    	if(typeof _Class._type !== "undefined") {    		
+ 						switch ( _Class._type.toLowerCase()) {
+ 	    					case "dep" : typeCode = '01'; break;
+ 	    					case "trust" : typeCode = '06'; break;
+ 	    					case "lon" : typeCode = '02'; break;
+ 	    					case "ex" : typeCode = '03'; break;
+ 	    					case "fnd" : typeCode = '04'; break;
+ 	    					case "banca" : typeCode = '05'; break;
+ 	    					case "gold" : typeCode = '10'; break;
+ 	    					default: typeCode = _Class._type;					
+ 						}						
+ 						$("#CMP_FAVOR_PRD_DSCD").val(typeCode);    
+ 			    	}		
+ 					if('fx' == "ps" || 'fx' == "bz" || 'fx' == "hb" || 'fx' == "rp"){
+						if('fx' == "fn" || typeCode == '5'){
+ 							$("#cmpfavorPrdForm").attr("data-no-ajax", "true").attr("data-target", "#cmpFavorPrdResult").attr("action", "/pot/Dream?withyou=FNRMG0014");
+ 						}
+ 						else{
+ 							$("#cmpfavorPrdForm").attr("data-no-ajax", "true").attr("data-target", "#cmpFavorPrdResult").attr("action", "/pot/Dream?withyou=PORMG0034");
+ 						}
+ 						$("#cmpfavorPrdForm").submit(); 						
+ 					}
+					else if('fx' == "fn" || typeCode == '5'){
+						$("#SUB_PRD_CD").val(getCookie(cookieId));
+				    	$("#cmpfavorPrdForm").attr("data-target", "popup").attr("action", "/pot/Dream?withyou=FNCNT0008").submit();			
+					}else{									
+						$("#SUB_PRD_CD").val(getCookie(cookieId));
+						$("#SUB_PRD_DSCD").val(typeCode);
+					    $("#cmpfavorPrdForm").attr("data-target", "popup").attr("action", "/pot/jcc?withyou=FXXRT0011&__ID=c012671").submit();							    	
+					} 					
+ 				}
+     	    }
+    		 , init : function(type) {
+ 			 _Class._type = type;
+ 			 return Class;
+ 		 }
+     	};
+     	
+     	var Class = {};
+ 		
+     	for (var member in _Class) {
+ 			if (member.indexOf('_') != 0) {
+ 				Class[member] = _Class[member];
+ 			}
+ 		}
+     	
+     	return Class;
+     })();
+    
+</script>
+
+
+<form  name="frmPopMenu" action="" class="ajax-form" method="post" id="frmPopMenu">
+
+
+</form>
+
+<form  data-target="#divMymenuArea" name="frmMymenu" data-no-ajax="false" action="" class="ajax-form" method="post" id="frmMymenu">
+
+
+</form>
+
+<script type="text/javascript">
+	$('#snb').wbUI('setSnb');
+	$(document).ready(function() {
+		$("#snb.small .top").css('top',$("#snb .snb-menu-small ul").height());
+	});
+</script>
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+ 
+jQuery( function($) {
+	 
+	
+	// Mymenu
+	$.selectMymenu = function(){
+// 		$("#frmMymenu").attr("data-loading-type"  , '1');
+		$("#frmMymenu").attr("action"     , '/pot/jcc?withyou=CMCOM0213&__ID=c012638');
+		$("#frmMymenu").submit();
+	};
+	
+    // Mymenu 
+    $.popMenu = function(){
+        $("#frmPopMenu").attr("data-target","popup");
+        $("#frmPopMenu").attr("action","/pot/jcc?withyou=CMCOM0213&__ID=c012545");
+        $("#frmPopMenu").submit();
+    };
+    
+    // transinqMenu 
+    $.transinqMenu = function(){
+        $("#frmPopMenu").attr("data-target","popup");
+        $("#frmPopMenu").attr("action","/pot/jcc?withyou=CMCOM0213&__ID=c000091");
+        $("#frmPopMenu").submit();
+    };
+    // inqTraslite
+    $.inqTraslite = function(){
+        $("#frmPopMenu").attr("data-target","popup");
+        $("#frmPopMenu").attr("action","/pot/jcc?withyou=CMCOM0213&__ID=c007849");
+        $("#frmPopMenu").submit();
+    };
+    
+    // 신나의메뉴
+    $.newMyMenu = function(){
+    
+    if('fx' == "ps"){
+    	location.href = '/pot/Dream?withyou=PSBKM0187';
+    }else if('fx' == "bz"){
+    	location.href = '/pot/Dream?withyou=BZBKM0143';
+    }else{
+
+			location.href = '/pot/Dream?withyou=PSBKM0187';	
+    
+	}
+    };
+    
+    $.openBizAcctPop = function(){
+    	var targetURL = "https://sbiz.wooribank.com/biz/Dream?withyou=BZINQ0074";		
+		wbUI.openPopup(targetURL);
+    }
+    
+	
+});
+	 
+// ]]>	
+</script>
+
+		</div>
+		<!-- //footer -->
+
+
+	<script  type="text/javascript" src="https://simg.wooribank.com/js/com/wbCheck.js?1678176712000"></script>
+
+
+
+
+	</div>
+</body>
+</html>

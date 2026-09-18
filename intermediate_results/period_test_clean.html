@@ -54,7 +54,7 @@
 
     <!-- 세그먼트 탭 내비게이션 (고품질 인라인 SVG 아이콘 탑재) -->
     <nav class="nav_segmented_bar">
-      <button class="nav_tab_btn active" data_tab="tab_latest">
+      <button class="nav_tab_btn" data_tab="tab_latest">
         <span class="tab_svg_icon">
           <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
             <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
@@ -62,7 +62,7 @@
         </span>
         <span>당일 최신 고시환율</span>
       </button>
-      <button class="nav_tab_btn" data_tab="tab_period">
+      <button class="nav_tab_btn active" data_tab="tab_period">
         <span class="tab_svg_icon">
           <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="3" y="4" width="18" height="16" rx="3"></rect>
@@ -98,7 +98,7 @@
     <!-- 메인 컨텐츠 영역 -->
     <main class="content_area">
       <!-- 1. 당일 최신 환율 탭 -->
-      <section id="tab_latest" class="tab_pane active">
+      <section id="tab_latest" class="tab_pane">
         <div class="section_top_bar">
           <div class="section_heading">
             <h2 class="section_title">6개국 중앙은행 당일 공식 고시환율</h2>
@@ -125,7 +125,7 @@
       </section>
 
       <!-- 2. 기간평균 계산기 탭 -->
-      <section id="tab_period" class="tab_pane">
+      <section id="tab_period" class="tab_pane active">
         <div class="section_top_bar">
           <div class="section_heading">
             <div class="section_subtitle">PERIOD AVERAGE ANALYTICS</div>

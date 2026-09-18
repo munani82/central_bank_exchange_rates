@@ -1,3 +1,23 @@
+
+// 괄호 결함 없는 날짜 피커 제어기
+function openDatePicker(target) {
+  const nativePicker = document.getElementById(target === 'start' ? 'native_picker_start' : 'native_picker_end');
+  const cleanInput = document.getElementById(target === 'start' ? 'period_start' : 'period_end');
+  if (nativePicker) {
+    if (cleanInput && cleanInput.value) nativePicker.value = cleanInput.value;
+    try {
+      if (typeof nativePicker.showPicker === 'function') {
+        nativePicker.showPicker();
+      } else {
+        nativePicker.focus();
+        nativePicker.click();
+      }
+    } catch (e) {
+      nativePicker.focus();
+    }
+  }
+}
+
 // 글로벌 중앙은행 공식 고시환율 인텔리전스 엔진 (Vercel Jamstack & 로컬 완벽 지원)
 let _allRatesCache = null;
 let _monthlyCache = null;
@@ -212,6 +232,33 @@ async function loadLatestRates() {
 
 // 3. 사용자 지정 기간평균 계산기
 function initPeriodCalculator() {
+  const pStart = document.getElementById("native_picker_start");
+  const pEnd = document.getElementById("native_picker_end");
+  const cStart = document.getElementById("period_start");
+  const cEnd = document.getElementById("period_end");
+
+  if (pStart && cStart) {
+    pStart.addEventListener("change", () => {
+      cStart.value = pStart.value;
+      executePeriodCalculation(cStart.value, cEnd.value);
+    });
+  }
+  if (pEnd && cEnd) {
+    pEnd.addEventListener("change", () => {
+      cEnd.value = pEnd.value;
+      executePeriodCalculation(cStart.value, cEnd.value);
+    });
+  }
+  if (cStart) {
+    cStart.addEventListener("change", () => {
+      executePeriodCalculation(cStart.value, cEnd.value);
+    });
+  }
+  if (cEnd) {
+    cEnd.addEventListener("change", () => {
+      executePeriodCalculation(cStart.value, cEnd.value);
+    });
+  }
   const btnCalc = document.getElementById("btn_calculate_period");
   const startInput = document.getElementById("period_start");
   const endInput = document.getElementById("period_end");
@@ -234,14 +281,14 @@ function initPeriodCalculator() {
     });
   });
 
-  executePeriodCalculation("2026_01_01", "2026_09_16");
+  executePeriodCalculation("2026_01_01", "2026_09_18");
 }
 
 function applyDatePreset(type) {
   const startInput = document.getElementById("period_start");
   const endInput = document.getElementById("period_end");
 
-  const baseEnd = new Date(2026, 8, 16);
+  const baseEnd = new Date(2026, 8, 18);
   let startDate = new Date(baseEnd);
 
   if (type === "1w") {
