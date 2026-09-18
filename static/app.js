@@ -1,59 +1,12 @@
 
 // 6개국 공인 고화질 벡터 SVG 국기 (윈도우/맥/모바일 전 플랫폼 100% 국기 렌더링 보장)
 const SVG_FLAGS = {
-  "Korea": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="18" cy="18" r="18" fill="#ffffff"/>
-    <path fill="#cd2e3a" d="M18,9 C22.97,9 27,13.03 27,18 C27,22.97 22.97,27 18,27 C13.03,27 9,22.97 9,18 C9,13.03 13.03,9 18,9 Z"/>
-    <path fill="#0047a0" d="M18,9 C22.97,9 27,13.03 27,18 C27,18 22.5,22.5 18,22.5 C13.5,22.5 13.5,13.5 18,13.5 C22.5,13.5 22.5,27 18,27 C13.03,27 9,22.97 9,18 C9,13.03 13.03,9 18,9 Z"/>
-    <circle cx="18" cy="13.5" r="4.5" fill="#cd2e3a"/>
-    <circle cx="18" cy="22.5" r="4.5" fill="#0047a0"/>
-    <rect x="4" y="6" width="3" height="1" transform="rotate(35 4 6)" fill="#000000"/>
-    <rect x="5.5" y="4" width="3" height="1" transform="rotate(35 5.5 4)" fill="#000000"/>
-    <rect x="2.5" y="8" width="3" height="1" transform="rotate(35 2.5 8)" fill="#000000"/>
-    <rect x="29" y="24" width="3" height="1" transform="rotate(35 29 24)" fill="#000000"/>
-    <rect x="30.5" y="22" width="3" height="1" transform="rotate(35 30.5 22)" fill="#000000"/>
-    <rect x="27.5" y="26" width="3" height="1" transform="rotate(35 27.5 26)" fill="#000000"/>
-  </svg>`,
-  
-  "China": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="18" cy="18" r="18" fill="#de2910"/>
-    <polygon points="9,6 10.8,11.6 6,8.2 12,8.2 7.2,11.6" fill="#ffde00"/>
-    <polygon points="15,4 15.6,5.8 14,4.7 16,4.7 14.4,5.8" fill="#ffde00"/>
-    <polygon points="17,7 17.6,8.8 16,7.7 18,7.7 16.4,8.8" fill="#ffde00"/>
-    <polygon points="17,11 17.6,12.8 16,11.7 18,11.7 16.4,12.8" fill="#ffde00"/>
-    <polygon points="15,14 15.6,15.8 14,14.7 16,14.7 14.4,15.8" fill="#ffde00"/>
-  </svg>`,
-
-  "Vietnam": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="18" cy="18" r="18" fill="#da251d"/>
-    <polygon points="18,7 21.2,16.8 12.8,10.7 23.2,10.7 14.8,16.8" fill="#ffff00"/>
-  </svg>`,
-
-  "Indonesia": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <clipPath id="circle_clip_id"><circle cx="18" cy="18" r="18"/></clipPath>
-    <g clip-path="url(#circle_clip_id)">
-      <rect width="36" height="18" fill="#ce1126"/>
-      <rect y="18" width="36" height="18" fill="#ffffff"/>
-    </g>
-  </svg>`,
-
-  "Poland": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <clipPath id="circle_clip_pl"><circle cx="18" cy="18" r="18"/></clipPath>
-    <g clip-path="url(#circle_clip_pl)">
-      <rect width="36" height="18" fill="#ffffff"/>
-      <rect y="18" width="36" height="18" fill="#dc143c"/>
-    </g>
-  </svg>`,
-
-  "Egypt": `<svg width="28" height="28" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <clipPath id="circle_clip_eg"><circle cx="18" cy="18" r="18"/></clipPath>
-    <g clip-path="url(#circle_clip_eg)">
-      <rect width="36" height="12" fill="#c8102e"/>
-      <rect y="12" width="36" height="12" fill="#ffffff"/>
-      <rect y="24" width="36" height="12" fill="#000000"/>
-      <circle cx="18" cy="18" r="3.5" fill="#c09300"/>
-    </g>
-  </svg>`
+  "Korea": `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="mask_kr"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#mask_kr)"><path fill="#eee" d="M0 0h512v512H0Z"/><path fill="#333" d="m350 335 24-24 16 16-24 23zm-39 39 24-24 15 16-23 24zm87 8 23-24 16 16-24 24zm-40 39 24-23 16 15-24 24Zm16-63 24-23 15 15-23 24zm-39 40 23-24 16 16-24 23zm63-221-63-63 15-15 64 63zm-63-15-24-24 16-16 23 24zm39 39-24-24 16-15 24 23zm8-87-24-23 16-16 24 24Zm39 40-23-24 15-16 24 24ZM91 358l63 63-16 16-63-63zm63 16 23 24-15 15-24-23zm-40-39 24 23-16 16-23-24zm24-24 63 63-16 16-63-63zm16-220-63 63-16-16 63-63zm23 23-63 63-15-16 63-63zm24 24-63 63-16-16 63-63z"/><path fill="#d80027" d="M319 319 193 193a89 89 0 1 1 126 126z"/><path fill="#0052b4" d="M319 319a89 89 0 1 1-126-126z"/><circle cx="224.5" cy="224.5" r="44.5" fill="#d80027"/><circle cx="287.5" cy="287.5" r="44.5" fill="#0052b4"/></g></svg>`,
+  "China": `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="mask_cn"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#mask_cn)"><path fill="#d80027" d="M0 0h512v512H0z"/><path fill="#ffda44" d="m140.1 155.8 22.1 68h71.5l-57.8 42.1 22.1 68-57.9-42-57.9 42 22.2-68-57.9-42.1H118zm163.4 240.7-16.9-20.8-25 9.7 14.5-22.5-16.9-20.9 25.9 6.9 14.6-22.5 1.4 26.8 26 6.9-25.1 9.6zm33.6-61 8-25.6-21.9-15.5 26.8-.4 7.9-25.6 8.7 25.4 26.8-.3-21.5 16 8.6 25.4-21.9-15.5zm45.3-147.6L370.6 212l19.2 18.7-26.5-3.8-11.8 24-4.6-26.4-26.6-3.8 23.8-12.5-4.6-26.5 19.2 18.7zm-78.2-73-2 26.7 24.9 10.1-26.1 6.4-1.9 26.8-14.1-22.8-26.1 6.4 17.3-20.5-14.2-22.7 24.9 10.1z"/></g></svg>`,
+  "Vietnam": `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="mask_vn"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#mask_vn)"><path fill="#d80027" d="M0 0h512v512H0Z"/><path fill="#ffda44" d="m176 378 208-150H128l208 150-80-244Z"/></g></svg>`,
+  "Indonesia": `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="mask_id"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#mask_id)"><path fill="#eee" d="m0 256 249.6-41.3L512 256v256H0z"/><path fill="#d80027" d="M0 0h512v256H0z"/></g></svg>`,
+  "Poland": `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="mask_pl"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#mask_pl)"><path fill="#d80027" d="m0 256 256.4-44.3L512 256v256H0z"/><path fill="#eee" d="M0 0h512v256H0z"/></g></svg>`,
+  "Egypt": `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><mask id="mask_eg"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#mask_eg)"><path fill="#eee" d="m0 144 256-32 256 32v224l-256 32L0 368Z"/><path fill="#d80027" d="M0 0h512v144H0Z"/><path fill="#333" d="M0 368h512v144H0Z"/><path fill="#ff9811" d="M250 191c-8 0-17 4-22 14 5-3 16-1 16 13 0 4-2 8-5 10-8 0-14-14-29-14-10 0-19 7-19 17v69l46-7-14 27h66l-14-27 46 7v-69c0-10-9-17-19-17-15 0-21 14-29 14 8-23-7-37-23-37z"/></g></svg>`,
 };
 
 
