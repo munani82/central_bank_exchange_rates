@@ -7,40 +7,40 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.765,
+      "avg_rate": 6.7647,
       "min_rate": 6.758,
       "max_rate": 6.7725,
-      "data_points": 12
+      "data_points": 14
     },
     {
       "year_month": "2026_09",
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 51.8135,
+      "avg_rate": 51.822,
       "min_rate": 51.75,
-      "max_rate": 51.8583,
-      "data_points": 11
+      "max_rate": 51.872,
+      "data_points": 13
     },
     {
       "year_month": "2026_09",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17649.2727,
+      "avg_rate": 17651.0769,
       "min_rate": 17536.0,
       "max_rate": 17770.0,
-      "data_points": 11
+      "data_points": 13
     },
     {
       "year_month": "2026_09",
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1352.73,
+      "avg_rate": 1356.79,
       "min_rate": 1340.92,
-      "max_rate": 1375.42,
-      "data_points": 12
+      "max_rate": 1382.0,
+      "data_points": 14
     },
     {
       "year_month": "2026_09",
@@ -57,10 +57,10 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25604.75,
+      "avg_rate": 25605.4286,
       "min_rate": 25591.0,
       "max_rate": 25615.0,
-      "data_points": 12
+      "data_points": 14
     },
     {
       "year_month": "2026_08",

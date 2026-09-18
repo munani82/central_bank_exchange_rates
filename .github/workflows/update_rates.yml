@@ -36,4 +36,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/ static/data/ exchange_rates.db
-          git diff --quiet && git diff --staged --quiet || (git commit -m 'Auto Update: Central Bank Exchange Rates [skip ci]' && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'Auto Update: Central Bank Exchange Rates' && git push)
