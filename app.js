@@ -432,7 +432,7 @@ async function executePeriodCalculation(startStr, endStr) {
       if (tbody) {
         const tr = document.createElement("tr");
         tr.innerHTML = `
-          <td style="display:flex; align-items:center; gap:8px;">${SVG_FLAGS[item.country] || ""} <strong>${meta.name_ko}</strong></td>
+          <td style="display:flex; align-items:center; gap:8px;"><span class="flag_round_badge" style="width:22px; height:22px;">${SVG_FLAGS[c] || meta.flag}</span> <strong>${meta.name_ko}</strong></td>
           <td><span class="currency_code_pill">${meta.currency}</span></td>
           <td style="color: var(--accent_cyan); font-weight: 700; font-family: var(--font_num); font-size: 15px;">${avgFormatted}</td>
           <td style="font-family: var(--font_num);">${minFormatted}</td>
@@ -498,7 +498,7 @@ async function loadMonthlyRates(year) {
       const tr = document.createElement("tr");
       tr.innerHTML = `
         <td><span class="currency_code_pill" style="color:var(--text_bright); font-size:12px;">${item.year_month}</span></td>
-        <td style="display:flex; align-items:center; gap:8px;">${SVG_FLAGS[item.country] || ""} <strong>${meta.name_ko}</strong></td>
+        <td style="display:flex; align-items:center; gap:8px;"><span class="flag_round_badge" style="width:22px; height:22px;">${SVG_FLAGS[item.country] || meta.flag}</span> <strong>${meta.name_ko}</strong></td>
         <td>${item.currency}</td>
         <td style="color: var(--accent_emerald); font-weight: 700; font-family: var(--font_num); font-size: 15px;">${avgFormatted}</td>
         <td style="font-family: var(--font_num);">${minFormatted}</td>
