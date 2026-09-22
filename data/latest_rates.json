@@ -45,14 +45,14 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "date": "2026_09_21",
-      "rate": 1383.8,
+      "date": "2026_09_22",
+      "rate": 1384.3,
       "frequency": "Daily",
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing",
-      "prev_date": "2026_09_18",
-      "prev_rate": 1380.3,
-      "diff": 3.5,
-      "change_pct": 0.254
+      "prev_date": "2026_09_21",
+      "prev_rate": 1383.8,
+      "diff": 0.5,
+      "change_pct": 0.036
     },
     {
       "country": "Poland",
