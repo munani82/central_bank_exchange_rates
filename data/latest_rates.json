@@ -58,14 +58,14 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_09_24",
-      "rate": 3.857,
+      "date": "2026_09_25",
+      "rate": 3.8404,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_09_23",
-      "prev_rate": 3.8175,
-      "diff": 0.0395,
-      "change_pct": 1.035
+      "prev_date": "2026_09_24",
+      "prev_rate": 3.857,
+      "diff": -0.0166,
+      "change_pct": -0.43
     },
     {
       "country": "Vietnam",
