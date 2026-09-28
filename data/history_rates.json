@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2653,
+  "count": 2654,
   "data": [
     {
       "date": "2025_01_01",
@@ -18572,6 +18572,13 @@
       "currency": "KRW",
       "rate": 1352.0,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "Poland",
+      "currency": "PLN",
+      "rate": 3.8478,
+      "source": "Narodowy Bank Polski (NBP Official Web API)"
     }
   ]
 }
