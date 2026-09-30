@@ -72,21 +72,27 @@ def run_fetch_and_build():
 
     # 3. 글로벌 공식 피드 보조 수집 (중국, 베트남, 인도네시아, 이집트)
     try:
-        url_feed = "https://open.er_api.com/v6/latest/USD"
+        url_feed = f"https://open.er{H}api.com/v6/latest/USD"
         r_feed = requests.get(url_feed, headers=headers, timeout=10)
         if r_feed.status_code == 200:
             feed_json = r_feed.json()
             rates = feed_json.get("rates", {})
-            feed_date = feed_json.get("time_last_update_utc", "")[:10].replace(H, "_")
+            try:
+                from email.utils import parsedate_to_datetime
+                dt = parsedate_to_datetime(feed_json.get("time_last_update_utc", ""))
+                feed_date = dt.strftime("%Y_%m_%d")
+            except Exception:
+                feed_date = datetime.now().strftime("%Y_%m_%d")
+
             if not feed_date:
                 feed_date = datetime.now().strftime("%Y_%m_%d")
 
             # 보조 수집 대상 매핑
             targets = [
-                ("China", "CNY", "중국 위안", "People's Bank of China / CFETS (chinamoney.com.cn)", rates.get("CNY")),
-                ("Vietnam", "VND", "베트남 동", "State Bank of Vietnam (sbv.gov.vn)", rates.get("VND")),
-                ("Indonesia", "IDR", "인도네시아 루피아", "Bank Indonesia (bi.go.id JISDOR)", rates.get("IDR")),
-                ("Egypt", "EGP", "이집트 파운드", "Central Bank of Egypt (cbe.org.eg)", rates.get("EGP"))
+                ("China", "CNY", "중국 위안", "People's Bank of China / CFETS (chinamoney.com.cn)", round(float(rates.get("CNY")), 4) if rates.get("CNY") else None),
+                ("Vietnam", "VND", "베트남 동", "State Bank of Vietnam (sbv.gov.vn)", round(float(rates.get("VND")), 1) if rates.get("VND") else None),
+                ("Indonesia", "IDR", "인도네시아 루피아", "Bank Indonesia (bi.go.id JISDOR)", round(float(rates.get("IDR")), 2) if rates.get("IDR") else None),
+                ("Egypt", "EGP", "이집트 파운드", "Central Bank of Egypt (cbe.org.eg)", round(float(rates.get("EGP")), 4) if rates.get("EGP") else None)
             ]
 
             for country, cur_code, cur_nm, src, val in targets:

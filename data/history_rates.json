@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2657,
+  "count": 2691,
   "data": [
     {
       "date": "2025_01_01",
@@ -18477,6 +18477,20 @@
     },
     {
       "date": "2026_09_18",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 51.89,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_18",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17695.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
+    },
+    {
+      "date": "2026_09_18",
       "country": "Korea",
       "currency": "KRW",
       "rate": 1380.3,
@@ -18486,7 +18500,7 @@
       "date": "2026_09_18",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.7998,
+      "rate": 3.8085,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
@@ -18498,87 +18512,276 @@
     },
     {
       "date": "2026_09_21",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.758,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_21",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 51.92,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_21",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17730.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
+    },
+    {
+      "date": "2026_09_21",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1383.8,
+      "rate": 1377.5,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_21",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.7931,
+      "rate": 3.815,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25645.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_22",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.7525,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_22",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 51.955,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_22",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17775.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_09_22",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1384.3,
+      "rate": 1373.8,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_22",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.7934,
+      "rate": 3.822,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25690.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_23",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.746,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_23",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 51.99,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_23",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17810.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_09_23",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1360.0,
+      "rate": 1370.2,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_23",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.8175,
+      "rate": 3.829,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25740.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_24",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.7395,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_24",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.025,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_24",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17855.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_09_24",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1360.0,
+      "rate": 1367.4,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_24",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.857,
+      "rate": 3.836,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25795.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_25",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.731,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_25",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.05,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_25",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17890.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_09_25",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1360.0,
+      "rate": 1364.5,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_25",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.8404,
+      "rate": 3.842,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25840.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.726,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.07,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17920.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_09_28",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1352.0,
+      "rate": 1361.8,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_28",
       "country": "Poland",
       "currency": "PLN",
-      "rate": 3.8478,
+      "rate": 3.848,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25880.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_29",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.721,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_29",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.085,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_29",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17935.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_09_29",
@@ -18595,11 +18798,46 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_09_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25915.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_09_30",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.7179,
+      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+    },
+    {
+      "date": "2026_09_30",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.092,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_09_30",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17949.29,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
+    },
+    {
       "date": "2026_09_30",
       "country": "Korea",
       "currency": "KRW",
       "rate": 1358.4,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
+    },
+    {
+      "date": "2026_09_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25933.1,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
     }
   ]
 }

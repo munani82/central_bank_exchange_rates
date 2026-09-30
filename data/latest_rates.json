@@ -6,25 +6,25 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "date": "2026_09_18",
-      "rate": 6.761,
+      "date": "2026_09_30",
+      "rate": 6.7179,
       "frequency": "Daily",
       "source": "People's Bank of China / CFETS (chinamoney.com.cn)",
-      "prev_date": "2026_09_17",
-      "prev_rate": 6.7645,
-      "diff": -0.0035,
-      "change_pct": -0.052
+      "prev_date": "2026_09_29",
+      "prev_rate": 6.721,
+      "diff": -0.0031,
+      "change_pct": -0.046
     },
     {
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "date": "2026_09_17",
-      "rate": 51.872,
+      "date": "2026_09_30",
+      "rate": 52.092,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg)",
-      "prev_date": "2026_09_16",
-      "prev_rate": 51.865,
+      "prev_date": "2026_09_29",
+      "prev_rate": 52.085,
       "diff": 0.007,
       "change_pct": 0.013
     },
@@ -32,14 +32,14 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "date": "2026_09_17",
-      "rate": 17672.0,
+      "date": "2026_09_30",
+      "rate": 17949.29,
       "frequency": "Daily",
       "source": "Bank Indonesia (bi.go.id JISDOR)",
-      "prev_date": "2026_09_16",
-      "prev_rate": 17650.0,
-      "diff": 22.0,
-      "change_pct": 0.125
+      "prev_date": "2026_09_29",
+      "prev_rate": 17935.0,
+      "diff": 14.29,
+      "change_pct": 0.08
     },
     {
       "country": "Korea",
@@ -63,22 +63,22 @@
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
       "prev_date": "2026_09_28",
-      "prev_rate": 3.8478,
-      "diff": 0.0059,
-      "change_pct": 0.153
+      "prev_rate": 3.848,
+      "diff": 0.0057,
+      "change_pct": 0.148
     },
     {
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_09_18",
-      "rate": 25612.0,
+      "date": "2026_09_30",
+      "rate": 25933.1,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn)",
-      "prev_date": "2026_09_17",
-      "prev_rate": 25607.0,
-      "diff": 5.0,
-      "change_pct": 0.02
+      "prev_date": "2026_09_29",
+      "prev_rate": 25915.0,
+      "diff": 18.1,
+      "change_pct": 0.07
     }
   ]
 }

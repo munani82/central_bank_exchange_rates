@@ -7,39 +7,39 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.7647,
-      "min_rate": 6.758,
+      "avg_rate": 6.7544,
+      "min_rate": 6.7179,
       "max_rate": 6.7725,
-      "data_points": 14
+      "data_points": 22
     },
     {
       "year_month": "2026_09",
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 51.822,
+      "avg_rate": 51.8983,
       "min_rate": 51.75,
-      "max_rate": 51.872,
-      "data_points": 13
+      "max_rate": 52.092,
+      "data_points": 22
     },
     {
       "year_month": "2026_09",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17651.0769,
+      "avg_rate": 17728.3314,
       "min_rate": 17536.0,
-      "max_rate": 17770.0,
-      "data_points": 13
+      "max_rate": 17949.29,
+      "data_points": 22
     },
     {
       "year_month": "2026_09",
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1359.7073,
+      "avg_rate": 1360.3936,
       "min_rate": 1340.92,
-      "max_rate": 1384.3,
+      "max_rate": 1382.0,
       "data_points": 22
     },
     {
@@ -47,9 +47,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.7708,
+      "avg_rate": 3.7732,
       "min_rate": 3.7085,
-      "max_rate": 3.857,
+      "max_rate": 3.8537,
       "data_points": 21
     },
     {
@@ -57,10 +57,10 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25605.4286,
+      "avg_rate": 25677.9136,
       "min_rate": 25591.0,
-      "max_rate": 25615.0,
-      "data_points": 14
+      "max_rate": 25933.1,
+      "data_points": 22
     },
     {
       "year_month": "2026_08",
