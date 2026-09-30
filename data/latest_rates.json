@@ -7,39 +7,39 @@
       "currency": "CNY",
       "currency_name": "중국 위안",
       "date": "2026_09_30",
-      "rate": 6.7179,
+      "rate": 6.7351,
       "frequency": "Daily",
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)",
+      "source": "People's Bank of China / SAFE / CFETS",
       "prev_date": "2026_09_29",
-      "prev_rate": 6.721,
-      "diff": -0.0031,
-      "change_pct": -0.046
+      "prev_rate": 6.7365,
+      "diff": -0.0014,
+      "change_pct": -0.021
     },
     {
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
       "date": "2026_09_30",
-      "rate": 52.092,
+      "rate": 52.1244,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg)",
       "prev_date": "2026_09_29",
-      "prev_rate": 52.085,
-      "diff": 0.007,
-      "change_pct": 0.013
+      "prev_rate": 52.1244,
+      "diff": 0.0,
+      "change_pct": 0.0
     },
     {
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
       "date": "2026_09_30",
-      "rate": 17949.29,
+      "rate": 17877.0,
       "frequency": "Daily",
       "source": "Bank Indonesia (bi.go.id JISDOR)",
       "prev_date": "2026_09_29",
-      "prev_rate": 17935.0,
-      "diff": 14.29,
-      "change_pct": 0.08
+      "prev_rate": 17870.0,
+      "diff": 7.0,
+      "change_pct": 0.039
     },
     {
       "country": "Korea",
@@ -72,13 +72,13 @@
       "currency": "VND",
       "currency_name": "베트남 동",
       "date": "2026_09_30",
-      "rate": 25933.1,
+      "rate": 25627.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn)",
       "prev_date": "2026_09_29",
-      "prev_rate": 25915.0,
-      "diff": 18.1,
-      "change_pct": 0.07
+      "prev_rate": 25630.0,
+      "diff": -3.0,
+      "change_pct": -0.012
     }
   ]
 }

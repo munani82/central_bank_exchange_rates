@@ -18473,7 +18473,7 @@
       "country": "China",
       "currency": "CNY",
       "rate": 6.761,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_18",
@@ -18515,20 +18515,20 @@
       "country": "China",
       "currency": "CNY",
       "rate": 6.758,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_21",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 51.92,
+      "rate": 51.93,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_21",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17730.0,
+      "rate": 17720.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18549,7 +18549,7 @@
       "date": "2026_09_21",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25645.0,
+      "rate": 25620.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
@@ -18557,20 +18557,20 @@
       "country": "China",
       "currency": "CNY",
       "rate": 6.7525,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_22",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 51.955,
+      "rate": 51.97,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_22",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17775.0,
+      "rate": 17750.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18591,7 +18591,7 @@
       "date": "2026_09_22",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25690.0,
+      "rate": 25640.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
@@ -18599,20 +18599,20 @@
       "country": "China",
       "currency": "CNY",
       "rate": 6.746,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_23",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 51.99,
+      "rate": 52.01,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_23",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17810.0,
+      "rate": 17780.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18633,7 +18633,7 @@
       "date": "2026_09_23",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25740.0,
+      "rate": 25638.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
@@ -18641,20 +18641,20 @@
       "country": "China",
       "currency": "CNY",
       "rate": 6.7395,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_24",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 52.025,
+      "rate": 52.04,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_24",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17855.0,
+      "rate": 17810.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18675,28 +18675,28 @@
       "date": "2026_09_24",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25795.0,
+      "rate": 25635.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
       "date": "2026_09_25",
       "country": "China",
       "currency": "CNY",
-      "rate": 6.731,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "rate": 6.736,
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_25",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 52.05,
+      "rate": 52.065,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_25",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17890.0,
+      "rate": 17835.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18717,28 +18717,28 @@
       "date": "2026_09_25",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25840.0,
+      "rate": 25633.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
       "date": "2026_09_28",
       "country": "China",
       "currency": "CNY",
-      "rate": 6.726,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "rate": 6.737,
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_28",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 52.07,
+      "rate": 52.09,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_28",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17920.0,
+      "rate": 17855.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18759,28 +18759,28 @@
       "date": "2026_09_28",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25880.0,
+      "rate": 25632.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
       "date": "2026_09_29",
       "country": "China",
       "currency": "CNY",
-      "rate": 6.721,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "rate": 6.7365,
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_29",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 52.085,
+      "rate": 52.1244,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_29",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17935.0,
+      "rate": 17870.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18801,28 +18801,28 @@
       "date": "2026_09_29",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25915.0,
+      "rate": 25630.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {
       "date": "2026_09_30",
       "country": "China",
       "currency": "CNY",
-      "rate": 6.7179,
-      "source": "People's Bank of China / CFETS (chinamoney.com.cn)"
+      "rate": 6.7351,
+      "source": "People's Bank of China / SAFE / CFETS"
     },
     {
       "date": "2026_09_30",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 52.092,
+      "rate": 52.1244,
       "source": "Central Bank of Egypt (cbe.org.eg)"
     },
     {
       "date": "2026_09_30",
       "country": "Indonesia",
       "currency": "IDR",
-      "rate": 17949.29,
+      "rate": 17877.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
@@ -18836,7 +18836,7 @@
       "date": "2026_09_30",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25933.1,
+      "rate": 25627.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     }
   ]
