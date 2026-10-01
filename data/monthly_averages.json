@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "count": 126,
+  "count": 130,
   "data": [
+    {
+      "year_month": "2026_10",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 52.1244,
+      "min_rate": 52.1244,
+      "max_rate": 52.1244,
+      "data_points": 1
+    },
+    {
+      "year_month": "2026_10",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "currency_name": "인도네시아 루피아",
+      "avg_rate": 17877.0,
+      "min_rate": 17877.0,
+      "max_rate": 17877.0,
+      "data_points": 1
+    },
+    {
+      "year_month": "2026_10",
+      "country": "Korea",
+      "currency": "KRW",
+      "currency_name": "대한민국 원",
+      "avg_rate": 1355.7,
+      "min_rate": 1355.7,
+      "max_rate": 1355.7,
+      "data_points": 1
+    },
+    {
+      "year_month": "2026_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25627.0,
+      "min_rate": 25627.0,
+      "max_rate": 25627.0,
+      "data_points": 1
+    },
     {
       "year_month": "2026_09",
       "country": "China",

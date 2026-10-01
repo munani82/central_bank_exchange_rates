@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2692,
+  "count": 2696,
   "data": [
     {
       "date": "2025_01_01",
@@ -18841,6 +18841,34 @@
     },
     {
       "date": "2026_09_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25627.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn)"
+    },
+    {
+      "date": "2026_10_01",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.1244,
+      "source": "Central Bank of Egypt (cbe.org.eg)"
+    },
+    {
+      "date": "2026_10_01",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17877.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
+    },
+    {
+      "date": "2026_10_01",
+      "country": "Korea",
+      "currency": "KRW",
+      "rate": 1355.7,
+      "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
+    },
+    {
+      "date": "2026_10_01",
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25627.0,
