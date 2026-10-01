@@ -17,9 +17,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25624,
-      "min_rate": 25624,
-      "max_rate": 25624,
+      "avg_rate": 25624.0,
+      "min_rate": 25624.0,
+      "max_rate": 25624.0,
       "data_points": 1
     },
     {
@@ -27,9 +27,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.76,
-      "min_rate": 6.74,
-      "max_rate": 6.78,
+      "avg_rate": 6.7632,
+      "min_rate": 6.7351,
+      "max_rate": 6.7829,
       "data_points": 21
     },
     {
@@ -37,9 +37,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 51.59,
-      "min_rate": 50.88,
-      "max_rate": 52.21,
+      "avg_rate": 51.5896,
+      "min_rate": 50.8781,
+      "max_rate": 52.2142,
       "data_points": 23
     },
     {
@@ -47,9 +47,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17693,
-      "min_rate": 17476,
-      "max_rate": 17877,
+      "avg_rate": 17693.0528,
+      "min_rate": 17475.7981,
+      "max_rate": 17877.0,
       "data_points": 17
     },
     {
@@ -67,9 +67,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.75,
-      "min_rate": 3.71,
-      "max_rate": 3.85,
+      "avg_rate": 3.7545,
+      "min_rate": 3.7085,
+      "max_rate": 3.8537,
       "data_points": 14
     },
     {
@@ -77,9 +77,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25620,
-      "min_rate": 25591,
-      "max_rate": 25641,
+      "avg_rate": 25620.4167,
+      "min_rate": 25591.0,
+      "max_rate": 25641.0,
       "data_points": 24
     },
     {
@@ -87,9 +87,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.79,
-      "min_rate": 6.78,
-      "max_rate": 6.79,
+      "avg_rate": 6.7866,
+      "min_rate": 6.7808,
+      "max_rate": 6.7917,
       "data_points": 21
     },
     {
@@ -97,9 +97,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.36,
-      "min_rate": 49.79,
-      "max_rate": 50.92,
+      "avg_rate": 50.3589,
+      "min_rate": 49.7878,
+      "max_rate": 50.9243,
       "data_points": 21
     },
     {
@@ -107,9 +107,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17805,
-      "min_rate": 17659,
-      "max_rate": 17987,
+      "avg_rate": 17805.0126,
+      "min_rate": 17659.0991,
+      "max_rate": 17987.1038,
       "data_points": 21
     },
     {
@@ -127,9 +127,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.72,
-      "min_rate": 3.68,
-      "max_rate": 3.75,
+      "avg_rate": 3.7191,
+      "min_rate": 3.6839,
+      "max_rate": 3.7468,
       "data_points": 21
     },
     {
@@ -137,9 +137,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25534,
-      "min_rate": 25338,
-      "max_rate": 25615,
+      "avg_rate": 25534.4231,
+      "min_rate": 25338.0,
+      "max_rate": 25615.0,
       "data_points": 26
     },
     {
@@ -147,9 +147,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.8,
-      "min_rate": 6.79,
-      "max_rate": 6.81,
+      "avg_rate": 6.797,
+      "min_rate": 6.7892,
+      "max_rate": 6.8088,
       "data_points": 23
     },
     {
@@ -157,9 +157,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.3,
-      "min_rate": 48.81,
-      "max_rate": 51.35,
+      "avg_rate": 50.3057,
+      "min_rate": 48.8129,
+      "max_rate": 51.352,
       "data_points": 20
     },
     {
@@ -167,9 +167,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 18011,
-      "min_rate": 17891,
-      "max_rate": 18106,
+      "avg_rate": 18010.9798,
+      "min_rate": 17891.4021,
+      "max_rate": 18105.5969,
       "data_points": 23
     },
     {
@@ -187,9 +187,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.78,
-      "min_rate": 3.74,
-      "max_rate": 3.81,
+      "avg_rate": 3.7797,
+      "min_rate": 3.742,
+      "max_rate": 3.8076,
       "data_points": 23
     },
     {
@@ -197,9 +197,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25247,
-      "min_rate": 25202,
-      "max_rate": 25338,
+      "avg_rate": 25246.963,
+      "min_rate": 25202.0,
+      "max_rate": 25338.0,
       "data_points": 27
     },
     {
@@ -207,9 +207,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.82,
-      "min_rate": 6.81,
-      "max_rate": 6.82,
+      "avg_rate": 6.8154,
+      "min_rate": 6.8088,
+      "max_rate": 6.8209,
       "data_points": 21
     },
     {
@@ -217,9 +217,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.73,
-      "min_rate": 49.23,
-      "max_rate": 52.16,
+      "avg_rate": 50.7273,
+      "min_rate": 49.2294,
+      "max_rate": 52.1591,
       "data_points": 21
     },
     {
@@ -227,9 +227,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17898,
-      "min_rate": 17720,
-      "max_rate": 18150,
+      "avg_rate": 17897.8999,
+      "min_rate": 17719.5485,
+      "max_rate": 18150.4506,
       "data_points": 22
     },
     {
@@ -237,7 +237,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1531.62,
+      "avg_rate": 1531.619,
       "min_rate": 1511.0,
       "max_rate": 1559.5,
       "data_points": 21
@@ -247,9 +247,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.7,
-      "min_rate": 3.63,
-      "max_rate": 3.78,
+      "avg_rate": 3.6988,
+      "min_rate": 3.6319,
+      "max_rate": 3.7756,
       "data_points": 21
     },
     {
@@ -257,9 +257,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25168,
-      "min_rate": 25138,
-      "max_rate": 25206,
+      "avg_rate": 25168.3846,
+      "min_rate": 25138.0,
+      "max_rate": 25206.0,
       "data_points": 26
     },
     {
@@ -267,9 +267,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.84,
-      "min_rate": 6.82,
-      "max_rate": 6.86,
+      "avg_rate": 6.8385,
+      "min_rate": 6.8176,
+      "max_rate": 6.8562,
       "data_points": 18
     },
     {
@@ -277,9 +277,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 53.03,
-      "min_rate": 52.29,
-      "max_rate": 53.75,
+      "avg_rate": 53.0267,
+      "min_rate": 52.2894,
+      "max_rate": 53.7531,
       "data_points": 16
     },
     {
@@ -287,9 +287,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17595,
-      "min_rate": 17298,
-      "max_rate": 17851,
+      "avg_rate": 17594.9328,
+      "min_rate": 17298.4537,
+      "max_rate": 17851.0028,
       "data_points": 20
     },
     {
@@ -307,9 +307,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.63,
-      "min_rate": 3.59,
-      "max_rate": 3.67,
+      "avg_rate": 3.6329,
+      "min_rate": 3.5921,
+      "max_rate": 3.6709,
       "data_points": 20
     },
     {
@@ -317,9 +317,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25127,
-      "min_rate": 25111,
-      "max_rate": 25139,
+      "avg_rate": 25126.64,
+      "min_rate": 25111.0,
+      "max_rate": 25139.0,
       "data_points": 25
     },
     {
@@ -327,9 +327,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.87,
-      "min_rate": 6.86,
-      "max_rate": 6.9,
+      "avg_rate": 6.8683,
+      "min_rate": 6.8579,
+      "max_rate": 6.9025,
       "data_points": 21
     },
     {
@@ -337,9 +337,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 52.97,
-      "min_rate": 51.74,
-      "max_rate": 54.72,
+      "avg_rate": 52.969,
+      "min_rate": 51.7447,
+      "max_rate": 54.718,
       "data_points": 20
     },
     {
@@ -347,9 +347,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17156,
-      "min_rate": 16915,
-      "max_rate": 17349,
+      "avg_rate": 17156.068,
+      "min_rate": 16914.5541,
+      "max_rate": 17348.6503,
       "data_points": 20
     },
     {
@@ -357,7 +357,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1485.91,
+      "avg_rate": 1485.9136,
       "min_rate": 1472.3,
       "max_rate": 1513.5,
       "data_points": 22
@@ -367,9 +367,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.64,
-      "min_rate": 3.59,
-      "max_rate": 3.72,
+      "avg_rate": 3.6364,
+      "min_rate": 3.5912,
+      "max_rate": 3.7195,
       "data_points": 21
     },
     {
@@ -377,9 +377,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25106,
-      "min_rate": 25100,
-      "max_rate": 25113,
+      "avg_rate": 25106.08,
+      "min_rate": 25100.0,
+      "max_rate": 25113.0,
       "data_points": 25
     },
     {
@@ -387,9 +387,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.9,
-      "min_rate": 6.89,
-      "max_rate": 6.92,
+      "avg_rate": 6.9037,
+      "min_rate": 6.8898,
+      "max_rate": 6.9236,
       "data_points": 22
     },
     {
@@ -397,9 +397,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 52.01,
-      "min_rate": 48.75,
-      "max_rate": 54.59,
+      "avg_rate": 52.0077,
+      "min_rate": 48.7544,
+      "max_rate": 54.5946,
       "data_points": 20
     },
     {
@@ -407,9 +407,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16924,
-      "min_rate": 16855,
-      "max_rate": 17018,
+      "avg_rate": 16924.1214,
+      "min_rate": 16854.597,
+      "max_rate": 17017.5026,
       "data_points": 22
     },
     {
@@ -417,7 +417,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1492.26,
+      "avg_rate": 1492.2619,
       "min_rate": 1463.5,
       "max_rate": 1517.5,
       "data_points": 21
@@ -427,9 +427,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.7,
-      "min_rate": 3.61,
-      "max_rate": 3.74,
+      "avg_rate": 3.697,
+      "min_rate": 3.6056,
+      "max_rate": 3.7408,
       "data_points": 22
     },
     {
@@ -437,9 +437,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25074,
-      "min_rate": 25038,
-      "max_rate": 25109,
+      "avg_rate": 25074.1538,
+      "min_rate": 25038.0,
+      "max_rate": 25109.0,
       "data_points": 26
     },
     {
@@ -447,9 +447,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.95,
-      "min_rate": 6.92,
-      "max_rate": 6.97,
+      "avg_rate": 6.9462,
+      "min_rate": 6.9228,
+      "max_rate": 6.9695,
       "data_points": 14
     },
     {
@@ -457,9 +457,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.2,
-      "min_rate": 46.78,
-      "max_rate": 47.95,
+      "avg_rate": 47.1993,
+      "min_rate": 46.7786,
+      "max_rate": 47.9537,
       "data_points": 20
     },
     {
@@ -467,9 +467,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16827,
-      "min_rate": 16768,
-      "max_rate": 16918,
+      "avg_rate": 16827.2542,
+      "min_rate": 16767.5978,
+      "max_rate": 16918.1996,
       "data_points": 20
     },
     {
@@ -487,9 +487,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.57,
-      "min_rate": 3.54,
-      "max_rate": 3.59,
+      "avg_rate": 3.5656,
+      "min_rate": 3.5377,
+      "max_rate": 3.5898,
       "data_points": 20
     },
     {
@@ -497,9 +497,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25056,
-      "min_rate": 25044,
-      "max_rate": 25069,
+      "avg_rate": 25055.8421,
+      "min_rate": 25044.0,
+      "max_rate": 25069.0,
       "data_points": 19
     },
     {
@@ -507,9 +507,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.0,
-      "min_rate": 6.97,
-      "max_rate": 7.02,
+      "avg_rate": 7.0016,
+      "min_rate": 6.9678,
+      "max_rate": 7.023,
       "data_points": 20
     },
     {
@@ -517,9 +517,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.25,
-      "min_rate": 46.92,
-      "max_rate": 47.6,
+      "avg_rate": 47.2509,
+      "min_rate": 46.9152,
+      "max_rate": 47.5986,
       "data_points": 18
     },
     {
@@ -527,9 +527,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16832,
-      "min_rate": 16716,
-      "max_rate": 16973,
+      "avg_rate": 16831.7432,
+      "min_rate": 16715.5671,
+      "max_rate": 16973.2009,
       "data_points": 21
     },
     {
@@ -537,7 +537,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1457.67,
+      "avg_rate": 1457.6667,
       "min_rate": 1433.5,
       "max_rate": 1479.8,
       "data_points": 21
@@ -547,9 +547,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.59,
-      "min_rate": 3.5,
-      "max_rate": 3.63,
+      "avg_rate": 3.5894,
+      "min_rate": 3.5045,
+      "max_rate": 3.6346,
       "data_points": 20
     },
     {
@@ -557,9 +557,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25118,
-      "min_rate": 25074,
-      "max_rate": 25135,
+      "avg_rate": 25118.2308,
+      "min_rate": 25074.0,
+      "max_rate": 25135.0,
       "data_points": 26
     },
     {
@@ -567,9 +567,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.06,
-      "min_rate": 7.03,
-      "max_rate": 7.08,
+      "avg_rate": 7.0593,
+      "min_rate": 7.0288,
+      "max_rate": 7.0794,
       "data_points": 23
     },
     {
@@ -577,9 +577,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.57,
-      "min_rate": 47.42,
-      "max_rate": 47.71,
+      "avg_rate": 47.5661,
+      "min_rate": 47.4184,
+      "max_rate": 47.7136,
       "data_points": 23
     },
     {
@@ -587,9 +587,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16695,
-      "min_rate": 16590,
-      "max_rate": 16787,
+      "avg_rate": 16695.1319,
+      "min_rate": 16589.9966,
+      "max_rate": 16786.8658,
       "data_points": 21
     },
     {
@@ -597,7 +597,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1467.09,
+      "avg_rate": 1467.0864,
       "min_rate": 1434.5,
       "max_rate": 1482.0,
       "data_points": 22
@@ -607,9 +607,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.61,
-      "min_rate": 3.58,
-      "max_rate": 3.65,
+      "avg_rate": 3.6108,
+      "min_rate": 3.5848,
+      "max_rate": 3.6512,
       "data_points": 20
     },
     {
@@ -617,9 +617,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25145,
-      "min_rate": 25121,
-      "max_rate": 25156,
+      "avg_rate": 25144.6667,
+      "min_rate": 25121.0,
+      "max_rate": 25156.0,
       "data_points": 27
     },
     {
@@ -627,9 +627,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.09,
-      "min_rate": 7.08,
-      "max_rate": 7.09,
+      "avg_rate": 7.0848,
+      "min_rate": 7.0779,
+      "max_rate": 7.0905,
       "data_points": 20
     },
     {
@@ -637,9 +637,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.39,
-      "min_rate": 47.06,
-      "max_rate": 47.83,
+      "avg_rate": 47.392,
+      "min_rate": 47.0579,
+      "max_rate": 47.8253,
       "data_points": 21
     },
     {
@@ -647,9 +647,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16698,
-      "min_rate": 16609,
-      "max_rate": 16760,
+      "avg_rate": 16698.5664,
+      "min_rate": 16609.1507,
+      "max_rate": 16760.2972,
       "data_points": 20
     },
     {
@@ -667,9 +667,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.67,
-      "min_rate": 3.64,
-      "max_rate": 3.71,
+      "avg_rate": 3.6687,
+      "min_rate": 3.6376,
+      "max_rate": 3.7091,
       "data_points": 19
     },
     {
@@ -677,9 +677,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25124,
-      "min_rate": 25093,
-      "max_rate": 25155,
+      "avg_rate": 25123.6,
+      "min_rate": 25093.0,
+      "max_rate": 25155.0,
       "data_points": 25
     },
     {
@@ -687,9 +687,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.09,
-      "min_rate": 7.08,
-      "max_rate": 7.11,
+      "avg_rate": 7.0948,
+      "min_rate": 7.0843,
+      "max_rate": 7.1102,
       "data_points": 17
     },
     {
@@ -697,9 +697,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.58,
-      "min_rate": 47.22,
-      "max_rate": 47.88,
+      "avg_rate": 47.5765,
+      "min_rate": 47.2191,
+      "max_rate": 47.8849,
       "data_points": 21
     },
     {
@@ -707,9 +707,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16604,
-      "min_rate": 16560,
-      "max_rate": 16666,
+      "avg_rate": 16603.7181,
+      "min_rate": 16559.8484,
+      "max_rate": 16665.8009,
       "data_points": 23
     },
     {
@@ -717,7 +717,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1428.21,
+      "avg_rate": 1428.2056,
       "min_rate": 1403.5,
       "max_rate": 1439.7,
       "data_points": 18
@@ -727,9 +727,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.65,
-      "min_rate": 3.62,
-      "max_rate": 3.69,
+      "avg_rate": 3.6504,
+      "min_rate": 3.621,
+      "max_rate": 3.6897,
       "data_points": 23
     },
     {
@@ -737,9 +737,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25119,
-      "min_rate": 25091,
-      "max_rate": 25187,
+      "avg_rate": 25118.7037,
+      "min_rate": 25091.0,
+      "max_rate": 25187.0,
       "data_points": 27
     },
     {
@@ -747,9 +747,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.11,
-      "min_rate": 7.1,
-      "max_rate": 7.12,
+      "avg_rate": 7.1068,
+      "min_rate": 7.1008,
+      "max_rate": 7.1152,
       "data_points": 22
     },
     {
@@ -757,9 +757,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 48.22,
-      "min_rate": 47.87,
-      "max_rate": 48.59,
+      "avg_rate": 48.2188,
+      "min_rate": 47.8744,
+      "max_rate": 48.5866,
       "data_points": 21
     },
     {
@@ -767,9 +767,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16535,
-      "min_rate": 16408,
-      "max_rate": 16784,
+      "avg_rate": 16535.2895,
+      "min_rate": 16408.1985,
+      "max_rate": 16783.9509,
       "data_points": 22
     },
     {
@@ -777,7 +777,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1394.07,
+      "avg_rate": 1394.0727,
       "min_rate": 1379.8,
       "max_rate": 1410.5,
       "data_points": 22
@@ -787,9 +787,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.63,
-      "min_rate": 3.59,
-      "max_rate": 3.66,
+      "avg_rate": 3.6292,
+      "min_rate": 3.5919,
+      "max_rate": 3.6626,
       "data_points": 22
     },
     {
@@ -797,9 +797,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25212,
-      "min_rate": 25186,
-      "max_rate": 25248,
+      "avg_rate": 25212.2308,
+      "min_rate": 25186.0,
+      "max_rate": 25248.0,
       "data_points": 26
     },
     {
@@ -807,9 +807,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.13,
-      "min_rate": 7.1,
-      "max_rate": 7.15,
+      "avg_rate": 7.1309,
+      "min_rate": 7.103,
+      "max_rate": 7.1496,
       "data_points": 21
     },
     {
@@ -817,9 +817,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 48.49,
-      "min_rate": 48.3,
-      "max_rate": 48.65,
+      "avg_rate": 48.4839,
+      "min_rate": 48.3001,
+      "max_rate": 48.6459,
       "data_points": 21
     },
     {
@@ -827,9 +827,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16308,
-      "min_rate": 16104,
-      "max_rate": 16520,
+      "avg_rate": 16307.8696,
+      "min_rate": 16104.3969,
+      "max_rate": 16519.7036,
       "data_points": 21
     },
     {
@@ -837,7 +837,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1389.95,
+      "avg_rate": 1389.955,
       "min_rate": 1380.0,
       "max_rate": 1401.5,
       "data_points": 20
@@ -847,9 +847,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.67,
-      "min_rate": 3.63,
-      "max_rate": 3.75,
+      "avg_rate": 3.6672,
+      "min_rate": 3.6332,
+      "max_rate": 3.7536,
       "data_points": 20
     },
     {
@@ -857,9 +857,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25252,
-      "min_rate": 25219,
-      "max_rate": 25298,
+      "avg_rate": 25251.8519,
+      "min_rate": 25219.0,
+      "max_rate": 25298.0,
       "data_points": 27
     },
     {
@@ -867,9 +867,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.15,
-      "min_rate": 7.14,
-      "max_rate": 7.15,
+      "avg_rate": 7.1491,
+      "min_rate": 7.1385,
+      "max_rate": 7.1546,
       "data_points": 23
     },
     {
@@ -877,9 +877,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 49.25,
-      "min_rate": 48.66,
-      "max_rate": 49.69,
+      "avg_rate": 49.252,
+      "min_rate": 48.6598,
+      "max_rate": 49.6879,
       "data_points": 21
     },
     {
@@ -887,9 +887,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16297,
-      "min_rate": 16194,
-      "max_rate": 16497,
+      "avg_rate": 16297.3806,
+      "min_rate": 16194.1022,
+      "max_rate": 16497.3528,
       "data_points": 23
     },
     {
@@ -897,7 +897,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1379.38,
+      "avg_rate": 1379.3826,
       "min_rate": 1356.0,
       "max_rate": 1395.0,
       "data_points": 23
@@ -907,9 +907,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.64,
-      "min_rate": 3.59,
-      "max_rate": 3.73,
+      "avg_rate": 3.6405,
+      "min_rate": 3.593,
+      "max_rate": 3.7257,
       "data_points": 23
     },
     {
@@ -917,9 +917,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25151,
-      "min_rate": 25058,
-      "max_rate": 25240,
+      "avg_rate": 25150.963,
+      "min_rate": 25058.0,
+      "max_rate": 25240.0,
       "data_points": 27
     },
     {
@@ -927,9 +927,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.18,
-      "min_rate": 7.16,
-      "max_rate": 7.19,
+      "avg_rate": 7.1757,
+      "min_rate": 7.1586,
+      "max_rate": 7.1886,
       "data_points": 20
     },
     {
@@ -937,9 +937,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.03,
-      "min_rate": 49.49,
-      "max_rate": 50.8,
+      "avg_rate": 50.0274,
+      "min_rate": 49.4933,
+      "max_rate": 50.8038,
       "data_points": 18
     },
     {
@@ -947,9 +947,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16305,
-      "min_rate": 16213,
-      "max_rate": 16502,
+      "avg_rate": 16304.7097,
+      "min_rate": 16213.2519,
+      "max_rate": 16502.3013,
       "data_points": 21
     },
     {
@@ -957,7 +957,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1366.28,
+      "avg_rate": 1366.2842,
       "min_rate": 1354.0,
       "max_rate": 1379.5,
       "data_points": 19
@@ -967,9 +967,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.7,
-      "min_rate": 3.62,
-      "max_rate": 3.76,
+      "avg_rate": 3.7025,
+      "min_rate": 3.6164,
+      "max_rate": 3.7565,
       "data_points": 20
     },
     {
@@ -977,9 +977,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25008,
-      "min_rate": 24955,
-      "max_rate": 25058,
+      "avg_rate": 25008.32,
+      "min_rate": 24955.0,
+      "max_rate": 25058.0,
       "data_points": 25
     },
     {
@@ -987,9 +987,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.19,
-      "min_rate": 7.18,
-      "max_rate": 7.21,
+      "avg_rate": 7.195,
+      "min_rate": 7.1833,
+      "max_rate": 7.2095,
       "data_points": 19
     },
     {
@@ -997,9 +997,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.21,
-      "min_rate": 49.74,
-      "max_rate": 50.72,
+      "avg_rate": 50.2153,
+      "min_rate": 49.7448,
+      "max_rate": 50.7156,
       "data_points": 20
     },
     {
@@ -1007,9 +1007,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16428,
-      "min_rate": 16252,
-      "max_rate": 16660,
+      "avg_rate": 16427.9437,
+      "min_rate": 16252.1483,
+      "max_rate": 16660.4032,
       "data_points": 21
     },
     {
@@ -1017,7 +1017,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1390.57,
+      "avg_rate": 1390.5684,
       "min_rate": 1368.0,
       "max_rate": 1420.5,
       "data_points": 19
@@ -1027,9 +1027,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.77,
-      "min_rate": 3.73,
-      "max_rate": 3.83,
+      "avg_rate": 3.7703,
+      "min_rate": 3.7344,
+      "max_rate": 3.8266,
       "data_points": 21
     },
     {
@@ -1037,9 +1037,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 24956,
-      "min_rate": 24927,
-      "max_rate": 24978,
+      "avg_rate": 24955.72,
+      "min_rate": 24927.0,
+      "max_rate": 24978.0,
       "data_points": 25
     },
     {
@@ -1047,9 +1047,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.2,
-      "min_rate": 7.18,
-      "max_rate": 7.21,
+      "avg_rate": 7.2034,
+      "min_rate": 7.1775,
+      "max_rate": 7.2133,
       "data_points": 21
     },
     {
@@ -1057,9 +1057,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 51.07,
-      "min_rate": 50.6,
-      "max_rate": 51.68,
+      "avg_rate": 51.0714,
+      "min_rate": 50.5983,
+      "max_rate": 51.6825,
       "data_points": 17
     },
     {
@@ -1067,9 +1067,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16829,
-      "min_rate": 16620,
-      "max_rate": 16958,
+      "avg_rate": 16828.8936,
+      "min_rate": 16620.0475,
+      "max_rate": 16958.2527,
       "data_points": 20
     },
     {
@@ -1077,7 +1077,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1441.71,
+      "avg_rate": 1441.7136,
       "min_rate": 1417.0,
       "max_rate": 1486.5,
       "data_points": 22
@@ -1087,9 +1087,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.8,
-      "min_rate": 3.72,
-      "max_rate": 3.93,
+      "avg_rate": 3.8027,
+      "min_rate": 3.722,
+      "max_rate": 3.927,
       "data_points": 21
     },
     {
@@ -1097,9 +1097,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 24927,
-      "min_rate": 24835,
-      "max_rate": 24963,
+      "avg_rate": 24926.8,
+      "min_rate": 24835.0,
+      "max_rate": 24963.0,
       "data_points": 5
     },
     {
@@ -1107,9 +1107,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.17,
-      "min_rate": 7.17,
-      "max_rate": 7.18,
+      "avg_rate": 7.1737,
+      "min_rate": 7.1688,
+      "max_rate": 7.1788,
       "data_points": 21
     },
     {
@@ -1117,9 +1117,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.62,
-      "min_rate": 50.48,
-      "max_rate": 50.71,
+      "avg_rate": 50.6162,
+      "min_rate": 50.4807,
+      "max_rate": 50.7095,
       "data_points": 20
     },
     {
@@ -1127,9 +1127,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16472,
-      "min_rate": 16270,
-      "max_rate": 16637,
+      "avg_rate": 16471.7959,
+      "min_rate": 16270.047,
+      "max_rate": 16637.0504,
       "data_points": 21
     },
     {
@@ -1137,7 +1137,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1458.63,
+      "avg_rate": 1458.635,
       "min_rate": 1445.0,
       "max_rate": 1474.0,
       "data_points": 20
@@ -1147,9 +1147,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.87,
-      "min_rate": 3.82,
-      "max_rate": 4.01,
+      "avg_rate": 3.8702,
+      "min_rate": 3.8152,
+      "max_rate": 4.0112,
       "data_points": 21
     },
     {
@@ -1157,9 +1157,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 24758,
-      "min_rate": 24758,
-      "max_rate": 24758,
+      "avg_rate": 24758.0,
+      "min_rate": 24758.0,
+      "max_rate": 24758.0,
       "data_points": 1
     },
     {
@@ -1167,9 +1167,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.17,
-      "min_rate": 7.17,
-      "max_rate": 7.17,
+      "avg_rate": 7.1711,
+      "min_rate": 7.1691,
+      "max_rate": 7.174,
       "data_points": 18
     },
     {
@@ -1177,9 +1177,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.5,
-      "min_rate": 50.23,
-      "max_rate": 50.66,
+      "avg_rate": 50.4967,
+      "min_rate": 50.2294,
+      "max_rate": 50.6616,
       "data_points": 20
     },
     {
@@ -1187,9 +1187,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16346,
-      "min_rate": 16206,
-      "max_rate": 16548,
+      "avg_rate": 16346.254,
+      "min_rate": 16205.6977,
+      "max_rate": 16548.0453,
       "data_points": 20
     },
     {
@@ -1207,9 +1207,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 4.01,
-      "min_rate": 3.94,
-      "max_rate": 4.14,
+      "avg_rate": 4.0088,
+      "min_rate": 3.9434,
+      "max_rate": 4.1352,
       "data_points": 20
     },
     {
@@ -1217,9 +1217,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 24325,
-      "min_rate": 24325,
-      "max_rate": 24325,
+      "avg_rate": 24325.0,
+      "min_rate": 24325.0,
+      "max_rate": 24325.0,
       "data_points": 1
     },
     {
@@ -1227,9 +1227,9 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 7.18,
-      "min_rate": 7.17,
-      "max_rate": 7.19,
+      "avg_rate": 7.1833,
+      "min_rate": 7.1696,
+      "max_rate": 7.1891,
       "data_points": 18
     },
     {
@@ -1237,9 +1237,9 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.42,
-      "min_rate": 50.2,
-      "max_rate": 50.77,
+      "avg_rate": 50.4199,
+      "min_rate": 50.1988,
+      "max_rate": 50.772,
       "data_points": 20
     },
     {
@@ -1247,9 +1247,9 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 16258,
-      "min_rate": 16139,
-      "max_rate": 16406,
+      "avg_rate": 16257.7199,
+      "min_rate": 16138.751,
+      "max_rate": 16406.25,
       "data_points": 22
     },
     {
@@ -1257,7 +1257,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1456.36,
+      "avg_rate": 1456.3556,
       "min_rate": 1436.5,
       "max_rate": 1474.8,
       "data_points": 18
@@ -1267,9 +1267,9 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 4.1,
-      "min_rate": 4.01,
-      "max_rate": 4.19,
+      "avg_rate": 4.1011,
+      "min_rate": 4.0124,
+      "max_rate": 4.1904,
       "data_points": 21
     },
     {
@@ -1277,9 +1277,9 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 24334,
-      "min_rate": 24334,
-      "max_rate": 24335,
+      "avg_rate": 24334.5,
+      "min_rate": 24334.0,
+      "max_rate": 24335.0,
       "data_points": 2
     },
     {
@@ -1287,7 +1287,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1474.93,
+      "avg_rate": 1474.9333,
       "min_rate": 1471.8,
       "max_rate": 1477.0,
       "data_points": 3
