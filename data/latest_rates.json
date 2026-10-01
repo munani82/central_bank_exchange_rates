@@ -76,9 +76,9 @@
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
       "prev_date": "2026_09_30",
-      "prev_rate": 25627.0,
-      "diff": -3.0,
-      "change_pct": -0.012
+      "prev_rate": 370.0,
+      "diff": 25254.0,
+      "change_pct": 6825.405
     }
   ]
 }
