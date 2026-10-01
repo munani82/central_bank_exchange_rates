@@ -258,6 +258,22 @@
   * 과거 불량 스크립트 전량 영구 폐기: scripts/01_fetch_central_bank_rates.py, scripts/fill_missing_rates.py, scripts/fill_kr_pl_rates.py, scripts/build_korea_accurate_daily.py, scripts/calibrate_korea_september.py, scripts/apply_pure_central_bank_rates.py를 폐기하고 실행 시 즉시 예외를 발생시키도록 차단.
   * 자동 수집 파이프라인(scripts/08_fetch_and_build.py) 단일 원천 검증 가드레일 확립: 공식 기관의 실시간 응답에서 공식 고시 일자와 환율이 동시에 파싱되지 않는 경우 어떠한 경우에도 임의 데이터 생성이나 보간을 금지하고 건너뛰도록 통제 완료.
 
+***
+
+## 18. 무음 스킵(Silent Failure) 방지 및 공식 고시 미수신 시 명시적 예외(Error) 발생 아키텍처 구축
+* 배경 및 사용자 핵심 지적
+  * 공식 기관의 HTTP 실시간 응답에서 공식 일자와 환율이 유효하게 파싱되지 않는 경우, 이를 조용히 스킵하면 장애나 사이트 개편을 감지하지 못하고 영구 방치될 위험이 있으므로, 휴일 등 정당한 사유가 없을 때는 반드시 프로세스 에러를 발생시켜 관리자에게 즉각 알려야 함.
+* 정당한 스킵 사유 vs 비정상 수집 실패의 과학적 분리
+  * 정당한 정상 스킵 사유 1: 주말(토요일, 일요일) 정기 외환시장 휴장일
+  * 정당한 정상 스킵 사유 2: 각국별 법정 공휴일 휴장일
+  * 정당한 정상 스킵 사유 3: 각국별 당일 공식 고시 발표 예정 시각(KST) 이전 (예: 중국 10:15 이전, 폴란드 19:15 이전 등)
+  * 비정상 치명적 오류(Critical Error): 위 세 가지 정상 사유가 전혀 없음에도 불구하고(즉, 영업일이고 고시 시각이 경과하였음에도) HTTP 응답 실패, 파싱 실패, 환율 미도출이 발생한 경우.
+* 구현 및 조치 내역 (scripts/08_fetch_and_build.py)
+  * KST 기준 시간대 정밀 판정 로직 탑재(클라우드 우분투 러너 및 로컬 동시 호환).
+  * 정당한 사유 없이 고시 시각 경과 후 데이터 미수신 시 CentralBankFetchError 명시적 예외 발생 및 표준 에러(sys.stderr) 출력.
+  * 프로세스 비정상 종료(Exit Code 1)를 통해 GitHub Actions 워크플로우에 즉각 실패(빨간불)를 트리거하여 관리자가 문제를 즉각 인지하고 대응할 수 있도록 완전 구현 완료.
+
+
 
 
 
