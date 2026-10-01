@@ -23,10 +23,10 @@
       "rate": 51.8583,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg)",
-      "prev_date": "2026_09_29",
-      "prev_rate": 52.0418,
-      "diff": -0.1835,
-      "change_pct": -0.353
+      "prev_date": "2026_09_15",
+      "prev_rate": 51.8583,
+      "diff": 0.0,
+      "change_pct": 0.0
     },
     {
       "country": "Indonesia",
@@ -71,14 +71,14 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_09_30",
-      "rate": 25627.0,
+      "date": "2026_10_01",
+      "rate": 25624.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn)",
-      "prev_date": "2026_09_29",
-      "prev_rate": 25970.0,
-      "diff": -343.0,
-      "change_pct": -1.321
+      "prev_date": "2026_09_30",
+      "prev_rate": 25627.0,
+      "diff": -3.0,
+      "change_pct": -0.012
     }
   ]
 }
