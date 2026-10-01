@@ -24,7 +24,7 @@
 <text x="685" y="140" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">CN</text>
 <text x="717" y="135" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">중국</text>
 <text x="717" y="155" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">China (CNY)</text>
-<text x="1015" y="140" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">6.7351</text>
+<text x="1015" y="140" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">6.7400</text>
 <rect x="717" y="169" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
 <text x="769" y="184" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
 <text x="1015" y="184" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.30</text>
@@ -54,7 +54,7 @@
 <text x="75" y="386" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">PL</text>
 <text x="107" y="381" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">폴란드</text>
 <text x="107" y="401" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Poland (PLN)</text>
-<text x="405" y="386" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">3.8449</text>
+<text x="405" y="386" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">3.8400</text>
 <rect x="107" y="415" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
 <text x="159" y="430" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
 <text x="405" y="430" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.30</text>
@@ -64,7 +64,7 @@
 <text x="685" y="386" font_family="Pretendard, sans_serif" font_size="11" font_weight="700" fill="#ffffff" text_anchor="middle">EG</text>
 <text x="717" y="381" font_family="Pretendard, sans_serif" font_size="18" font_weight="700" fill="#ffffff">이집트</text>
 <text x="717" y="401" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Egypt (EGP)</text>
-<text x="1015" y="386" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">51.9887</text>
+<text x="1015" y="386" font_family="JetBrains Mono, monospace" font_size="22" font_weight="800" fill="#ffffff">51.9900</text>
 <rect x="717" y="415" width="105" height="22" rx="6" fill="rgba(255,255,255,0.06)"/>
 <text x="769" y="430" font_family="Pretendard, sans_serif" font_size="11" font_weight="500" fill="#38bdf8" text_anchor="middle">공식 고시 실측치</text>
 <text x="1015" y="430" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#cbd5e1">고시일: 2026.09.30</text>

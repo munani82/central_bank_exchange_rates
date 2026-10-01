@@ -18,11 +18,11 @@
 <text x="388" y="124" font_family="Pretendard, sans_serif" font_size="17" font_weight="700" fill="#ffffff">중국</text>
 <text x="388" y="144" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">China (CNY)</text>
 <text x="388" y="180" font_family="Pretendard, sans_serif" font_size="13" font_weight="500" fill="#cbd5e1">최근 월평균:</text>
-<text x="652" y="180" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">6.7632</text>
+<text x="652" y="180" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">6.7638</text>
 <text x="388" y="210" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최저:</text>
-<text x="652" y="210" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">6.7632</text>
+<text x="652" y="210" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">6.7638</text>
 <text x="388" y="236" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최고:</text>
-<text x="652" y="236" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">7.0016</text>
+<text x="652" y="236" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">7.0020</text>
 <text x="388" y="267" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#64748b">집계 기간: 2026년 1월 ~ 9월</text>
 <rect x="705" y="92" width="300" height="195" rx="12" fill="#131e36" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
 <rect x="705" y="92" width="300" height="4" fill="#34d399" rx="2"/>
@@ -40,33 +40,33 @@
 <text x="53" y="337" font_family="Pretendard, sans_serif" font_size="17" font_weight="700" fill="#ffffff">인도네시아</text>
 <text x="53" y="357" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Indonesia (IDR)</text>
 <text x="53" y="393" font_family="Pretendard, sans_serif" font_size="13" font_weight="500" fill="#cbd5e1">최근 월평균:</text>
-<text x="317" y="393" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">17,693.05</text>
+<text x="317" y="393" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">17,693.24</text>
 <text x="53" y="423" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최저:</text>
-<text x="317" y="423" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">16,827.25</text>
+<text x="317" y="423" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">16,827.30</text>
 <text x="53" y="449" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최고:</text>
-<text x="317" y="449" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">18,010.98</text>
+<text x="317" y="449" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">18,011.04</text>
 <text x="53" y="480" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#64748b">집계 기간: 2026년 1월 ~ 9월</text>
 <rect x="370" y="305" width="300" height="195" rx="12" fill="#131e36" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
 <rect x="370" y="305" width="300" height="4" fill="#c084fc" rx="2"/>
 <text x="388" y="337" font_family="Pretendard, sans_serif" font_size="17" font_weight="700" fill="#ffffff">폴란드</text>
 <text x="388" y="357" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Poland (PLN)</text>
 <text x="388" y="393" font_family="Pretendard, sans_serif" font_size="13" font_weight="500" fill="#cbd5e1">최근 월평균:</text>
-<text x="652" y="393" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">3.7545</text>
+<text x="652" y="393" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">3.7543</text>
 <text x="388" y="423" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최저:</text>
-<text x="652" y="423" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">3.5656</text>
+<text x="652" y="423" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">3.5655</text>
 <text x="388" y="449" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최고:</text>
-<text x="652" y="449" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">3.7797</text>
+<text x="652" y="449" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">3.7791</text>
 <text x="388" y="480" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#64748b">집계 기간: 2026년 1월 ~ 9월</text>
 <rect x="705" y="305" width="300" height="195" rx="12" fill="#131e36" stroke="rgba(255,255,255,0.14)" stroke_width="1.2"/>
 <rect x="705" y="305" width="300" height="4" fill="#fbbf24" rx="2"/>
 <text x="723" y="337" font_family="Pretendard, sans_serif" font_size="17" font_weight="700" fill="#ffffff">이집트</text>
 <text x="723" y="357" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">Egypt (EGP)</text>
 <text x="723" y="393" font_family="Pretendard, sans_serif" font_size="13" font_weight="500" fill="#cbd5e1">최근 월평균:</text>
-<text x="987" y="393" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">51.5896</text>
+<text x="987" y="393" font_family="JetBrains Mono, monospace" font_size="17" font_weight="800" fill="#ffffff" text_anchor="end">51.5900</text>
 <text x="723" y="423" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최저:</text>
-<text x="987" y="423" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">47.1993</text>
+<text x="987" y="423" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#38bdf8" text_anchor="end">47.1990</text>
 <text x="723" y="449" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#94a3b8">2026년 최고:</text>
-<text x="987" y="449" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">53.0267</text>
+<text x="987" y="449" font_family="JetBrains Mono, monospace" font_size="14" font_weight="700" fill="#fb7185" text_anchor="end">53.0269</text>
 <text x="723" y="480" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#64748b">집계 기간: 2026년 1월 ~ 9월</text>
 <text x="520" y="520" font_family="Pretendard, sans_serif" font_size="12" font_weight="500" fill="#64748b" text_anchor="middle">공식 월평균 산출: 각국 중앙은행 및 법정 공인 영업일 고시환율 산술평균</text>
 </svg>
