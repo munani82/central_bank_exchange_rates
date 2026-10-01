@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2157,
+  "count": 2585,
   "data": [
     {
       "date": "2024_12_27",
@@ -59,6 +59,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_01_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24335.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_01_03",
       "country": "China",
       "currency": "CNY",
@@ -85,6 +92,13 @@
       "currency": "PLN",
       "rate": 4.1512,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_01_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24334.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_01_05",
@@ -750,6 +764,13 @@
       "currency": "PLN",
       "rate": 4.1352,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_02_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24325.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_02_04",
@@ -1436,6 +1457,13 @@
       "currency": "PLN",
       "rate": 4.0112,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_03_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24758.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_03_04",
@@ -2152,6 +2180,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_04_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24835.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_04_02",
       "country": "China",
       "currency": "CNY",
@@ -2691,6 +2726,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_04_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24928.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_04_25",
       "country": "China",
       "currency": "CNY",
@@ -2717,6 +2759,20 @@
       "currency": "PLN",
       "rate": 3.7611,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_04_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24948.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_04_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24963.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_04_27",
@@ -2759,6 +2815,13 @@
       "currency": "PLN",
       "rate": 3.7701,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_04_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24960.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_04_29",
@@ -2852,6 +2915,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24956.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_04",
       "country": "Egypt",
       "currency": "EGP",
@@ -2880,6 +2950,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24944.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_06",
       "country": "China",
       "currency": "CNY",
@@ -2906,6 +2983,13 @@
       "currency": "PLN",
       "rate": 3.7789,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24938.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_07",
@@ -2943,6 +3027,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24930.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_08",
       "country": "China",
       "currency": "CNY",
@@ -2978,6 +3069,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24927.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_09",
       "country": "China",
       "currency": "CNY",
@@ -3004,6 +3102,20 @@
       "currency": "PLN",
       "rate": 3.7681,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24951.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_05_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24951.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_11",
@@ -3048,6 +3160,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24945.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_13",
       "country": "China",
       "currency": "CNY",
@@ -3081,6 +3200,13 @@
       "currency": "PLN",
       "rate": 3.8266,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24973.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_14",
@@ -3118,6 +3244,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24973.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_15",
       "country": "China",
       "currency": "CNY",
@@ -3153,6 +3286,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24970.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_16",
       "country": "China",
       "currency": "CNY",
@@ -3179,6 +3319,20 @@
       "currency": "PLN",
       "rate": 3.7853,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24960.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_05_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24960.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_18",
@@ -3223,6 +3377,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24970.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_20",
       "country": "China",
       "currency": "CNY",
@@ -3256,6 +3417,13 @@
       "currency": "PLN",
       "rate": 3.7747,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24968.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_21",
@@ -3293,6 +3461,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24962.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_22",
       "country": "China",
       "currency": "CNY",
@@ -3328,6 +3503,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24955.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_23",
       "country": "China",
       "currency": "CNY",
@@ -3354,6 +3536,20 @@
       "currency": "PLN",
       "rate": 3.7506,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24960.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_05_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24960.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_25",
@@ -3398,6 +3594,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24940.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_27",
       "country": "China",
       "currency": "CNY",
@@ -3431,6 +3634,13 @@
       "currency": "PLN",
       "rate": 3.743,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24935.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_05_28",
@@ -3468,6 +3678,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24947.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_29",
       "country": "China",
       "currency": "CNY",
@@ -3503,6 +3720,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_05_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24962.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_05_30",
       "country": "China",
       "currency": "CNY",
@@ -3529,6 +3753,20 @@
       "currency": "PLN",
       "rate": 3.7537,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_05_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24978.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_05_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24978.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_01",
@@ -3566,6 +3804,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24970.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_03",
       "country": "China",
       "currency": "CNY",
@@ -3592,6 +3837,13 @@
       "currency": "PLN",
       "rate": 3.7437,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24982.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_04",
@@ -3629,6 +3881,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25004.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_05",
       "country": "China",
       "currency": "CNY",
@@ -3657,6 +3916,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24955.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_06",
       "country": "China",
       "currency": "CNY",
@@ -3676,6 +3942,20 @@
       "currency": "PLN",
       "rate": 3.7565,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24992.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_06_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24992.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_09",
@@ -3704,6 +3984,13 @@
       "currency": "PLN",
       "rate": 3.7427,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24992.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_10",
@@ -3741,6 +4028,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24985.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_11",
       "country": "China",
       "currency": "CNY",
@@ -3774,6 +4068,13 @@
       "currency": "PLN",
       "rate": 3.7306,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24982.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_12",
@@ -3811,6 +4112,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24990.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_13",
       "country": "China",
       "currency": "CNY",
@@ -3837,6 +4145,20 @@
       "currency": "PLN",
       "rate": 3.7056,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24975.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_06_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24975.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_15",
@@ -3881,6 +4203,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24993.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_17",
       "country": "China",
       "currency": "CNY",
@@ -3914,6 +4243,13 @@
       "currency": "PLN",
       "rate": 3.7005,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24998.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_18",
@@ -3951,6 +4287,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 24994.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_19",
       "country": "China",
       "currency": "CNY",
@@ -3979,6 +4322,13 @@
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
     },
     {
+      "date": "2025_06_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25025.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_20",
       "country": "China",
       "currency": "CNY",
@@ -4005,6 +4355,20 @@
       "currency": "PLN",
       "rate": 3.7067,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25031.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_06_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25031.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_22",
@@ -4049,6 +4413,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25028.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_24",
       "country": "China",
       "currency": "CNY",
@@ -4082,6 +4453,13 @@
       "currency": "PLN",
       "rate": 3.6753,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25058.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_25",
@@ -4119,6 +4497,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25055.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_26",
       "country": "China",
       "currency": "CNY",
@@ -4147,6 +4532,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25053.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_06_27",
       "country": "China",
       "currency": "CNY",
@@ -4173,6 +4565,20 @@
       "currency": "PLN",
       "rate": 3.6177,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_06_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25048.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_06_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25048.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_06_29",
@@ -4217,6 +4623,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_06_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25052.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_01",
       "country": "China",
       "currency": "CNY",
@@ -4250,6 +4663,13 @@
       "currency": "PLN",
       "rate": 3.593,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25058.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_02",
@@ -4287,6 +4707,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25070.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_03",
       "country": "China",
       "currency": "CNY",
@@ -4315,6 +4742,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25091.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_04",
       "country": "China",
       "currency": "CNY",
@@ -4341,6 +4775,20 @@
       "currency": "PLN",
       "rate": 3.6108,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25116.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_07_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25116.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_06",
@@ -4385,6 +4833,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_08",
       "country": "China",
       "currency": "CNY",
@@ -4418,6 +4873,13 @@
       "currency": "PLN",
       "rate": 3.6135,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25121.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_09",
@@ -4455,6 +4917,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25119.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_10",
       "country": "China",
       "currency": "CNY",
@@ -4490,6 +4959,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_11",
       "country": "China",
       "currency": "CNY",
@@ -4516,6 +4992,20 @@
       "currency": "PLN",
       "rate": 3.6432,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25128.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_07_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25128.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_13",
@@ -4560,6 +5050,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25126.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_15",
       "country": "China",
       "currency": "CNY",
@@ -4593,6 +5090,13 @@
       "currency": "PLN",
       "rate": 3.6396,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25148.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_16",
@@ -4630,6 +5134,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25168.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_17",
       "country": "China",
       "currency": "CNY",
@@ -4665,6 +5176,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25176.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_18",
       "country": "China",
       "currency": "CNY",
@@ -4691,6 +5209,20 @@
       "currency": "PLN",
       "rate": 3.6535,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25185.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_07_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25185.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_20",
@@ -4735,6 +5267,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25191.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_22",
       "country": "China",
       "currency": "CNY",
@@ -4768,6 +5307,13 @@
       "currency": "PLN",
       "rate": 3.6353,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25179.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_23",
@@ -4805,6 +5351,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25177.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_24",
       "country": "China",
       "currency": "CNY",
@@ -4833,6 +5386,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25166.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_25",
       "country": "China",
       "currency": "CNY",
@@ -4859,6 +5419,20 @@
       "currency": "PLN",
       "rate": 3.6228,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25164.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_07_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25164.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_27",
@@ -4903,6 +5477,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25182.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_29",
       "country": "China",
       "currency": "CNY",
@@ -4936,6 +5517,13 @@
       "currency": "PLN",
       "rate": 3.6941,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_07_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25206.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_07_30",
@@ -4973,6 +5561,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25228.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_07_31",
       "country": "China",
       "currency": "CNY",
@@ -5008,6 +5603,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_07_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_01",
       "country": "China",
       "currency": "CNY",
@@ -5034,6 +5636,20 @@
       "currency": "PLN",
       "rate": 3.7536,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25249.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_08_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25249.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_03",
@@ -5078,6 +5694,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_05",
       "country": "China",
       "currency": "CNY",
@@ -5111,6 +5734,13 @@
       "currency": "PLN",
       "rate": 3.7066,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25219.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_06",
@@ -5148,6 +5778,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25232.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_07",
       "country": "China",
       "currency": "CNY",
@@ -5183,6 +5820,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25239.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_08",
       "country": "China",
       "currency": "CNY",
@@ -5209,6 +5853,20 @@
       "currency": "PLN",
       "rate": 3.6577,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25228.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_08_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25228.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_10",
@@ -5253,6 +5911,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25231.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_12",
       "country": "China",
       "currency": "CNY",
@@ -5286,6 +5951,13 @@
       "currency": "PLN",
       "rate": 3.6702,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25243.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_13",
@@ -5323,6 +5995,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25247.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_14",
       "country": "China",
       "currency": "CNY",
@@ -5358,6 +6037,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_15",
       "country": "China",
       "currency": "CNY",
@@ -5370,6 +6056,20 @@
       "currency": "IDR",
       "rate": 16183.1964,
       "source": "Bank for International Settlements (BIS) / Bank Indonesia (BI)"
+    },
+    {
+      "date": "2025_08_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25249.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_08_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25249.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_17",
@@ -5414,6 +6114,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25245.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_19",
       "country": "China",
       "currency": "CNY",
@@ -5447,6 +6154,13 @@
       "currency": "PLN",
       "rate": 3.6332,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25255.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_20",
@@ -5484,6 +6198,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25263.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_21",
       "country": "China",
       "currency": "CNY",
@@ -5519,6 +6240,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25273.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_22",
       "country": "China",
       "currency": "CNY",
@@ -5545,6 +6273,20 @@
       "currency": "PLN",
       "rate": 3.6786,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25298.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_08_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25298.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_24",
@@ -5589,6 +6331,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25291.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_26",
       "country": "China",
       "currency": "CNY",
@@ -5622,6 +6371,13 @@
       "currency": "PLN",
       "rate": 3.6716,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_08_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25273.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_08_27",
@@ -5659,6 +6415,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25273.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_28",
       "country": "China",
       "currency": "CNY",
@@ -5694,6 +6457,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25268.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_29",
       "country": "China",
       "currency": "CNY",
@@ -5722,11 +6492,32 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_08_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_08_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_08_31",
       "country": "Egypt",
       "currency": "EGP",
       "rate": 48.587,
       "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+    },
+    {
+      "date": "2025_08_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_01",
@@ -5764,6 +6555,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_02",
       "country": "China",
       "currency": "CNY",
@@ -5797,6 +6595,13 @@
       "currency": "PLN",
       "rate": 3.6626,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25240.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_03",
@@ -5834,6 +6639,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25246.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_04",
       "country": "China",
       "currency": "CNY",
@@ -5862,6 +6674,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25248.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_05",
       "country": "China",
       "currency": "CNY",
@@ -5888,6 +6707,20 @@
       "currency": "PLN",
       "rate": 3.6357,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25248.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_09_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25248.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_07",
@@ -5932,6 +6765,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25236.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_09",
       "country": "China",
       "currency": "CNY",
@@ -5965,6 +6805,13 @@
       "currency": "PLN",
       "rate": 3.6173,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25236.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_10",
@@ -6002,6 +6849,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25221.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_11",
       "country": "China",
       "currency": "CNY",
@@ -6037,6 +6891,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25221.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_12",
       "country": "China",
       "currency": "CNY",
@@ -6063,6 +6924,20 @@
       "currency": "PLN",
       "rate": 3.635,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25216.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_09_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25216.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_14",
@@ -6107,6 +6982,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25216.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_16",
       "country": "China",
       "currency": "CNY",
@@ -6140,6 +7022,13 @@
       "currency": "PLN",
       "rate": 3.6034,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25208.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_17",
@@ -6177,6 +7066,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25198.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_18",
       "country": "China",
       "currency": "CNY",
@@ -6212,6 +7108,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25186.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_19",
       "country": "China",
       "currency": "CNY",
@@ -6238,6 +7141,20 @@
       "currency": "PLN",
       "rate": 3.6278,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25186.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_09_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25186.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_21",
@@ -6282,6 +7199,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25189.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_23",
       "country": "China",
       "currency": "CNY",
@@ -6315,6 +7239,13 @@
       "currency": "PLN",
       "rate": 3.605,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25189.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_24",
@@ -6352,6 +7283,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25186.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_25",
       "country": "China",
       "currency": "CNY",
@@ -6387,6 +7325,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25191.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_26",
       "country": "China",
       "currency": "CNY",
@@ -6413,6 +7358,20 @@
       "currency": "PLN",
       "rate": 3.6528,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_09_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25194.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_09_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25194.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_09_28",
@@ -6457,6 +7416,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25192.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_09_30",
       "country": "China",
       "currency": "CNY",
@@ -6492,6 +7458,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_09_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25187.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_01",
       "country": "Egypt",
       "currency": "EGP",
@@ -6518,6 +7491,13 @@
       "currency": "PLN",
       "rate": 3.6245,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25187.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_02",
@@ -6548,6 +7528,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25177.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_03",
       "country": "Indonesia",
       "currency": "IDR",
@@ -6563,6 +7550,13 @@
     },
     {
       "date": "2025_10_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25162.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_10_04",
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25162.0,
@@ -6597,6 +7591,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25146.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_07",
       "country": "Egypt",
       "currency": "EGP",
@@ -6616,6 +7617,13 @@
       "currency": "PLN",
       "rate": 3.6481,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25141.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_08",
@@ -6639,6 +7647,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25133.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_09",
       "country": "China",
       "currency": "CNY",
@@ -6658,6 +7673,13 @@
       "currency": "PLN",
       "rate": 3.6659,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25130.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_10",
@@ -6686,6 +7708,20 @@
       "currency": "PLN",
       "rate": 3.6778,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25128.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_10_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25128.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_12",
@@ -6730,6 +7766,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25112.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_14",
       "country": "China",
       "currency": "CNY",
@@ -6763,6 +7806,13 @@
       "currency": "PLN",
       "rate": 3.6897,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25114.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_15",
@@ -6800,6 +7850,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25114.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_16",
       "country": "China",
       "currency": "CNY",
@@ -6835,6 +7892,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25109.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_17",
       "country": "China",
       "currency": "CNY",
@@ -6861,6 +7925,20 @@
       "currency": "PLN",
       "rate": 3.6388,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25101.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_10_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25101.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_19",
@@ -6905,6 +7983,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25101.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_21",
       "country": "China",
       "currency": "CNY",
@@ -6938,6 +8023,13 @@
       "currency": "PLN",
       "rate": 3.6479,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25099.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_22",
@@ -6975,6 +8067,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25099.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_23",
       "country": "China",
       "currency": "CNY",
@@ -7010,6 +8109,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25098.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_24",
       "country": "China",
       "currency": "CNY",
@@ -7036,6 +8142,20 @@
       "currency": "PLN",
       "rate": 3.6481,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25098.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_10_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25098.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_26",
@@ -7080,6 +8200,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25097.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_28",
       "country": "China",
       "currency": "CNY",
@@ -7113,6 +8240,13 @@
       "currency": "PLN",
       "rate": 3.6327,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25095.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_10_29",
@@ -7150,6 +8284,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25091.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_30",
       "country": "China",
       "currency": "CNY",
@@ -7185,6 +8326,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_10_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25091.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_10_31",
       "country": "China",
       "currency": "CNY",
@@ -7211,6 +8359,20 @@
       "currency": "PLN",
       "rate": 3.6751,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_10_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25093.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_11_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25093.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_02",
@@ -7255,6 +8417,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25093.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_04",
       "country": "China",
       "currency": "CNY",
@@ -7288,6 +8457,13 @@
       "currency": "PLN",
       "rate": 3.7019,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25095.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_05",
@@ -7325,6 +8501,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25097.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_06",
       "country": "China",
       "currency": "CNY",
@@ -7360,6 +8543,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25100.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_07",
       "country": "China",
       "currency": "CNY",
@@ -7386,6 +8576,20 @@
       "currency": "PLN",
       "rate": 3.6818,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25103.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_11_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25103.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_09",
@@ -7430,6 +8634,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25106.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_11",
       "country": "China",
       "currency": "CNY",
@@ -7456,6 +8667,13 @@
       "currency": "KRW",
       "rate": 1461.8,
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
+    },
+    {
+      "date": "2025_11_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25118.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_12",
@@ -7493,6 +8711,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25129.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_13",
       "country": "China",
       "currency": "CNY",
@@ -7528,6 +8753,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25125.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_14",
       "country": "China",
       "currency": "CNY",
@@ -7554,6 +8786,20 @@
       "currency": "PLN",
       "rate": 3.6376,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25122.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_11_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25122.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_16",
@@ -7598,6 +8844,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25120.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_18",
       "country": "China",
       "currency": "CNY",
@@ -7631,6 +8884,13 @@
       "currency": "PLN",
       "rate": 3.6525,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25132.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_19",
@@ -7668,6 +8928,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25132.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_20",
       "country": "China",
       "currency": "CNY",
@@ -7703,6 +8970,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25130.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_21",
       "country": "China",
       "currency": "CNY",
@@ -7729,6 +9003,20 @@
       "currency": "PLN",
       "rate": 3.6868,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25136.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_11_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25136.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_23",
@@ -7773,6 +9061,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25144.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_25",
       "country": "China",
       "currency": "CNY",
@@ -7806,6 +9101,13 @@
       "currency": "PLN",
       "rate": 3.6675,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25146.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_26",
@@ -7843,6 +9145,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25146.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_27",
       "country": "China",
       "currency": "CNY",
@@ -7878,6 +9187,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_11_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25152.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_11_28",
       "country": "China",
       "currency": "CNY",
@@ -7904,6 +9220,20 @@
       "currency": "PLN",
       "rate": 3.6624,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_11_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25155.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_11_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25155.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_11_30",
@@ -7948,6 +9278,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25156.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_02",
       "country": "China",
       "currency": "CNY",
@@ -7981,6 +9318,13 @@
       "currency": "PLN",
       "rate": 3.6512,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25153.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_03",
@@ -8018,6 +9362,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25153.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_04",
       "country": "China",
       "currency": "CNY",
@@ -8053,6 +9404,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25152.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_05",
       "country": "China",
       "currency": "CNY",
@@ -8079,6 +9437,20 @@
       "currency": "PLN",
       "rate": 3.6313,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25151.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_12_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25151.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_07",
@@ -8123,6 +9495,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25152.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_09",
       "country": "China",
       "currency": "CNY",
@@ -8156,6 +9535,13 @@
       "currency": "PLN",
       "rate": 3.6336,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25155.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_10",
@@ -8193,6 +9579,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25155.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_11",
       "country": "China",
       "currency": "CNY",
@@ -8228,6 +9621,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25154.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_12",
       "country": "China",
       "currency": "CNY",
@@ -8254,6 +9654,20 @@
       "currency": "PLN",
       "rate": 3.6027,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25148.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_12_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25148.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_14",
@@ -8298,6 +9712,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25144.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_16",
       "country": "China",
       "currency": "CNY",
@@ -8331,6 +9752,13 @@
       "currency": "PLN",
       "rate": 3.593,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25141.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_17",
@@ -8368,6 +9796,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25146.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_18",
       "country": "China",
       "currency": "CNY",
@@ -8403,6 +9838,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25151.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_19",
       "country": "China",
       "currency": "CNY",
@@ -8429,6 +9871,20 @@
       "currency": "PLN",
       "rate": 3.5941,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25148.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_12_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25148.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_21",
@@ -8473,6 +9929,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25149.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_23",
       "country": "China",
       "currency": "CNY",
@@ -8508,6 +9971,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25146.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_24",
       "country": "China",
       "currency": "CNY",
@@ -8536,6 +10006,13 @@
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
     },
     {
+      "date": "2025_12_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25146.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_25",
       "country": "China",
       "currency": "CNY",
@@ -8550,6 +10027,13 @@
       "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
+      "date": "2025_12_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25133.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_26",
       "country": "China",
       "currency": "CNY",
@@ -8562,6 +10046,20 @@
       "currency": "KRW",
       "rate": 1445.0,
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
+    },
+    {
+      "date": "2025_12_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25128.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2025_12_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25128.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_28",
@@ -8606,6 +10104,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25125.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2025_12_30",
       "country": "China",
       "currency": "CNY",
@@ -8639,6 +10144,13 @@
       "currency": "PLN",
       "rate": 3.5936,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2025_12_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25124.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2025_12_31",
@@ -8676,6 +10188,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2025_12_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25121.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_02",
       "country": "Indonesia",
       "currency": "IDR",
@@ -8695,6 +10214,20 @@
       "currency": "PLN",
       "rate": 3.5963,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25121.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_01_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25121.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_04",
@@ -8739,6 +10272,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25124.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_06",
       "country": "China",
       "currency": "CNY",
@@ -8767,6 +10307,13 @@
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
     },
     {
+      "date": "2026_01_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25122.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_07",
       "country": "China",
       "currency": "CNY",
@@ -8793,6 +10340,13 @@
       "currency": "PLN",
       "rate": 3.6035,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25122.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_08",
@@ -8830,6 +10384,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25125.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_09",
       "country": "China",
       "currency": "CNY",
@@ -8856,6 +10417,20 @@
       "currency": "PLN",
       "rate": 3.6184,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25127.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_01_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_11",
@@ -8900,6 +10475,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25129.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_13",
       "country": "China",
       "currency": "CNY",
@@ -8933,6 +10515,13 @@
       "currency": "PLN",
       "rate": 3.6083,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25129.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_14",
@@ -8970,6 +10559,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25135.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_15",
       "country": "China",
       "currency": "CNY",
@@ -9005,6 +10601,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25135.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_16",
       "country": "China",
       "currency": "CNY",
@@ -9031,6 +10634,20 @@
       "currency": "PLN",
       "rate": 3.6346,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_01_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_18",
@@ -9075,6 +10692,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25132.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_20",
       "country": "China",
       "currency": "CNY",
@@ -9108,6 +10732,13 @@
       "currency": "PLN",
       "rate": 3.6054,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25130.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_21",
@@ -9145,6 +10776,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25124.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_22",
       "country": "China",
       "currency": "CNY",
@@ -9180,6 +10818,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25125.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_23",
       "country": "China",
       "currency": "CNY",
@@ -9206,6 +10851,20 @@
       "currency": "PLN",
       "rate": 3.5831,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25125.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_01_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25125.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_25",
@@ -9250,6 +10909,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_27",
       "country": "China",
       "currency": "CNY",
@@ -9283,6 +10949,13 @@
       "currency": "PLN",
       "rate": 3.5354,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25098.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_01_28",
@@ -9320,6 +10993,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25088.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_29",
       "country": "China",
       "currency": "CNY",
@@ -9348,6 +11028,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_01_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25083.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_01_30",
       "country": "China",
       "currency": "CNY",
@@ -9374,6 +11061,20 @@
       "currency": "PLN",
       "rate": 3.5379,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25074.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_01_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25074.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_01",
@@ -9418,6 +11119,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25064.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_03",
       "country": "China",
       "currency": "CNY",
@@ -9451,6 +11159,13 @@
       "currency": "PLN",
       "rate": 3.5785,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25069.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_04",
@@ -9488,6 +11203,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25067.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_05",
       "country": "China",
       "currency": "CNY",
@@ -9523,6 +11245,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25066.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_06",
       "country": "China",
       "currency": "CNY",
@@ -9549,6 +11278,20 @@
       "currency": "PLN",
       "rate": 3.5749,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25065.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_02_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25065.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_08",
@@ -9593,6 +11336,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25063.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_10",
       "country": "China",
       "currency": "CNY",
@@ -9626,6 +11376,13 @@
       "currency": "PLN",
       "rate": 3.5377,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25055.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_11",
@@ -9663,6 +11420,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25050.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_12",
       "country": "China",
       "currency": "CNY",
@@ -9698,6 +11462,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25050.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_13",
       "country": "China",
       "currency": "CNY",
@@ -9724,6 +11495,20 @@
       "currency": "PLN",
       "rate": 3.5528,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25049.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_02_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25049.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_15",
@@ -9845,6 +11630,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25049.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_22",
       "country": "Egypt",
       "currency": "EGP",
@@ -9878,6 +11670,13 @@
       "currency": "PLN",
       "rate": 3.5737,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25051.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_24",
@@ -9915,6 +11714,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25053.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_25",
       "country": "China",
       "currency": "CNY",
@@ -9948,6 +11754,13 @@
       "currency": "PLN",
       "rate": 3.5785,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25057.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_02_26",
@@ -9985,6 +11798,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_02_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25051.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_02_27",
       "country": "China",
       "currency": "CNY",
@@ -10011,6 +11831,20 @@
       "currency": "PLN",
       "rate": 3.5804,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_02_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25044.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_02_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25044.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_01",
@@ -10048,6 +11882,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25038.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_03",
       "country": "China",
       "currency": "CNY",
@@ -10083,6 +11924,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25046.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_04",
       "country": "China",
       "currency": "CNY",
@@ -10116,6 +11964,13 @@
       "currency": "PLN",
       "rate": 3.677,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25052.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_05",
@@ -10188,6 +12043,20 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25057.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_03_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25057.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_08",
       "country": "Egypt",
       "currency": "EGP",
@@ -10230,6 +12099,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25059.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_10",
       "country": "China",
       "currency": "CNY",
@@ -10263,6 +12139,13 @@
       "currency": "PLN",
       "rate": 3.6523,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25062.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_11",
@@ -10300,6 +12183,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25059.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_12",
       "country": "China",
       "currency": "CNY",
@@ -10335,6 +12225,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25061.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_13",
       "country": "China",
       "currency": "CNY",
@@ -10361,6 +12258,20 @@
       "currency": "PLN",
       "rate": 3.7277,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25065.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_03_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25065.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_15",
@@ -10405,6 +12316,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25068.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_17",
       "country": "China",
       "currency": "CNY",
@@ -10438,6 +12356,13 @@
       "currency": "PLN",
       "rate": 3.7046,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25068.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_18",
@@ -10475,6 +12400,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25067.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_19",
       "country": "China",
       "currency": "CNY",
@@ -10501,6 +12433,13 @@
       "currency": "PLN",
       "rate": 3.727,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25072.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_20",
@@ -10531,6 +12470,20 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25085.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_03_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25085.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_23",
       "country": "China",
       "currency": "CNY",
@@ -10557,6 +12510,13 @@
       "currency": "PLN",
       "rate": 3.7292,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25090.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_24",
@@ -10594,6 +12554,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25109.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_25",
       "country": "China",
       "currency": "CNY",
@@ -10627,6 +12594,13 @@
       "currency": "PLN",
       "rate": 3.6803,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25104.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_26",
@@ -10664,6 +12638,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_27",
       "country": "China",
       "currency": "CNY",
@@ -10690,6 +12671,20 @@
       "currency": "PLN",
       "rate": 3.7206,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25100.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_03_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25100.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_03_29",
@@ -10734,6 +12729,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_03_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25100.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_03_31",
       "country": "China",
       "currency": "CNY",
@@ -10767,6 +12769,13 @@
       "currency": "PLN",
       "rate": 3.7408,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_03_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_01",
@@ -10804,6 +12813,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25105.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_02",
       "country": "China",
       "currency": "CNY",
@@ -10839,6 +12855,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25107.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_03",
       "country": "China",
       "currency": "CNY",
@@ -10860,6 +12883,20 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25107.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_04_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25107.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_05",
       "country": "Egypt",
       "currency": "EGP",
@@ -10879,6 +12916,13 @@
       "currency": "KRW",
       "rate": 1508.5,
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
+    },
+    {
+      "date": "2026_04_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25106.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_07",
@@ -10916,6 +12960,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25108.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_08",
       "country": "China",
       "currency": "CNY",
@@ -10949,6 +13000,13 @@
       "currency": "PLN",
       "rate": 3.6489,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25106.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_09",
@@ -10986,6 +13044,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_10",
       "country": "China",
       "currency": "CNY",
@@ -11014,6 +13079,20 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25105.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_04_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25105.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_13",
       "country": "China",
       "currency": "CNY",
@@ -11040,6 +13119,13 @@
       "currency": "PLN",
       "rate": 3.6374,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25106.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_14",
@@ -11077,6 +13163,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25106.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_15",
       "country": "China",
       "currency": "CNY",
@@ -11110,6 +13203,13 @@
       "currency": "PLN",
       "rate": 3.5939,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25103.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_16",
@@ -11147,6 +13247,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_17",
       "country": "China",
       "currency": "CNY",
@@ -11173,6 +13280,20 @@
       "currency": "PLN",
       "rate": 3.5912,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_04_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_19",
@@ -11217,6 +13338,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25103.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_21",
       "country": "China",
       "currency": "CNY",
@@ -11250,6 +13378,13 @@
       "currency": "PLN",
       "rate": 3.597,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25102.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_22",
@@ -11287,6 +13422,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25100.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_23",
       "country": "China",
       "currency": "CNY",
@@ -11322,6 +13464,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25105.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_24",
       "country": "China",
       "currency": "CNY",
@@ -11348,6 +13497,20 @@
       "currency": "PLN",
       "rate": 3.6294,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_04_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_26",
@@ -11392,6 +13555,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_28",
       "country": "China",
       "currency": "CNY",
@@ -11425,6 +13595,13 @@
       "currency": "PLN",
       "rate": 3.6293,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_04_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25111.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_04_29",
@@ -11462,6 +13639,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_04_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_04_30",
       "country": "China",
       "currency": "CNY",
@@ -11495,6 +13679,13 @@
       "currency": "PLN",
       "rate": 3.646,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_03",
@@ -11532,6 +13723,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25112.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_05",
       "country": "Egypt",
       "currency": "EGP",
@@ -11551,6 +13749,13 @@
       "currency": "PLN",
       "rate": 3.6403,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25111.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_06",
@@ -11623,6 +13828,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25113.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_08",
       "country": "China",
       "currency": "CNY",
@@ -11649,6 +13861,20 @@
       "currency": "PLN",
       "rate": 3.5947,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25112.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_05_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25112.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_10",
@@ -11693,6 +13919,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25118.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_12",
       "country": "China",
       "currency": "CNY",
@@ -11726,6 +13959,13 @@
       "currency": "PLN",
       "rate": 3.6167,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25123.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_13",
@@ -11763,6 +14003,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25123.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_14",
       "country": "China",
       "currency": "CNY",
@@ -11798,6 +14045,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25126.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_15",
       "country": "China",
       "currency": "CNY",
@@ -11824,6 +14078,20 @@
       "currency": "PLN",
       "rate": 3.6525,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_05_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_17",
@@ -11868,6 +14136,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25131.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_19",
       "country": "China",
       "currency": "CNY",
@@ -11901,6 +14176,13 @@
       "currency": "PLN",
       "rate": 3.6467,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25133.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_20",
@@ -11938,6 +14220,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25135.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_21",
       "country": "China",
       "currency": "CNY",
@@ -11973,6 +14262,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25135.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_22",
       "country": "China",
       "currency": "CNY",
@@ -11999,6 +14295,20 @@
       "currency": "PLN",
       "rate": 3.6571,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25134.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_05_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25134.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_24",
@@ -12036,6 +14346,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25136.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_26",
       "country": "China",
       "currency": "CNY",
@@ -12062,6 +14379,13 @@
       "currency": "PLN",
       "rate": 3.6394,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25138.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_05_27",
@@ -12092,6 +14416,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25137.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_28",
       "country": "China",
       "currency": "CNY",
@@ -12120,6 +14451,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_05_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25137.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_05_29",
       "country": "China",
       "currency": "CNY",
@@ -12146,6 +14484,20 @@
       "currency": "PLN",
       "rate": 3.6395,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_05_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25139.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_05_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25139.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_01",
@@ -12183,6 +14535,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25138.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_02",
       "country": "China",
       "currency": "CNY",
@@ -12218,6 +14577,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25141.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_03",
       "country": "China",
       "currency": "CNY",
@@ -12244,6 +14610,13 @@
       "currency": "PLN",
       "rate": 3.6553,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25145.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_04",
@@ -12274,6 +14647,13 @@
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
     },
     {
+      "date": "2026_06_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25145.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_05",
       "country": "China",
       "currency": "CNY",
@@ -12300,6 +14680,20 @@
       "currency": "PLN",
       "rate": 3.6392,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25147.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_06_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25147.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_07",
@@ -12344,6 +14738,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25150.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_09",
       "country": "China",
       "currency": "CNY",
@@ -12377,6 +14778,13 @@
       "currency": "PLN",
       "rate": 3.6671,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25151.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_10",
@@ -12414,6 +14822,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25153.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_11",
       "country": "China",
       "currency": "CNY",
@@ -12449,6 +14864,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25153.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_12",
       "country": "China",
       "currency": "CNY",
@@ -12475,6 +14897,20 @@
       "currency": "PLN",
       "rate": 3.6697,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25155.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_06_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25155.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_14",
@@ -12519,6 +14955,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25165.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_16",
       "country": "China",
       "currency": "CNY",
@@ -12552,6 +14995,13 @@
       "currency": "PLN",
       "rate": 3.6589,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25165.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_17",
@@ -12589,6 +15039,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25175.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_18",
       "country": "China",
       "currency": "CNY",
@@ -12617,6 +15074,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25173.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_19",
       "country": "Indonesia",
       "currency": "IDR",
@@ -12636,6 +15100,20 @@
       "currency": "PLN",
       "rate": 3.7162,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25181.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_06_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25181.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_21",
@@ -12680,6 +15158,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25183.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_23",
       "country": "China",
       "currency": "CNY",
@@ -12713,6 +15198,13 @@
       "currency": "PLN",
       "rate": 3.7554,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25189.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_24",
@@ -12792,6 +15284,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25197.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_26",
       "country": "China",
       "currency": "CNY",
@@ -12818,6 +15317,20 @@
       "currency": "PLN",
       "rate": 3.7599,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25195.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_06_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25195.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_06_28",
@@ -12862,6 +15375,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_06_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25201.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_06_30",
       "country": "China",
       "currency": "CNY",
@@ -12895,6 +15415,13 @@
       "currency": "PLN",
       "rate": 3.7708,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_06_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25206.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_01",
@@ -12932,6 +15459,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25206.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_02",
       "country": "China",
       "currency": "CNY",
@@ -12960,6 +15494,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_02",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25205.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_03",
       "country": "China",
       "currency": "CNY",
@@ -12986,6 +15527,20 @@
       "currency": "PLN",
       "rate": 3.742,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25203.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_07_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25203.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_05",
@@ -13030,6 +15585,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25202.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_07",
       "country": "China",
       "currency": "CNY",
@@ -13063,6 +15625,13 @@
       "currency": "PLN",
       "rate": 3.7573,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25202.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_08",
@@ -13100,6 +15669,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25206.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_09",
       "country": "China",
       "currency": "CNY",
@@ -13135,6 +15711,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_09",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25211.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_10",
       "country": "China",
       "currency": "CNY",
@@ -13161,6 +15744,20 @@
       "currency": "PLN",
       "rate": 3.8025,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25214.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_07_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25214.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_12",
@@ -13205,6 +15802,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25220.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_14",
       "country": "China",
       "currency": "CNY",
@@ -13238,6 +15842,13 @@
       "currency": "PLN",
       "rate": 3.8076,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25225.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_15",
@@ -13275,6 +15886,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25233.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_16",
       "country": "China",
       "currency": "CNY",
@@ -13310,6 +15928,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25243.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_17",
       "country": "China",
       "currency": "CNY",
@@ -13329,6 +15954,20 @@
       "currency": "PLN",
       "rate": 3.7951,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25254.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_07_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25254.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_19",
@@ -13373,6 +16012,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25252.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_21",
       "country": "China",
       "currency": "CNY",
@@ -13406,6 +16052,13 @@
       "currency": "PLN",
       "rate": 3.7885,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25260.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_22",
@@ -13443,6 +16096,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25260.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_23",
       "country": "China",
       "currency": "CNY",
@@ -13471,6 +16131,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25272.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_24",
       "country": "China",
       "currency": "CNY",
@@ -13497,6 +16164,20 @@
       "currency": "PLN",
       "rate": 3.8,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25283.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_07_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25283.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_26",
@@ -13539,6 +16220,13 @@
       "currency": "PLN",
       "rate": 3.7835,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25293.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_07_28",
@@ -13618,6 +16306,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25306.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_30",
       "country": "China",
       "currency": "CNY",
@@ -13653,6 +16348,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_07_30",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25320.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_07_31",
       "country": "China",
       "currency": "CNY",
@@ -13679,6 +16381,20 @@
       "currency": "PLN",
       "rate": 3.7425,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_07_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25338.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_08_01",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25338.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_02",
@@ -13723,6 +16439,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25358.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_04",
       "country": "China",
       "currency": "CNY",
@@ -13756,6 +16479,13 @@
       "currency": "PLN",
       "rate": 3.7468,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25380.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_05",
@@ -13793,6 +16523,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25405.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_06",
       "country": "China",
       "currency": "CNY",
@@ -13828,6 +16565,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25433.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_07",
       "country": "China",
       "currency": "CNY",
@@ -13854,6 +16598,20 @@
       "currency": "PLN",
       "rate": 3.7324,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25463.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_08_08",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25463.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_09",
@@ -13898,6 +16656,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25491.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_11",
       "country": "China",
       "currency": "CNY",
@@ -13931,6 +16696,13 @@
       "currency": "PLN",
       "rate": 3.727,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25516.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_12",
@@ -13968,6 +16740,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25539.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_13",
       "country": "China",
       "currency": "CNY",
@@ -14003,6 +16782,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_13",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25566.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_14",
       "country": "China",
       "currency": "CNY",
@@ -14029,6 +16815,20 @@
       "currency": "PLN",
       "rate": 3.73,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25561.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_08_15",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25561.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_16",
@@ -14066,6 +16866,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25586.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_18",
       "country": "China",
       "currency": "CNY",
@@ -14099,6 +16906,13 @@
       "currency": "PLN",
       "rate": 3.7307,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25580.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_19",
@@ -14136,6 +16950,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25598.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_20",
       "country": "China",
       "currency": "CNY",
@@ -14171,6 +16992,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_20",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25590.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_21",
       "country": "China",
       "currency": "CNY",
@@ -14197,6 +17025,20 @@
       "currency": "PLN",
       "rate": 3.6839,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25600.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_08_22",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25600.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_23",
@@ -14241,6 +17083,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25600.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_25",
       "country": "China",
       "currency": "CNY",
@@ -14274,6 +17123,13 @@
       "currency": "PLN",
       "rate": 3.6894,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25615.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_26",
@@ -14311,6 +17167,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25611.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_27",
       "country": "China",
       "currency": "CNY",
@@ -14339,6 +17202,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_08_27",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25611.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_08_28",
       "country": "China",
       "currency": "CNY",
@@ -14365,6 +17235,20 @@
       "currency": "PLN",
       "rate": 3.7209,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25610.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_08_29",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25610.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_08_30",
@@ -14407,6 +17291,13 @@
       "currency": "PLN",
       "rate": 3.7314,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_08_31",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25610.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_01",
@@ -14514,6 +17405,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_09_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25615.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_09_04",
       "country": "China",
       "currency": "CNY",
@@ -14540,6 +17438,20 @@
       "currency": "PLN",
       "rate": 3.7145,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_04",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25605.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_09_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25605.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_06",
@@ -14584,6 +17496,13 @@
       "source": "Narodowy Bank Polski (NBP Official Web API)"
     },
     {
+      "date": "2026_09_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25611.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_09_08",
       "country": "China",
       "currency": "CNY",
@@ -14623,7 +17542,7 @@
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25603.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_09",
@@ -14665,7 +17584,7 @@
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25594.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_10",
@@ -14707,7 +17626,7 @@
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25591.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_11",
@@ -14748,8 +17667,15 @@
       "date": "2026_09_11",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25598.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "rate": 25596.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_09_12",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25596.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_13",
@@ -14798,7 +17724,7 @@
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25607.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_15",
@@ -14871,6 +17797,13 @@
       "source": "KEB Hana Bank Official Fixing (Market Average Rate, MAR)"
     },
     {
+      "date": "2026_09_16",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25626.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_09_17",
       "country": "China",
       "currency": "CNY",
@@ -14892,6 +17825,13 @@
       "source": "Bank for International Settlements (BIS) / Bank Indonesia (BI)"
     },
     {
+      "date": "2026_09_17",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25632.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_09_18",
       "country": "China",
       "currency": "CNY",
@@ -14904,6 +17844,20 @@
       "currency": "IDR",
       "rate": 17822.6963,
       "source": "Bank for International Settlements (BIS) / Bank Indonesia (BI)"
+    },
+    {
+      "date": "2026_09_18",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25637.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_09_19",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25637.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_20",
@@ -14934,6 +17888,13 @@
       "source": "Bank for International Settlements (BIS) / Bank Indonesia (BI)"
     },
     {
+      "date": "2026_09_21",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25637.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_09_22",
       "country": "China",
       "currency": "CNY",
@@ -14958,7 +17919,7 @@
       "date": "2026_09_22",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25635.0,
+      "rate": 25640.0,
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
@@ -14976,6 +17937,13 @@
       "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
+      "date": "2026_09_23",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25635.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
       "date": "2026_09_24",
       "country": "China",
       "currency": "CNY",
@@ -14988,6 +17956,27 @@
       "currency": "EGP",
       "rate": 51.7832,
       "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+    },
+    {
+      "date": "2026_09_24",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25635.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_09_25",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25641.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_09_26",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25641.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_27",
@@ -15016,6 +18005,13 @@
       "currency": "PLN",
       "rate": 3.848,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25632.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_09_29",
@@ -15084,8 +18080,8 @@
       "date": "2026_09_30",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 370.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "rate": 25627.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     },
     {
       "date": "2026_10_01",
@@ -15099,7 +18095,7 @@
       "country": "Vietnam",
       "currency": "VND",
       "rate": 25624.0,
-      "source": "State Bank of Vietnam (sbv.gov.vn)"
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     }
   ]
 }

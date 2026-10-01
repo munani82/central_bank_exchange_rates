@@ -1,7 +1,7 @@
 ﻿country,currency,currency_name,date,rate,frequency,source,prev_date,prev_rate,diff,change_pct
-China,CNY,중국 위안,2026_09_16,6.7628,Daily,People's Bank of China / CFETS (chinamoney.com.cn),2026_09_15,6.767,-0.0041999999999999815,-0.062065908083345375
-Egypt,EGP,이집트 파운드,2026_09_15,51.8583,Daily,Central Bank of Egypt (cbe.org.eg),2026_09_14,51.8511,0.007199999999997431,0.013885915631485987
-Indonesia,IDR,인도네시아 루피아,2026_09_15,17687.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026_09_14,17635.0,52.0,0.29486815990927134
-Korea,KRW,대한민국 원,2026_09_16,1353.3,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS),2026_09_15,1345.3,8.0,0.5946629004682971
-Poland,PLN,폴란드 즐로티,2026_09_15,3.7667,Daily,Narodowy Bank Polski (NBP Official Web API),2026_09_14,3.7607,0.006000000000000227,0.15954476560215458
-Vietnam,VND,베트남 동,2026_09_16,25607.0,Daily,State Bank of Vietnam (sbv.gov.vn),2026_09_15,25607.0,0.0,0.0
+China,CNY,중국 위안,2026_09_30,6.7351,Daily,State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC),2026_09_29,6.7411,-0.006000000000000227,-0.08900624527154659
+Egypt,EGP,이집트 파운드,2026_09_30,51.9887,Daily,Central Bank of Egypt (cbe.org.eg Official Portal),2026_09_29,52.1244,-0.13569999999999993,-0.2603387281196521
+Indonesia,IDR,인도네시아 루피아,2026_09_30,17877.0,Daily,Bank Indonesia Official JISDOR Announcement,2026_09_22,17819.6458,57.35420000000158,0.3218593716380243
+Korea,KRW,대한민국 원,2026_10_01,1355.7,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing,2026_09_30,1358.4,-2.7000000000000455,-0.19876325088339555
+Poland,PLN,폴란드 즐로티,2026_09_30,3.8449,Daily,Narodowy Bank Polski (NBP Official Web API),2026_09_29,3.8537,-0.008799999999999919,-0.22835197342813193
+Vietnam,VND,베트남 동,2026_10_01,25624.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026_09_30,25627.0,-3.0,-0.011706403402661256
