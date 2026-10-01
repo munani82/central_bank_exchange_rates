@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2693,
+  "count": 2691,
   "data": [
     {
       "date": "2025_01_01",
@@ -17947,7 +17947,7 @@
       "date": "2026_09_01",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1375.42,
+      "rate": 1374.49,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -17989,7 +17989,7 @@
       "date": "2026_09_02",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1360.22,
+      "rate": 1359.29,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18031,7 +18031,7 @@
       "date": "2026_09_03",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1358.42,
+      "rate": 1357.49,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18073,7 +18073,7 @@
       "date": "2026_09_04",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1349.42,
+      "rate": 1348.49,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18115,7 +18115,7 @@
       "date": "2026_09_07",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1346.92,
+      "rate": 1345.99,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18157,7 +18157,7 @@
       "date": "2026_09_08",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1341.42,
+      "rate": 1340.49,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18199,7 +18199,7 @@
       "date": "2026_09_09",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1340.92,
+      "rate": 1339.99,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18241,7 +18241,7 @@
       "date": "2026_09_10",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1350.92,
+      "rate": 1349.99,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18283,7 +18283,7 @@
       "date": "2026_09_11",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1343.72,
+      "rate": 1342.79,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18325,7 +18325,7 @@
       "date": "2026_09_14",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1348.42,
+      "rate": 1347.49,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18367,7 +18367,7 @@
       "date": "2026_09_15",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1363.66,
+      "rate": 1362.73,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18451,7 +18451,7 @@
       "date": "2026_09_17",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1382.0,
+      "rate": 1381.07,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18493,7 +18493,7 @@
       "date": "2026_09_18",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1380.3,
+      "rate": 1379.37,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18535,7 +18535,7 @@
       "date": "2026_09_21",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1377.5,
+      "rate": 1376.57,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18577,7 +18577,7 @@
       "date": "2026_09_22",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1373.8,
+      "rate": 1372.87,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18619,7 +18619,7 @@
       "date": "2026_09_23",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1370.2,
+      "rate": 1369.27,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18659,13 +18659,6 @@
     },
     {
       "date": "2026_09_24",
-      "country": "Korea",
-      "currency": "KRW",
-      "rate": 1367.4,
-      "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
-    },
-    {
-      "date": "2026_09_24",
       "country": "Poland",
       "currency": "PLN",
       "rate": 3.836,
@@ -18698,13 +18691,6 @@
       "currency": "IDR",
       "rate": 17835.0,
       "source": "Bank Indonesia (bi.go.id JISDOR)"
-    },
-    {
-      "date": "2026_09_25",
-      "country": "Korea",
-      "currency": "KRW",
-      "rate": 1364.5,
-      "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
       "date": "2026_09_25",
@@ -18745,7 +18731,7 @@
       "date": "2026_09_28",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1361.8,
+      "rate": 1360.87,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
@@ -18787,7 +18773,7 @@
       "date": "2026_09_29",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1360.0,
+      "rate": 1359.05,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     },
     {
