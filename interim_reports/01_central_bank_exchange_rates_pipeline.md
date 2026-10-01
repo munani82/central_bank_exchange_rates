@@ -503,3 +503,14 @@
   * 적용 완료 영역: 당일 최신 환율 카드, 사용자 지정 기간평균 계산기 카드 및 표, 월평균 통계 테이블, 캔버스 시계열 차트 Y축 눈금.
 * 정적 API JSON 파일 규격 정돈 (static/data 및 data)
   * latest_rates.json, monthly_averages.json, history_rates.json, all_rates.json 모두 원시 실측 정밀도를 온전히 담은 채 웹 화면에서 동적으로 규격화 표시되도록 동기화 완료.
+
+
+## 29. Vercel 루트 배포 파일 동기화 및 브라우저 캐시 버스팅 갱신 완료
+* 원인 규명
+  * Vercel 배포 환경에서 루트의 index.html 및 app.js를 직접 서빙하는데, 이전 작업에서 static/app.js만 갱신되고 루트 디렉토리의 app.js 동기화가 누락됨.
+  * 또한 index.html의 스크립트 호출 파라미터가 이전 캐시 버전으로 유지되어, 사용자 브라우저에서 변경 전의 app.js가 캐시로 로드되면서 소수점 규격이 즉시 갱신되지 않았음.
+* 해결 조치 (scripts/sync_and_cache_bust.py)
+  * 포맷팅 함수(formatRateValue)가 적용된 정제 스크립트를 루트의 app.js로 1대1 완벽 동기화 복사 완료.
+  * index.html 및 static/index.html의 스크립트 호출 버전을 app.js?v=20261001_03 및 style.css?v=20261001_03으로 일괄 갱신하여 클라이언트 브라우저의 강제 최신 갱신 보장.
+* 배포 완료
+  * GitHub 최신 커밋(21a4e56)으로 푸시 완료 및 Vercel 실시간 재배포 완료.
