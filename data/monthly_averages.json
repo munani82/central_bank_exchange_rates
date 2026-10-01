@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 97,
+  "count": 114,
   "data": [
     {
       "year_month": "2026_10",
@@ -37,10 +37,10 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 51.8854,
-      "min_rate": 51.7187,
-      "max_rate": 52.1244,
-      "data_points": 11
+      "avg_rate": 51.5896,
+      "min_rate": 50.8781,
+      "max_rate": 52.2142,
+      "data_points": 23
     },
     {
       "year_month": "2026_09",
@@ -94,6 +94,16 @@
     },
     {
       "year_month": "2026_08",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.3589,
+      "min_rate": 49.7878,
+      "max_rate": 50.9243,
+      "data_points": 21
+    },
+    {
+      "year_month": "2026_08",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -131,6 +141,16 @@
       "min_rate": 6.7892,
       "max_rate": 6.8088,
       "data_points": 23
+    },
+    {
+      "year_month": "2026_07",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.3057,
+      "min_rate": 48.8129,
+      "max_rate": 51.352,
+      "data_points": 20
     },
     {
       "year_month": "2026_07",
@@ -180,6 +200,16 @@
       "avg_rate": 6.8154,
       "min_rate": 6.8088,
       "max_rate": 6.8209,
+      "data_points": 21
+    },
+    {
+      "year_month": "2026_06",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.7273,
+      "min_rate": 49.2294,
+      "max_rate": 52.1591,
       "data_points": 21
     },
     {
@@ -234,6 +264,16 @@
     },
     {
       "year_month": "2026_05",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 53.0267,
+      "min_rate": 52.2894,
+      "max_rate": 53.7531,
+      "data_points": 16
+    },
+    {
+      "year_month": "2026_05",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -284,6 +324,16 @@
     },
     {
       "year_month": "2026_04",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 52.969,
+      "min_rate": 51.7447,
+      "max_rate": 54.718,
+      "data_points": 20
+    },
+    {
+      "year_month": "2026_04",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -321,6 +371,16 @@
       "min_rate": 6.8898,
       "max_rate": 6.9236,
       "data_points": 22
+    },
+    {
+      "year_month": "2026_03",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 52.0077,
+      "min_rate": 48.7544,
+      "max_rate": 54.5946,
+      "data_points": 20
     },
     {
       "year_month": "2026_03",
@@ -374,6 +434,16 @@
     },
     {
       "year_month": "2026_02",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 47.1993,
+      "min_rate": 46.7786,
+      "max_rate": 47.9537,
+      "data_points": 20
+    },
+    {
+      "year_month": "2026_02",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -417,10 +487,10 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.2006,
-      "min_rate": 47.2006,
-      "max_rate": 47.2006,
-      "data_points": 1
+      "avg_rate": 47.2509,
+      "min_rate": 46.9152,
+      "max_rate": 47.5986,
+      "data_points": 18
     },
     {
       "year_month": "2026_01",
@@ -467,10 +537,10 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 47.6752,
-      "min_rate": 47.6712,
-      "max_rate": 47.6793,
-      "data_points": 2
+      "avg_rate": 47.5661,
+      "min_rate": 47.4184,
+      "max_rate": 47.7136,
+      "data_points": 23
     },
     {
       "year_month": "2025_12",
@@ -514,6 +584,16 @@
     },
     {
       "year_month": "2025_11",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 47.392,
+      "min_rate": 47.0579,
+      "max_rate": 47.8253,
+      "data_points": 21
+    },
+    {
+      "year_month": "2025_11",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -551,6 +631,16 @@
       "min_rate": 7.0843,
       "max_rate": 7.1102,
       "data_points": 17
+    },
+    {
+      "year_month": "2025_10",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 47.5765,
+      "min_rate": 47.2191,
+      "max_rate": 47.8849,
+      "data_points": 21
     },
     {
       "year_month": "2025_10",
@@ -604,6 +694,16 @@
     },
     {
       "year_month": "2025_09",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 48.2188,
+      "min_rate": 47.8744,
+      "max_rate": 48.5866,
+      "data_points": 21
+    },
+    {
+      "year_month": "2025_09",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -640,6 +740,16 @@
       "avg_rate": 7.1309,
       "min_rate": 7.103,
       "max_rate": 7.1496,
+      "data_points": 21
+    },
+    {
+      "year_month": "2025_08",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 48.4839,
+      "min_rate": 48.3001,
+      "max_rate": 48.6459,
       "data_points": 21
     },
     {
@@ -684,6 +794,16 @@
     },
     {
       "year_month": "2025_07",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 49.252,
+      "min_rate": 48.6598,
+      "max_rate": 49.6879,
+      "data_points": 21
+    },
+    {
+      "year_month": "2025_07",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -721,6 +841,16 @@
       "min_rate": 7.1586,
       "max_rate": 7.1886,
       "data_points": 20
+    },
+    {
+      "year_month": "2025_06",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.0274,
+      "min_rate": 49.4933,
+      "max_rate": 50.8038,
+      "data_points": 18
     },
     {
       "year_month": "2025_06",
@@ -764,6 +894,16 @@
     },
     {
       "year_month": "2025_05",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.2153,
+      "min_rate": 49.7448,
+      "max_rate": 50.7156,
+      "data_points": 20
+    },
+    {
+      "year_month": "2025_05",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -801,6 +941,16 @@
       "min_rate": 7.1775,
       "max_rate": 7.2133,
       "data_points": 21
+    },
+    {
+      "year_month": "2025_04",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 51.0714,
+      "min_rate": 50.5983,
+      "max_rate": 51.6825,
+      "data_points": 17
     },
     {
       "year_month": "2025_04",
@@ -844,6 +994,16 @@
     },
     {
       "year_month": "2025_03",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.6162,
+      "min_rate": 50.4807,
+      "max_rate": 50.7095,
+      "data_points": 20
+    },
+    {
+      "year_month": "2025_03",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -881,6 +1041,16 @@
       "min_rate": 7.1691,
       "max_rate": 7.174,
       "data_points": 18
+    },
+    {
+      "year_month": "2025_02",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.4967,
+      "min_rate": 50.2294,
+      "max_rate": 50.6616,
+      "data_points": 20
     },
     {
       "year_month": "2025_02",
@@ -927,10 +1097,10 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 50.4544,
-      "min_rate": 50.2529,
+      "avg_rate": 50.4199,
+      "min_rate": 50.1988,
       "max_rate": 50.772,
-      "data_points": 17
+      "data_points": 20
     },
     {
       "year_month": "2025_01",
