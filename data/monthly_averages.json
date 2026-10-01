@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 89,
+  "count": 95,
   "data": [
     {
       "year_month": "2026_10",
@@ -77,10 +77,10 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25603.8571,
+      "avg_rate": 25611.3333,
       "min_rate": 25591.0,
-      "max_rate": 25627.0,
-      "data_points": 7
+      "max_rate": 25635.0,
+      "data_points": 9
     },
     {
       "year_month": "2026_08",
@@ -163,6 +163,16 @@
       "data_points": 23
     },
     {
+      "year_month": "2026_07",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25306.0,
+      "min_rate": 25306.0,
+      "max_rate": 25306.0,
+      "data_points": 1
+    },
+    {
       "year_month": "2026_06",
       "country": "China",
       "currency": "CNY",
@@ -203,6 +213,16 @@
       "data_points": 21
     },
     {
+      "year_month": "2026_06",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25192.0,
+      "min_rate": 25192.0,
+      "max_rate": 25192.0,
+      "data_points": 1
+    },
+    {
       "year_month": "2026_05",
       "country": "China",
       "currency": "CNY",
@@ -241,6 +261,16 @@
       "min_rate": 3.5921,
       "max_rate": 3.6709,
       "data_points": 20
+    },
+    {
+      "year_month": "2026_05",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25113.0,
+      "min_rate": 25113.0,
+      "max_rate": 25113.0,
+      "data_points": 1
     },
     {
       "year_month": "2026_04",
@@ -321,6 +351,16 @@
       "min_rate": 3.6056,
       "max_rate": 3.7408,
       "data_points": 22
+    },
+    {
+      "year_month": "2026_03",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25055.0,
+      "min_rate": 25055.0,
+      "max_rate": 25055.0,
+      "data_points": 1
     },
     {
       "year_month": "2026_02",
@@ -521,6 +561,16 @@
       "min_rate": 3.621,
       "max_rate": 3.6897,
       "data_points": 23
+    },
+    {
+      "year_month": "2025_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25162.0,
+      "min_rate": 25162.0,
+      "max_rate": 25162.0,
+      "data_points": 1
     },
     {
       "year_month": "2025_09",
@@ -851,6 +901,16 @@
       "min_rate": 7.1696,
       "max_rate": 7.1891,
       "data_points": 18
+    },
+    {
+      "year_month": "2025_01",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 50.4544,
+      "min_rate": 50.2529,
+      "max_rate": 50.772,
+      "data_points": 17
     },
     {
       "year_month": "2025_01",
