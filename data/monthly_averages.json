@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 95,
+  "count": 97,
   "data": [
     {
       "year_month": "2026_10",
@@ -37,10 +37,10 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 51.8438,
-      "min_rate": 51.825,
-      "max_rate": 51.8583,
-      "data_points": 7
+      "avg_rate": 51.8854,
+      "min_rate": 51.7187,
+      "max_rate": 52.1244,
+      "data_points": 11
     },
     {
       "year_month": "2026_09",
@@ -414,6 +414,16 @@
     },
     {
       "year_month": "2026_01",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 47.2006,
+      "min_rate": 47.2006,
+      "max_rate": 47.2006,
+      "data_points": 1
+    },
+    {
+      "year_month": "2026_01",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
@@ -451,6 +461,16 @@
       "min_rate": 7.0288,
       "max_rate": 7.0794,
       "data_points": 23
+    },
+    {
+      "year_month": "2025_12",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 47.6752,
+      "min_rate": 47.6712,
+      "max_rate": 47.6793,
+      "data_points": 2
     },
     {
       "year_month": "2025_12",

@@ -170,6 +170,36 @@
     "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
   },
   {
+    "date": "2025_12_30",
+    "year_month": "2025_12",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 47.6793,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
+    "date": "2025_12_31",
+    "year_month": "2025_12",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 47.6712,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
+    "date": "2026_01_11",
+    "year_month": "2026_01",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 47.2006,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
     "date": "2026_09_08",
     "year_month": "2026_09",
     "country": "Egypt",
@@ -230,13 +260,53 @@
     "source": "Central Bank of Egypt (cbe.org.eg)"
   },
   {
+    "date": "2026_09_24",
+    "year_month": "2026_09",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 51.7832,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
+    "date": "2026_09_27",
+    "year_month": "2026_09",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 51.7187,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
+    "date": "2026_09_28",
+    "year_month": "2026_09",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 52.0763,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
+    "date": "2026_09_29",
+    "year_month": "2026_09",
+    "country": "Egypt",
+    "currency": "EGP",
+    "currency_name": "이집트 파운드",
+    "rate": 52.1244,
+    "frequency": "Daily",
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+  },
+  {
     "date": "2026_09_30",
     "year_month": "2026_09",
     "country": "Egypt",
     "currency": "EGP",
     "currency_name": "이집트 파운드",
-    "rate": 51.8583,
+    "rate": 51.9887,
     "frequency": "Daily",
-    "source": "Central Bank of Egypt (cbe.org.eg)"
+    "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
   }
 ]

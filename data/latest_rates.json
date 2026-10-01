@@ -20,13 +20,13 @@
       "currency": "EGP",
       "currency_name": "이집트 파운드",
       "date": "2026_09_30",
-      "rate": 51.8583,
+      "rate": 51.9887,
       "frequency": "Daily",
-      "source": "Central Bank of Egypt (cbe.org.eg)",
-      "prev_date": "2026_09_15",
-      "prev_rate": 51.8583,
-      "diff": 0.0,
-      "change_pct": 0.0
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)",
+      "prev_date": "2026_09_29",
+      "prev_rate": 52.1244,
+      "diff": -0.1357,
+      "change_pct": -0.26
     },
     {
       "country": "Indonesia",

@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 1759,
+  "count": 1766,
   "data": [
     {
       "date": "2024_12_27",
@@ -7046,6 +7046,13 @@
     },
     {
       "date": "2025_12_30",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 47.6793,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+    },
+    {
+      "date": "2025_12_30",
       "country": "Indonesia",
       "currency": "IDR",
       "rate": 16765.3483,
@@ -7071,6 +7078,13 @@
       "currency": "CNY",
       "rate": 7.0288,
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
+    },
+    {
+      "date": "2025_12_31",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 47.6712,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
       "date": "2025_12_31",
@@ -7246,6 +7260,13 @@
       "currency": "PLN",
       "rate": 3.6184,
       "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_01_11",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 47.2006,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
       "date": "2026_01_12",
@@ -12225,11 +12246,32 @@
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
     },
     {
+      "date": "2026_09_24",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 51.7832,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+    },
+    {
+      "date": "2026_09_27",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 51.7187,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
+    },
+    {
       "date": "2026_09_28",
       "country": "China",
       "currency": "CNY",
       "rate": 6.7399,
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
+    },
+    {
+      "date": "2026_09_28",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.0763,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
       "date": "2026_09_28",
@@ -12244,6 +12286,13 @@
       "currency": "CNY",
       "rate": 6.7411,
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
+    },
+    {
+      "date": "2026_09_29",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 52.1244,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
       "date": "2026_09_29",
@@ -12270,8 +12319,8 @@
       "date": "2026_09_30",
       "country": "Egypt",
       "currency": "EGP",
-      "rate": 51.8583,
-      "source": "Central Bank of Egypt (cbe.org.eg)"
+      "rate": 51.9887,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Portal)"
     },
     {
       "date": "2026_09_30",
