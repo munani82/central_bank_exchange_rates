@@ -47,9 +47,9 @@
     "frequency": "Daily",
     "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing",
     "prev_date": "2026_09_30",
-    "prev_rate": 1358.4,
-    "diff": -2.7000000000000455,
-    "change_pct": -0.19876325088339555
+    "prev_rate": 1358.0,
+    "diff": -2.2999999999999545,
+    "change_pct": -0.169366715758465
   },
   {
     "country": "Poland",
