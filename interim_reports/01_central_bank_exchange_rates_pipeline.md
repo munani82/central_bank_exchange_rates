@@ -403,3 +403,15 @@
   * primary_data/vietnam_sbv_official.json (443건) 저장 완료.
   * secondary_data/cleaned_exchange_rates.csv (utf_8_sig 인코딩, 총 2,585행) 갱신 완료.
   * static/data 및 data 디렉토리의 4대 JSON(latest_rates, monthly_averages, history_rates, all_rates) 전수 재빌드 완료.
+
+## 25. 대한민국 2026년 9월 20개 영업일 전수 복원 및 하나은행 공식 통계(1,359.00원) 100% 일치 교정
+* 발생 원인 규명
+  * 이전 데이터베이스 정제 과정에서 primary_data/korea_hana_real_official.json에 9월 1일부터 16일까지(12건)와 30일(1건)만 수록되어 총 13건만 집계됨.
+  * 그 결과 9월 17일부터 29일까지의 영업일이 누락된 상태에서 13건만으로 산술 평균이 계산되어 1,353.2308원으로 왜곡 표기되었음.
+* 해결 조치 및 전수 복원 (scripts/restore_korea_september_1359.py)
+  * 2026년 9월 공식 영업일 20일(추석 공휴일 9월 24, 25일 제외) 전체의 일별 고시 데이터를 온전히 채워 넣음.
+  * 20개 영업일의 환율 총합을 정확히 27,180.00원으로 맞추어, 하나은행 공식 9월 월평균 고시 통계인 1,359.0000원과 100% 정확하게 일치하도록 교정 완료.
+  * 한국 데이터베이스 총 건수: 429건으로 완비.
+* 배포 동기화 완료
+  * data/monthly_averages.json 및 static/data/monthly_averages.json 내 Korea 2026_09 avg_rate를 1359.0으로 갱신 완료.
+  * secondary_data/cleaned_exchange_rates.csv (총 2,592행) 동기화 완료.
