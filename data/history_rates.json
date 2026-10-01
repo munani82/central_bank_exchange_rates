@@ -15050,7 +15050,7 @@
       "country": "China",
       "currency": "CNY",
       "rate": 6.7351,
-      "source": "People's Bank of China / SAFE / CFETS"
+      "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
     },
     {
       "date": "2026_09_30",
@@ -15084,7 +15084,7 @@
       "date": "2026_09_30",
       "country": "Vietnam",
       "currency": "VND",
-      "rate": 25627.0,
+      "rate": 370.0,
       "source": "State Bank of Vietnam (sbv.gov.vn)"
     },
     {

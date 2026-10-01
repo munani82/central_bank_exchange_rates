@@ -9,7 +9,7 @@
       "date": "2026_09_30",
       "rate": 6.7351,
       "frequency": "Daily",
-      "source": "People's Bank of China / SAFE / CFETS",
+      "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)",
       "prev_date": "2026_09_29",
       "prev_rate": 6.7411,
       "diff": -0.006,
@@ -76,9 +76,9 @@
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn)",
       "prev_date": "2026_09_30",
-      "prev_rate": 25627.0,
-      "diff": -3.0,
-      "change_pct": -0.012
+      "prev_rate": 370.0,
+      "diff": 25254.0,
+      "change_pct": 6825.405
     }
   ]
 }
