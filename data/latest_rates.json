@@ -45,14 +45,14 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "date": "2026_10_02",
+      "date": "2026_10_05",
       "rate": 1359.6,
       "frequency": "Daily",
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing",
-      "prev_date": "2026_10_01",
-      "prev_rate": 1355.7,
-      "diff": 3.9,
-      "change_pct": 0.288
+      "prev_date": "2026_10_02",
+      "prev_rate": 1359.6,
+      "diff": 0.0,
+      "change_pct": 0.0
     },
     {
       "country": "Poland",
@@ -71,14 +71,14 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_10_01",
-      "rate": 25624.0,
+      "date": "2026_10_03",
+      "rate": 370.0,
       "frequency": "Daily",
-      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_09_30",
-      "prev_rate": 370.0,
-      "diff": 25254.0,
-      "change_pct": 6825.405
+      "source": "State Bank of Vietnam (sbv.gov.vn)",
+      "prev_date": "2026_10_01",
+      "prev_rate": 25624.0,
+      "diff": -25254.0,
+      "change_pct": -98.556
     }
   ]
 }

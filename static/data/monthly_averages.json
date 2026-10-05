@@ -7,20 +7,20 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1357.65,
+      "avg_rate": 1358.3,
       "min_rate": 1355.7,
       "max_rate": 1359.6,
-      "data_points": 2
+      "data_points": 3
     },
     {
       "year_month": "2026_10",
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25624.0,
-      "min_rate": 25624.0,
+      "avg_rate": 12997.0,
+      "min_rate": 370.0,
       "max_rate": 25624.0,
-      "data_points": 1
+      "data_points": 2
     },
     {
       "year_month": "2026_09",
