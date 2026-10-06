@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2595,
+  "count": 2596,
   "data": [
     {
       "date": "2024_12_27",
@@ -18165,6 +18165,13 @@
       "country": "Korea",
       "currency": "KRW",
       "rate": 1359.6,
+      "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
+    },
+    {
+      "date": "2026_10_06",
+      "country": "Korea",
+      "currency": "KRW",
+      "rate": 1358.5,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     }
   ]
