@@ -1,26 +1,36 @@
 {
   "status": "success",
-  "count": 129,
+  "count": 130,
   "data": [
+    {
+      "year_month": "2026_10",
+      "country": "China",
+      "currency": "CNY",
+      "currency_name": "중국 위안",
+      "avg_rate": 6.7367,
+      "min_rate": 6.7367,
+      "max_rate": 6.7367,
+      "data_points": 1
+    },
     {
       "year_month": "2026_10",
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1355.36,
-      "min_rate": 1343.4,
+      "avg_rate": 1352.6667,
+      "min_rate": 1339.2,
       "max_rate": 1359.6,
-      "data_points": 5
+      "data_points": 6
     },
     {
       "year_month": "2026_10",
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 8788.0,
+      "avg_rate": 6683.5,
       "min_rate": 370.0,
       "max_rate": 25624.0,
-      "data_points": 3
+      "data_points": 4
     },
     {
       "year_month": "2026_09",
