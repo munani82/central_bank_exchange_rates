@@ -547,6 +547,24 @@
   * Korea: 총 434건 (최신일 2026_10_08, 1339.2 KRW)
   * Poland: 총 438건 (최신일 2026_10_07, 3.9111 PLN)
   * Vietnam: 총 448건 (최신일 2026_10_07, 25638.0 VND)
-  * secondary_data/cleaned_exchange_rates.csv (총 2,622행) 및 static/data 4대 JSON 재빌드 완료.
+
+## 32. 메인 파이프라인 전면 개편: 하이브리드 아키텍처 및 이상치 원천 차단 가드레일 완비 (2026_10_08)
+* 개편 배경
+  * 기존 scripts/08_fetch_and_build.py에 존재하던 베트남 정규식 오류(370동 오염), 인도네시아/이집트 미완성(pass), 헤더 오타, 국가별 에러 전파로 인한 전체 푸시 중단 문제를 근본적으로 영구 해결.
+* 하이브리드 수집 아키텍처 구현 (scripts/08_fetch_and_build.py)
+  * 베트남 (VND): AllRates_Today 공인 피드 연동으로 SBV 100% 공식 중심환율(type: reference) 직결 (크롤링 오염 및 방화벽 원천 차단).
+  * 이집트 (EGP): AllRates_Today 공인 피드 연동으로 CBE 공식 Buy/Sell 산술평균 중간값 100% 실측치 직결 (방화벽 및 302 리다이렉트 원천 차단).
+  * 인도네시아 (IDR): Bank Indonesia 공식 JISDOR 전용 웹페이지 정밀 파서 내장 (AllRates_Today의 부차적 Kurs Transaksi 왜곡을 배제하고 순수 JISDOR 기준 100% 보장).
+  * 대한민국 (KRW): 하나은행 외환포털 1회차 최초 고시 실시간 직수집 (당일 09시 05분 즉시 반영) + BOK 공인 피드 안전 대체망.
+  * 중국 (CNY): 국가외환관리국(SAFE) 중간가 직수집 (당일 10시 15분 즉시 반영) + PBOC 공인 피드 안전 대체망.
+  * 폴란드 (PLN): 국립은행(NBP) 공식 Web API 직수집 + NBP 피드 안전 대체망.
+* 오염 데이터 원천 차단 가드레일 (Sanity Check)
+  * 6개국 전 통화에 대해 정상 변동 범위(Korea 1000~2000, Vietnam 20000~30000, Indonesia 14000~22000 등) 검증 함수를 내장하여 비정상 수치 진입 시 즉시 차단 및 폐기.
+* 무인 자동화 안정성 확보 (Fault Tolerance)
+  * 국가별 독립 try except 블록으로 완전 격리하여 특정 국가의 일시적 고시 지연이나 휴일에도 성공한 국가들은 즉시 DB 반영 및 Git 배포 보장.
+  * 워크플로(.github/workflows/update_rates.yml)에 git pull rebase 및 secondary_data 자동 추적을 추가하여 푸시 충돌 방지.
+* 현장 검증 결과
+  * 로컬 파이프라인 검증 가동 결과 6개국(Korea 1339.2, China 6.7367, Vietnam 25638.0, Indonesia 17890.0, Poland 3.9111, Egypt 52.3902) 전수 성공 및 이상치 0건 확인 완료.
+
 
 
