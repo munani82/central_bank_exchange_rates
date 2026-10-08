@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 130,
+  "count": 132,
   "data": [
     {
       "year_month": "2026_10",
@@ -14,6 +14,16 @@
     },
     {
       "year_month": "2026_10",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "currency_name": "인도네시아 루피아",
+      "avg_rate": 17905.3333,
+      "min_rate": 17880.0,
+      "max_rate": 17937.0,
+      "data_points": 6
+    },
+    {
+      "year_month": "2026_10",
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
@@ -21,6 +31,16 @@
       "min_rate": 1339.2,
       "max_rate": 1359.6,
       "data_points": 6
+    },
+    {
+      "year_month": "2026_10",
+      "country": "Poland",
+      "currency": "PLN",
+      "currency_name": "폴란드 즐로티",
+      "avg_rate": 3.8948,
+      "min_rate": 3.8762,
+      "max_rate": 3.9116,
+      "data_points": 5
     },
     {
       "year_month": "2026_10",
@@ -57,10 +77,10 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17693.0528,
+      "avg_rate": 17733.0948,
       "min_rate": 17475.7981,
-      "max_rate": 17877.0,
-      "data_points": 17
+      "max_rate": 17998.0,
+      "data_points": 20
     },
     {
       "year_month": "2026_09",

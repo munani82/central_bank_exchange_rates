@@ -32,14 +32,14 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "date": "2026_09_30",
-      "rate": 17877.0,
+      "date": "2026_10_08",
+      "rate": 17890.0,
       "frequency": "Daily",
-      "source": "Bank Indonesia Official JISDOR Announcement",
-      "prev_date": "2026_09_22",
-      "prev_rate": 17819.6458,
-      "diff": 57.3542,
-      "change_pct": 0.322
+      "source": "Bank Indonesia (bi.go.id JISDOR)",
+      "prev_date": "2026_10_07",
+      "prev_rate": 17880.0,
+      "diff": 10.0,
+      "change_pct": 0.056
     },
     {
       "country": "Korea",
@@ -58,14 +58,14 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_09_30",
-      "rate": 3.8449,
+      "date": "2026_10_07",
+      "rate": 3.9111,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_09_29",
-      "prev_rate": 3.8537,
-      "diff": -0.0088,
-      "change_pct": -0.228
+      "prev_date": "2026_10_06",
+      "prev_rate": 3.8868,
+      "diff": 0.0243,
+      "change_pct": 0.625
     },
     {
       "country": "Vietnam",
