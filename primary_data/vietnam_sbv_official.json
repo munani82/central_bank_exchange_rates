@@ -4428,5 +4428,55 @@
     "rate": 25624.0,
     "frequency": "Daily",
     "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+  },
+  {
+    "date": "2026_10_02",
+    "year_month": "2026_10",
+    "country": "Vietnam",
+    "currency": "VND",
+    "currency_name": "베트남 동",
+    "rate": 25636.0,
+    "frequency": "Daily",
+    "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+  },
+  {
+    "date": "2026_10_03",
+    "year_month": "2026_10",
+    "country": "Vietnam",
+    "currency": "VND",
+    "currency_name": "베트남 동",
+    "rate": 25636.0,
+    "frequency": "Daily",
+    "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+  },
+  {
+    "date": "2026_10_05",
+    "year_month": "2026_10",
+    "country": "Vietnam",
+    "currency": "VND",
+    "currency_name": "베트남 동",
+    "rate": 25643.0,
+    "frequency": "Daily",
+    "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+  },
+  {
+    "date": "2026_10_06",
+    "year_month": "2026_10",
+    "country": "Vietnam",
+    "currency": "VND",
+    "currency_name": "베트남 동",
+    "rate": 25645.0,
+    "frequency": "Daily",
+    "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+  },
+  {
+    "date": "2026_10_07",
+    "year_month": "2026_10",
+    "country": "Vietnam",
+    "currency": "VND",
+    "currency_name": "베트남 동",
+    "rate": 25638.0,
+    "frequency": "Daily",
+    "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 132,
+  "count": 133,
   "data": [
     {
       "year_month": "2026_10",
@@ -11,6 +11,16 @@
       "min_rate": 6.7367,
       "max_rate": 6.7367,
       "data_points": 1
+    },
+    {
+      "year_month": "2026_10",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 52.353,
+      "min_rate": 52.2944,
+      "max_rate": 52.4315,
+      "data_points": 5
     },
     {
       "year_month": "2026_10",
@@ -47,10 +57,10 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 6683.5,
-      "min_rate": 370.0,
-      "max_rate": 25624.0,
-      "data_points": 4
+      "avg_rate": 25637.0,
+      "min_rate": 25624.0,
+      "max_rate": 25645.0,
+      "data_points": 6
     },
     {
       "year_month": "2026_09",
@@ -107,8 +117,8 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 24568.0417,
-      "min_rate": 370.0,
+      "avg_rate": 25620.4167,
+      "min_rate": 25591.0,
       "max_rate": 25641.0,
       "data_points": 24
     },
