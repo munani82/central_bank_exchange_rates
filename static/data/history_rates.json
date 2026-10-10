@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2630,
+  "count": 2631,
   "data": [
     {
       "date": "2024_12_27",
@@ -18411,6 +18411,13 @@
       "currency": "KRW",
       "rate": 1339.2,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
+    },
+    {
+      "date": "2026_10_10",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25629.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     }
   ]
 }
