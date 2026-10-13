@@ -32,14 +32,14 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "date": "2026_10_12",
-      "rate": 17899.0,
+      "date": "2026_10_13",
+      "rate": 17930.0,
       "frequency": "Daily",
       "source": "Bank Indonesia (bi.go.id JISDOR)",
-      "prev_date": "2026_10_09",
-      "prev_rate": 17884.0,
-      "diff": 15.0,
-      "change_pct": 0.084
+      "prev_date": "2026_10_12",
+      "prev_rate": 17899.0,
+      "diff": 31.0,
+      "change_pct": 0.173
     },
     {
       "country": "Korea",

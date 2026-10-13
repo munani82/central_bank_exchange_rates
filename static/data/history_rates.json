@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2640,
+  "count": 2641,
   "data": [
     {
       "date": "2024_12_27",
@@ -18474,6 +18474,13 @@
       "currency": "CNY",
       "rate": 6.7298,
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
+    },
+    {
+      "date": "2026_10_13",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17930.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
     },
     {
       "date": "2026_10_13",

@@ -27,10 +27,10 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17901.875,
+      "avg_rate": 17905.0,
       "min_rate": 17880.0,
       "max_rate": 17937.0,
-      "data_points": 8
+      "data_points": 9
     },
     {
       "year_month": "2026_10",
