@@ -7,10 +7,10 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.7337,
-      "min_rate": 6.7313,
+      "avg_rate": 6.7327,
+      "min_rate": 6.7298,
       "max_rate": 6.7367,
-      "data_points": 3
+      "data_points": 4
     },
     {
       "year_month": "2026_10",
@@ -37,8 +37,8 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1347.04,
-      "min_rate": 1338.0,
+      "avg_rate": 1346.82,
+      "min_rate": 1335.8,
       "max_rate": 1359.6,
       "data_points": 10
     },

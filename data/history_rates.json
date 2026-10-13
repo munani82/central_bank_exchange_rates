@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2639,
+  "count": 2640,
   "data": [
     {
       "date": "2024_12_27",
@@ -18470,9 +18470,16 @@
     },
     {
       "date": "2026_10_13",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.7298,
+      "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
+    },
+    {
+      "date": "2026_10_13",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1338.0,
+      "rate": 1335.8,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     }
   ]
