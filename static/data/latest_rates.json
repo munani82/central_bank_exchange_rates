@@ -19,14 +19,14 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "date": "2026_10_12",
-      "rate": 52.6707,
+      "date": "2026_10_13",
+      "rate": 52.8362,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)",
-      "prev_date": "2026_10_11",
-      "prev_rate": 52.5951,
-      "diff": 0.0756,
-      "change_pct": 0.144
+      "prev_date": "2026_10_12",
+      "prev_rate": 52.6707,
+      "diff": 0.1655,
+      "change_pct": 0.314
     },
     {
       "country": "Indonesia",
@@ -46,13 +46,13 @@
       "currency": "KRW",
       "currency_name": "대한민국 원",
       "date": "2026_10_14",
-      "rate": 1335.8,
+      "rate": 1340.5,
       "frequency": "Daily",
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing",
       "prev_date": "2026_10_13",
       "prev_rate": 1335.8,
-      "diff": 0.0,
-      "change_pct": 0.0
+      "diff": 4.7,
+      "change_pct": 0.352
     },
     {
       "country": "Poland",

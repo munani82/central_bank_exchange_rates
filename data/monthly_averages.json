@@ -17,10 +17,10 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 52.433,
+      "avg_rate": 52.4834,
       "min_rate": 52.2944,
-      "max_rate": 52.6707,
-      "data_points": 7
+      "max_rate": 52.8362,
+      "data_points": 8
     },
     {
       "year_month": "2026_10",
@@ -37,7 +37,7 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1345.8182,
+      "avg_rate": 1346.2455,
       "min_rate": 1335.8,
       "max_rate": 1359.6,
       "data_points": 11
