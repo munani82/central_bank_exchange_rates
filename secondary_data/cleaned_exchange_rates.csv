@@ -858,6 +858,7 @@
 3571,2026_10_11,2026_10,Egypt,EGP,이집트 파운드,52.5951,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-12 00:48:51
 3577,2026_10_12,2026_10,Egypt,EGP,이집트 파운드,52.6707,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-12 19:12:24
 3583,2026_10_13,2026_10,Egypt,EGP,이집트 파운드,52.8362,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-14 00:43:50
+3588,2026_10_14,2026_10,Egypt,EGP,이집트 파운드,53.1117,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-14 14:36:09
 1280,2025_01_02,2025_01,Indonesia,IDR,인도네시아 루피아,16206.5498,Daily,Bank for International Settlements (BIS) / Bank Indonesia (BI),2026-10-01 01:53:36
 1281,2025_01_03,2025_01,Indonesia,IDR,인도네시아 루피아,16218.9047,Daily,Bank for International Settlements (BIS) / Bank Indonesia (BI),2026-10-01 01:53:36
 1282,2025_01_06,2025_01,Indonesia,IDR,인도네시아 루피아,16146.854,Daily,Bank for International Settlements (BIS) / Bank Indonesia (BI),2026-10-01 01:53:36
@@ -1311,6 +1312,7 @@
 3567,2026_10_09,2026_10,Indonesia,IDR,인도네시아 루피아,17884.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-09 16:25:39
 3575,2026_10_12,2026_10,Indonesia,IDR,인도네시아 루피아,17899.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-12 19:12:24
 3579,2026_10_13,2026_10,Indonesia,IDR,인도네시아 루피아,17930.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-13 08:31:09
+3586,2026_10_14,2026_10,Indonesia,IDR,인도네시아 루피아,17898.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-14 14:36:09
 425,2024_12_27,2024_12,Korea,KRW,대한민국 원,1476.0,Daily,"KEB Hana Bank Official Fixing (Market Average Rate, MAR)",2026-10-01 01:53:36
 426,2024_12_30,2024_12,Korea,KRW,대한민국 원,1471.8,Daily,"KEB Hana Bank Official Fixing (Market Average Rate, MAR)",2026-10-01 01:53:36
 427,2024_12_31,2024_12,Korea,KRW,대한민국 원,1477.0,Daily,"KEB Hana Bank Official Fixing (Market Average Rate, MAR)",2026-10-01 01:53:36
@@ -2192,6 +2194,7 @@
 3568,2026_10_09,2026_10,Poland,PLN,폴란드 즐로티,3.9022,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-09 16:25:39
 3576,2026_10_12,2026_10,Poland,PLN,폴란드 즐로티,3.9211,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-12 19:12:24
 3582,2026_10_13,2026_10,Poland,PLN,폴란드 즐로티,3.9177,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-13 17:03:14
+3587,2026_10_14,2026_10,Poland,PLN,폴란드 즐로티,3.9042,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-14 14:36:09
 3445,2025_01_02,2025_01,Vietnam,VND,베트남 동,24335.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-01 06:32:04
 3446,2025_01_03,2025_01,Vietnam,VND,베트남 동,24334.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-01 06:32:04
 3447,2025_02_03,2025_02,Vietnam,VND,베트남 동,24325.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-01 06:32:04
@@ -2645,3 +2648,4 @@
 3569,2026_10_10,2026_10,Vietnam,VND,베트남 동,25629.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-10 01:23:36
 3574,2026_10_12,2026_10,Vietnam,VND,베트남 동,25621.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-12 19:12:24
 3581,2026_10_13,2026_10,Vietnam,VND,베트남 동,25633.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-13 17:03:14
+3585,2026_10_14,2026_10,Vietnam,VND,베트남 동,25646.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-14 14:36:09

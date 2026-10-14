@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2646,
+  "count": 2650,
   "data": [
     {
       "date": "2024_12_27",
@@ -18519,10 +18519,38 @@
     },
     {
       "date": "2026_10_14",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 53.1117,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)"
+    },
+    {
+      "date": "2026_10_14",
+      "country": "Indonesia",
+      "currency": "IDR",
+      "rate": 17898.0,
+      "source": "Bank Indonesia (bi.go.id JISDOR)"
+    },
+    {
+      "date": "2026_10_14",
       "country": "Korea",
       "currency": "KRW",
       "rate": 1340.5,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
+    },
+    {
+      "date": "2026_10_14",
+      "country": "Poland",
+      "currency": "PLN",
+      "rate": 3.9042,
+      "source": "Narodowy Bank Polski (NBP Official Web API)"
+    },
+    {
+      "date": "2026_10_14",
+      "country": "Vietnam",
+      "currency": "VND",
+      "rate": 25646.0,
+      "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
     }
   ]
 }
