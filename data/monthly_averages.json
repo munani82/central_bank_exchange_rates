@@ -37,10 +37,10 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1345.6083,
+      "avg_rate": 1345.0692,
       "min_rate": 1335.8,
       "max_rate": 1359.6,
-      "data_points": 12
+      "data_points": 13
     },
     {
       "year_month": "2026_10",
