@@ -17,20 +17,20 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 52.5532,
+      "avg_rate": 52.644,
       "min_rate": 52.2944,
-      "max_rate": 53.1117,
-      "data_points": 9
+      "max_rate": 53.4614,
+      "data_points": 10
     },
     {
       "year_month": "2026_10",
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17904.3,
+      "avg_rate": 17908.2727,
       "min_rate": 17880.0,
-      "max_rate": 17937.0,
-      "data_points": 10
+      "max_rate": 17948.0,
+      "data_points": 11
     },
     {
       "year_month": "2026_10",
@@ -47,20 +47,20 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.9032,
+      "avg_rate": 3.9025,
       "min_rate": 3.8762,
       "max_rate": 3.9211,
-      "data_points": 10
+      "data_points": 11
     },
     {
       "year_month": "2026_10",
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25634.5,
+      "avg_rate": 25635.0769,
       "min_rate": 25621.0,
       "max_rate": 25646.0,
-      "data_points": 12
+      "data_points": 13
     },
     {
       "year_month": "2026_09",

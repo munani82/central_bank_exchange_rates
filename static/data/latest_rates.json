@@ -19,27 +19,27 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "date": "2026_10_14",
-      "rate": 53.1117,
+      "date": "2026_10_15",
+      "rate": 53.4614,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)",
-      "prev_date": "2026_10_13",
-      "prev_rate": 52.8362,
-      "diff": 0.2755,
-      "change_pct": 0.521
+      "prev_date": "2026_10_14",
+      "prev_rate": 53.1117,
+      "diff": 0.3497,
+      "change_pct": 0.658
     },
     {
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "date": "2026_10_14",
-      "rate": 17898.0,
+      "date": "2026_10_15",
+      "rate": 17948.0,
       "frequency": "Daily",
       "source": "Bank Indonesia (bi.go.id JISDOR)",
-      "prev_date": "2026_10_13",
-      "prev_rate": 17930.0,
-      "diff": -32.0,
-      "change_pct": -0.178
+      "prev_date": "2026_10_14",
+      "prev_rate": 17898.0,
+      "diff": 50.0,
+      "change_pct": 0.279
     },
     {
       "country": "Korea",
@@ -58,27 +58,27 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_10_14",
-      "rate": 3.9042,
+      "date": "2026_10_15",
+      "rate": 3.8952,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_10_13",
-      "prev_rate": 3.9177,
-      "diff": -0.0135,
-      "change_pct": -0.345
+      "prev_date": "2026_10_14",
+      "prev_rate": 3.9042,
+      "diff": -0.009,
+      "change_pct": -0.231
     },
     {
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_10_14",
-      "rate": 25646.0,
+      "date": "2026_10_15",
+      "rate": 25642.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_10_13",
-      "prev_rate": 25633.0,
-      "diff": 13.0,
-      "change_pct": 0.051
+      "prev_date": "2026_10_14",
+      "prev_rate": 25646.0,
+      "diff": -4.0,
+      "change_pct": -0.016
     }
   ]
 }
