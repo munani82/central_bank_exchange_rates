@@ -32,14 +32,14 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "date": "2026_10_15",
-      "rate": 17948.0,
+      "date": "2026_10_16",
+      "rate": 18052.0,
       "frequency": "Daily",
       "source": "Bank Indonesia (bi.go.id JISDOR)",
-      "prev_date": "2026_10_14",
-      "prev_rate": 17898.0,
-      "diff": 50.0,
-      "change_pct": 0.279
+      "prev_date": "2026_10_15",
+      "prev_rate": 17948.0,
+      "diff": 104.0,
+      "change_pct": 0.579
     },
     {
       "country": "Korea",
@@ -58,27 +58,27 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_10_15",
-      "rate": 3.8952,
+      "date": "2026_10_16",
+      "rate": 3.8827,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_10_14",
-      "prev_rate": 3.9042,
-      "diff": -0.009,
-      "change_pct": -0.231
+      "prev_date": "2026_10_15",
+      "prev_rate": 3.8952,
+      "diff": -0.0125,
+      "change_pct": -0.321
     },
     {
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_10_15",
-      "rate": 25642.0,
+      "date": "2026_10_16",
+      "rate": 25637.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_10_14",
-      "prev_rate": 25646.0,
-      "diff": -4.0,
-      "change_pct": -0.016
+      "prev_date": "2026_10_15",
+      "prev_rate": 25642.0,
+      "diff": -5.0,
+      "change_pct": -0.019
     }
   ]
 }

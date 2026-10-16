@@ -1317,6 +1317,7 @@
 3579,2026_10_13,2026_10,Indonesia,IDR,인도네시아 루피아,17930.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-13 08:31:09
 3586,2026_10_14,2026_10,Indonesia,IDR,인도네시아 루피아,17898.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-14 14:36:09
 3592,2026_10_15,2026_10,Indonesia,IDR,인도네시아 루피아,17948.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-15 14:17:28
+3598,2026_10_16,2026_10,Indonesia,IDR,인도네시아 루피아,18052.0,Daily,Bank Indonesia (bi.go.id JISDOR),2026-10-16 14:06:29
 425,2024_12_27,2024_12,Korea,KRW,대한민국 원,1476.0,Daily,"KEB Hana Bank Official Fixing (Market Average Rate, MAR)",2026-10-01 01:53:36
 426,2024_12_30,2024_12,Korea,KRW,대한민국 원,1471.8,Daily,"KEB Hana Bank Official Fixing (Market Average Rate, MAR)",2026-10-01 01:53:36
 427,2024_12_31,2024_12,Korea,KRW,대한민국 원,1477.0,Daily,"KEB Hana Bank Official Fixing (Market Average Rate, MAR)",2026-10-01 01:53:36
@@ -2202,6 +2203,7 @@
 3582,2026_10_13,2026_10,Poland,PLN,폴란드 즐로티,3.9177,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-13 17:03:14
 3587,2026_10_14,2026_10,Poland,PLN,폴란드 즐로티,3.9042,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-14 14:36:09
 3593,2026_10_15,2026_10,Poland,PLN,폴란드 즐로티,3.8952,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-15 14:17:28
+3599,2026_10_16,2026_10,Poland,PLN,폴란드 즐로티,3.8827,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-16 14:06:29
 3445,2025_01_02,2025_01,Vietnam,VND,베트남 동,24335.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-01 06:32:04
 3446,2025_01_03,2025_01,Vietnam,VND,베트남 동,24334.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-01 06:32:04
 3447,2025_02_03,2025_02,Vietnam,VND,베트남 동,24325.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-01 06:32:04
@@ -2657,3 +2659,4 @@
 3581,2026_10_13,2026_10,Vietnam,VND,베트남 동,25633.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-13 17:03:14
 3585,2026_10_14,2026_10,Vietnam,VND,베트남 동,25646.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-14 14:36:09
 3591,2026_10_15,2026_10,Vietnam,VND,베트남 동,25642.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-15 14:17:28
+3597,2026_10_16,2026_10,Vietnam,VND,베트남 동,25637.0,Daily,State Bank of Vietnam (sbv.gov.vn Official Central Rate),2026-10-16 14:06:29

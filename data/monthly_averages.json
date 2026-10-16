@@ -27,10 +27,10 @@
       "country": "Indonesia",
       "currency": "IDR",
       "currency_name": "인도네시아 루피아",
-      "avg_rate": 17908.2727,
+      "avg_rate": 17920.25,
       "min_rate": 17880.0,
-      "max_rate": 17948.0,
-      "data_points": 11
+      "max_rate": 18052.0,
+      "data_points": 12
     },
     {
       "year_month": "2026_10",
@@ -47,20 +47,20 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.9025,
+      "avg_rate": 3.9008,
       "min_rate": 3.8762,
       "max_rate": 3.9211,
-      "data_points": 11
+      "data_points": 12
     },
     {
       "year_month": "2026_10",
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25635.0769,
+      "avg_rate": 25635.2143,
       "min_rate": 25621.0,
       "max_rate": 25646.0,
-      "data_points": 13
+      "data_points": 14
     },
     {
       "year_month": "2026_09",
