@@ -7,10 +7,10 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.729,
-      "min_rate": 6.722,
+      "avg_rate": 6.728,
+      "min_rate": 6.7208,
       "max_rate": 6.7367,
-      "data_points": 7
+      "data_points": 8
     },
     {
       "year_month": "2026_10",
