@@ -19,14 +19,14 @@
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "date": "2026_10_19",
-      "rate": 53.95,
+      "date": "2026_10_20",
+      "rate": 54.5163,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)",
-      "prev_date": "2026_10_18",
-      "prev_rate": 53.5383,
-      "diff": 0.4117,
-      "change_pct": 0.769
+      "prev_date": "2026_10_19",
+      "prev_rate": 53.95,
+      "diff": 0.5663,
+      "change_pct": 1.05
     },
     {
       "country": "Indonesia",
@@ -58,27 +58,27 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_10_19",
-      "rate": 3.8974,
+      "date": "2026_10_20",
+      "rate": 3.8959,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_10_16",
-      "prev_rate": 3.8827,
-      "diff": 0.0147,
-      "change_pct": 0.379
+      "prev_date": "2026_10_19",
+      "prev_rate": 3.8974,
+      "diff": -0.0015,
+      "change_pct": -0.038
     },
     {
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_10_19",
-      "rate": 25633.0,
+      "date": "2026_10_20",
+      "rate": 25639.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_10_17",
-      "prev_rate": 25637.0,
-      "diff": -4.0,
-      "change_pct": -0.016
+      "prev_date": "2026_10_19",
+      "prev_rate": 25633.0,
+      "diff": 6.0,
+      "change_pct": 0.023
     }
   ]
 }
