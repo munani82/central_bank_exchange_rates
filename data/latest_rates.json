@@ -6,14 +6,14 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "date": "2026_10_19",
-      "rate": 6.7208,
+      "date": "2026_10_20",
+      "rate": 6.72,
       "frequency": "Daily",
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)",
-      "prev_date": "2026_10_16",
-      "prev_rate": 6.722,
-      "diff": -0.0012,
-      "change_pct": -0.018
+      "prev_date": "2026_10_19",
+      "prev_rate": 6.7208,
+      "diff": -0.0008,
+      "change_pct": -0.012
     },
     {
       "country": "Egypt",
