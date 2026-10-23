@@ -58,27 +58,27 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_10_22",
-      "rate": 3.8886,
+      "date": "2026_10_23",
+      "rate": 3.9247,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_10_21",
-      "prev_rate": 3.8889,
-      "diff": -0.0003,
-      "change_pct": -0.008
+      "prev_date": "2026_10_22",
+      "prev_rate": 3.8886,
+      "diff": 0.0361,
+      "change_pct": 0.928
     },
     {
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_10_22",
-      "rate": 25632.0,
+      "date": "2026_10_23",
+      "rate": 25627.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_10_21",
-      "prev_rate": 25634.0,
-      "diff": -2.0,
-      "change_pct": -0.008
+      "prev_date": "2026_10_22",
+      "prev_rate": 25632.0,
+      "diff": -5.0,
+      "change_pct": -0.02
     }
   ]
 }

@@ -47,20 +47,20 @@
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.8988,
+      "avg_rate": 3.9003,
       "min_rate": 3.8762,
-      "max_rate": 3.9211,
-      "data_points": 16
+      "max_rate": 3.9247,
+      "data_points": 17
     },
     {
       "year_month": "2026_10",
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25635.1579,
+      "avg_rate": 25634.75,
       "min_rate": 25621.0,
       "max_rate": 25646.0,
-      "data_points": 19
+      "data_points": 20
     },
     {
       "year_month": "2026_09",
