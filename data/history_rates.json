@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2685,
+  "count": 2686,
   "data": [
     {
       "date": "2024_12_27",
@@ -18789,6 +18789,13 @@
       "currency": "VND",
       "rate": 25632.0,
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_10_23",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.718,
+      "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
     },
     {
       "date": "2026_10_23",
