@@ -37,30 +37,30 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1338.7083,
+      "avg_rate": 1338.612,
       "min_rate": 1322.6,
       "max_rate": 1359.6,
-      "data_points": 24
+      "data_points": 25
     },
     {
       "year_month": "2026_10",
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "avg_rate": 3.9076,
+      "avg_rate": 3.9095,
       "min_rate": 3.8762,
       "max_rate": 3.9624,
-      "data_points": 20
+      "data_points": 21
     },
     {
       "year_month": "2026_10",
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25633.875,
+      "avg_rate": 25634.28,
       "min_rate": 25621.0,
       "max_rate": 25646.0,
-      "data_points": 24
+      "data_points": 25
     },
     {
       "year_month": "2026_09",
