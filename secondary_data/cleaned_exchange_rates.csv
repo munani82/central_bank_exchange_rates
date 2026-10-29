@@ -878,6 +878,7 @@
 3630,2026_10_25,2026_10,Egypt,EGP,이집트 파운드,55.8273,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-25 23:40:25
 3635,2026_10_26,2026_10,Egypt,EGP,이집트 파운드,56.2819,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-26 16:14:51
 3640,2026_10_27,2026_10,Egypt,EGP,이집트 파운드,56.1286,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-27 15:28:55
+3645,2026_10_28,2026_10,Egypt,EGP,이집트 파운드,56.129,Daily,Central Bank of Egypt (cbe.org.eg Official Fixing Mid),2026-10-29 01:22:02
 1280,2025_01_02,2025_01,Indonesia,IDR,인도네시아 루피아,16206.5498,Daily,Bank for International Settlements (BIS) / Bank Indonesia (BI),2026-10-01 01:53:36
 1281,2025_01_03,2025_01,Indonesia,IDR,인도네시아 루피아,16218.9047,Daily,Bank for International Settlements (BIS) / Bank Indonesia (BI),2026-10-01 01:53:36
 1282,2025_01_06,2025_01,Indonesia,IDR,인도네시아 루피아,16146.854,Daily,Bank for International Settlements (BIS) / Bank Indonesia (BI),2026-10-01 01:53:36
@@ -1785,7 +1786,7 @@
 3629,2026_10_26,2026_10,Korea,KRW,대한민국 원,1324.3,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing,2026-10-25 23:40:25
 3632,2026_10_27,2026_10,Korea,KRW,대한민국 원,1322.6,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing,2026-10-26 16:14:51
 3637,2026_10_28,2026_10,Korea,KRW,대한민국 원,1324.3,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing,2026-10-27 15:28:55
-3642,2026_10_29,2026_10,Korea,KRW,대한민국 원,1324.3,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing,2026-10-28 16:11:52
+3642,2026_10_29,2026_10,Korea,KRW,대한민국 원,1336.3,Daily,Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing,2026-10-28 16:11:52
 847,2025_01_02,2025_01,Poland,PLN,폴란드 즐로티,4.1219,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-01 01:53:36
 848,2025_01_03,2025_01,Poland,PLN,폴란드 즐로티,4.1512,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-01 01:53:36
 849,2025_01_07,2025_01,Poland,PLN,폴란드 즐로티,4.077,Daily,Narodowy Bank Polski (NBP Official Web API),2026-10-01 01:53:36
