@@ -6,27 +6,27 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "date": "2026_10_29",
-      "rate": 6.7147,
+      "date": "2026_10_30",
+      "rate": 6.7138,
       "frequency": "Daily",
       "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)",
-      "prev_date": "2026_10_28",
-      "prev_rate": 6.7165,
-      "diff": -0.0018,
-      "change_pct": -0.027
+      "prev_date": "2026_10_29",
+      "prev_rate": 6.7147,
+      "diff": -0.0009,
+      "change_pct": -0.013
     },
     {
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "date": "2026_10_28",
-      "rate": 56.129,
+      "date": "2026_10_29",
+      "rate": 56.055,
       "frequency": "Daily",
       "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)",
-      "prev_date": "2026_10_27",
-      "prev_rate": 56.1286,
-      "diff": 0.0004,
-      "change_pct": 0.001
+      "prev_date": "2026_10_28",
+      "prev_rate": 56.129,
+      "diff": -0.074,
+      "change_pct": -0.132
     },
     {
       "country": "Indonesia",
@@ -46,13 +46,13 @@
       "currency": "KRW",
       "currency_name": "대한민국 원",
       "date": "2026_10_30",
-      "rate": 1336.3,
+      "rate": 1335.3,
       "frequency": "Daily",
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing",
       "prev_date": "2026_10_29",
       "prev_rate": 1336.3,
-      "diff": 0.0,
-      "change_pct": 0.0
+      "diff": -1.0,
+      "change_pct": -0.075
     },
     {
       "country": "Poland",
