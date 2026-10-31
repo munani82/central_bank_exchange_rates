@@ -71,14 +71,14 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_10_30",
+      "date": "2026_10_31",
       "rate": 25637.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_10_29",
-      "prev_rate": 25644.0,
-      "diff": -7.0,
-      "change_pct": -0.027
+      "prev_date": "2026_10_30",
+      "prev_rate": 25637.0,
+      "diff": 0.0,
+      "change_pct": 0.0
     }
   ]
 }

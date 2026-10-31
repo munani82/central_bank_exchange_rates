@@ -57,10 +57,10 @@
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "avg_rate": 25634.3846,
+      "avg_rate": 25634.4815,
       "min_rate": 25621.0,
       "max_rate": 25646.0,
-      "data_points": 26
+      "data_points": 27
     },
     {
       "year_month": "2026_09",
