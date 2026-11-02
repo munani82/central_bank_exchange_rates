@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 136,
+  "count": 138,
   "data": [
     {
       "year_month": "2026_11",
@@ -30,6 +30,26 @@
       "avg_rate": 1337.2,
       "min_rate": 1337.2,
       "max_rate": 1337.2,
+      "data_points": 2
+    },
+    {
+      "year_month": "2026_11",
+      "country": "Poland",
+      "currency": "PLN",
+      "currency_name": "폴란드 즐로티",
+      "avg_rate": 3.9389,
+      "min_rate": 3.9389,
+      "max_rate": 3.9389,
+      "data_points": 1
+    },
+    {
+      "year_month": "2026_11",
+      "country": "Vietnam",
+      "currency": "VND",
+      "currency_name": "베트남 동",
+      "avg_rate": 25631.0,
+      "min_rate": 25631.0,
+      "max_rate": 25631.0,
       "data_points": 1
     },
     {
