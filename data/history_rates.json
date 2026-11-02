@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2719,
+  "count": 2720,
   "data": [
     {
       "date": "2024_12_27",
@@ -19027,6 +19027,13 @@
       "currency": "EGP",
       "rate": 55.7884,
       "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)"
+    },
+    {
+      "date": "2026_11_02",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.7146,
+      "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
     },
     {
       "date": "2026_11_02",
