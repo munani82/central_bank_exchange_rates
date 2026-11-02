@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2717,
+  "count": 2719,
   "data": [
     {
       "date": "2024_12_27",
@@ -19020,6 +19020,20 @@
       "currency": "VND",
       "rate": 25637.0,
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)"
+    },
+    {
+      "date": "2026_11_01",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 55.7884,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)"
+    },
+    {
+      "date": "2026_11_02",
+      "country": "Korea",
+      "currency": "KRW",
+      "rate": 1337.2,
+      "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     }
   ]
 }

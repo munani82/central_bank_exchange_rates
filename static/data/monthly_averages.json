@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "count": 133,
+  "count": 135,
   "data": [
+    {
+      "year_month": "2026_11",
+      "country": "Egypt",
+      "currency": "EGP",
+      "currency_name": "이집트 파운드",
+      "avg_rate": 55.7884,
+      "min_rate": 55.7884,
+      "max_rate": 55.7884,
+      "data_points": 1
+    },
+    {
+      "year_month": "2026_11",
+      "country": "Korea",
+      "currency": "KRW",
+      "currency_name": "대한민국 원",
+      "avg_rate": 1337.2,
+      "min_rate": 1337.2,
+      "max_rate": 1337.2,
+      "data_points": 1
+    },
     {
       "year_month": "2026_10",
       "country": "China",
