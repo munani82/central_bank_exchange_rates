@@ -45,40 +45,40 @@
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "date": "2026_11_05",
+      "date": "2026_11_06",
       "rate": 1340.7,
       "frequency": "Daily",
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing",
-      "prev_date": "2026_11_04",
-      "prev_rate": 1341.2,
-      "diff": -0.5,
-      "change_pct": -0.037
+      "prev_date": "2026_11_05",
+      "prev_rate": 1340.7,
+      "diff": 0.0,
+      "change_pct": 0.0
     },
     {
       "country": "Poland",
       "currency": "PLN",
       "currency_name": "폴란드 즐로티",
-      "date": "2026_11_04",
-      "rate": 3.9097,
+      "date": "2026_11_05",
+      "rate": 3.9101,
       "frequency": "Daily",
       "source": "Narodowy Bank Polski (NBP Official Web API)",
-      "prev_date": "2026_11_03",
-      "prev_rate": 3.9526,
-      "diff": -0.0429,
-      "change_pct": -1.085
+      "prev_date": "2026_11_04",
+      "prev_rate": 3.9097,
+      "diff": 0.0004,
+      "change_pct": 0.01
     },
     {
       "country": "Vietnam",
       "currency": "VND",
       "currency_name": "베트남 동",
-      "date": "2026_11_04",
-      "rate": 25627.0,
+      "date": "2026_11_05",
+      "rate": 25623.0,
       "frequency": "Daily",
       "source": "State Bank of Vietnam (sbv.gov.vn Official Central Rate)",
-      "prev_date": "2026_11_03",
-      "prev_rate": 25630.0,
-      "diff": -3.0,
-      "change_pct": -0.012
+      "prev_date": "2026_11_04",
+      "prev_rate": 25627.0,
+      "diff": -4.0,
+      "change_pct": -0.016
     }
   ]
 }
