@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 2738,
+  "count": 2740,
   "data": [
     {
       "date": "2024_12_27",
@@ -19142,6 +19142,13 @@
     },
     {
       "date": "2026_11_05",
+      "country": "Egypt",
+      "currency": "EGP",
+      "rate": 53.9423,
+      "source": "Central Bank of Egypt (cbe.org.eg Official Fixing Mid)"
+    },
+    {
+      "date": "2026_11_05",
       "country": "Korea",
       "currency": "KRW",
       "rate": 1340.7,
@@ -19163,9 +19170,16 @@
     },
     {
       "date": "2026_11_06",
+      "country": "China",
+      "currency": "CNY",
+      "rate": 6.7168,
+      "source": "State Administration of Foreign Exchange (SAFE) / People's Bank of China (PBOC)"
+    },
+    {
+      "date": "2026_11_06",
       "country": "Korea",
       "currency": "KRW",
-      "rate": 1340.7,
+      "rate": 1342.0,
       "source": "Bank of Korea / Seoul Money Brokerage Services (SMBS MAR) / KEB Hana Bank 1st Fixing"
     }
   ]

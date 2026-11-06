@@ -7,29 +7,29 @@
       "country": "China",
       "currency": "CNY",
       "currency_name": "중국 위안",
-      "avg_rate": 6.7158,
+      "avg_rate": 6.716,
       "min_rate": 6.7146,
       "max_rate": 6.718,
-      "data_points": 4
+      "data_points": 5
     },
     {
       "year_month": "2026_11",
       "country": "Egypt",
       "currency": "EGP",
       "currency_name": "이집트 파운드",
-      "avg_rate": 55.3197,
-      "min_rate": 54.7019,
+      "avg_rate": 55.0443,
+      "min_rate": 53.9423,
       "max_rate": 55.7884,
-      "data_points": 4
+      "data_points": 5
     },
     {
       "year_month": "2026_11",
       "country": "Korea",
       "currency": "KRW",
       "currency_name": "대한민국 원",
-      "avg_rate": 1340.16,
+      "avg_rate": 1340.42,
       "min_rate": 1337.2,
-      "max_rate": 1341.2,
+      "max_rate": 1342.0,
       "data_points": 5
     },
     {
